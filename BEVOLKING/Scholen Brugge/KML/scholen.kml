@@ -1,0 +1,5090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Scholen</name>
+<visibility>1</visibility>
+<Schema name="Scholen" id="kml_schema_ft_Scholen">
+<SimpleField type="xsd:string" name="School">
+<displayName>School</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Vestiging_aangepast">
+<displayName>Vestiging_aangepast</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Vestiging">
+<displayName>Vestiging</displayName>
+</SimpleField>
+<SimpleField type="xsd:short" name="Aantal">
+<displayName>Aantal</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Blokcode">
+<displayName>Blokcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Scholen">
+<name>Scholen</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Steinerschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Astridl 86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Astridlaan 86</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>276</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00037</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Steinerschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Astridl 86</SimpleData>
+<SimpleData name="Vestiging">Astridlaan 86</SimpleData>
+<SimpleData name="Aantal">276</SimpleData>
+<SimpleData name="Blokcode">31005WC00037</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24942371110806,51.1985137793371,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>BLO Ganzeveer</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Ganzenstr 13/15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Ganzenstraat 15</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>191</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00207</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">BLO Ganzeveer</SimpleData>
+<SimpleData name="Vestiging_aangepast">Ganzenstr 13/15</SimpleData>
+<SimpleData name="Vestiging">Ganzenstraat 15</SimpleData>
+<SimpleData name="Aantal">191</SimpleData>
+<SimpleData name="Blokcode">31005WH00207</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23519218951309,51.2092795123184,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>SASK</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Katelijnestr 86/88</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Katelijnestraat 86</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1742</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00007</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">SASK</SimpleData>
+<SimpleData name="Vestiging_aangepast">Katelijnestr 86/88</SimpleData>
+<SimpleData name="Vestiging">Katelijnestraat 86</SimpleData>
+<SimpleData name="Aantal">1742</SimpleData>
+<SimpleData name="Blokcode">31005WH00007</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22657072740621,51.2016756145344,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>cvo SNTL</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Arsenaalstr 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Arsenaalstraat 4</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>6510</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00007</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">cvo SNTL</SimpleData>
+<SimpleData name="Vestiging_aangepast">Arsenaalstr 4</SimpleData>
+<SimpleData name="Vestiging">Arsenaalstraat 4</SimpleData>
+<SimpleData name="Aantal">6510</SimpleData>
+<SimpleData name="Blokcode">31005WH00007</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22568274694483,51.2011026721322,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Conservatorium</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Jakobsstr 23/27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Jakobsstraat 23-27</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1510</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00195</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Conservatorium</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Jakobsstr 23/27</SimpleData>
+<SimpleData name="Vestiging">Sint-Jakobsstraat 23-27</SimpleData>
+<SimpleData name="Aantal">1510</SimpleData>
+<SimpleData name="Blokcode">31005WH00195</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22151760419714,51.2094350522,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Europacollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Dijver 10/11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Dijver 11</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>315</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00289</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Europacollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Dijver 10/11</SimpleData>
+<SimpleData name="Vestiging">Dijver 11</SimpleData>
+<SimpleData name="Aantal">315</SimpleData>
+<SimpleData name="Blokcode">31005WH00289</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22627501779853,51.20584346997,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>KHBO</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Xaverianenstr 14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Xaverianenstraat 10</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>3391</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00031</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">KHBO</SimpleData>
+<SimpleData name="Vestiging_aangepast">Xaverianenstr 14</SimpleData>
+<SimpleData name="Vestiging">Xaverianenstraat 10</SimpleData>
+<SimpleData name="Aantal">3391</SimpleData>
+<SimpleData name="Blokcode">31005WM00031</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20381110048044,51.1871497433193,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Howest</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Jorisstr 71</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Jorisstraat 71</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1120</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00132</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Howest</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Jorisstr 71</SimpleData>
+<SimpleData name="Vestiging">Sint-Jorisstraat 71</SimpleData>
+<SimpleData name="Aantal">1120</SimpleData>
+<SimpleData name="Blokcode">31005WH00132</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22049661957341,51.2150884469745,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Howest</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Rijselstr 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Rijselstraat 5</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1648</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00071</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Howest</SimpleData>
+<SimpleData name="Vestiging_aangepast">Rijselstr 5</SimpleData>
+<SimpleData name="Vestiging">Rijselstraat 5</SimpleData>
+<SimpleData name="Aantal">1648</SimpleData>
+<SimpleData name="Blokcode">31005WM00071</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21510327266019,51.1919550355499,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Conservatorium Blijdhove</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Generaal Lemanl 145</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Generaal Lemanlaan 145</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>98</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00014</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Conservatorium Blijdhove</SimpleData>
+<SimpleData name="Vestiging_aangepast">Generaal Lemanl 145</SimpleData>
+<SimpleData name="Vestiging">Generaal Lemanlaan 145</SimpleData>
+<SimpleData name="Aantal">98</SimpleData>
+<SimpleData name="Blokcode">31005WC00014</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24364798083811,51.2019853453404,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Spiegelrei 15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Spiegelrei 15</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>228</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00166</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs</SimpleData>
+<SimpleData name="Vestiging_aangepast">Spiegelrei 15</SimpleData>
+<SimpleData name="Vestiging">Spiegelrei 15</SimpleData>
+<SimpleData name="Aantal">228</SimpleData>
+<SimpleData name="Blokcode">31005WH00166</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22790017721646,51.2126384324845,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs - Brugge De Springplank - De Pannebeke - De Regenboog</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Hugo Losschaertstr 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Hugo Losschaertstraat 5</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>440</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00132</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs - Brugge De Springplank - De Pannebeke - De Regenboog</SimpleData>
+<SimpleData name="Vestiging_aangepast">Hugo Losschaertstr 5</SimpleData>
+<SimpleData name="Vestiging">Hugo Losschaertstraat 5</SimpleData>
+<SimpleData name="Aantal">440</SimpleData>
+<SimpleData name="Blokcode">31005WH00132</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21908226222218,51.2143793985778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs - MANITOBA</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Manitobal 46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Manitobalaan 48</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>242</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00164</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs - MANITOBA</SimpleData>
+<SimpleData name="Vestiging_aangepast">Manitobal 46</SimpleData>
+<SimpleData name="Vestiging">Manitobalaan 48</SimpleData>
+<SimpleData name="Aantal">242</SimpleData>
+<SimpleData name="Blokcode">31005WD00164</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19746935240659,51.1968551520416,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Brieversweg 183</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Brieversweg 185</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>101</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00104</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs</SimpleData>
+<SimpleData name="Vestiging_aangepast">Brieversweg 183</SimpleData>
+<SimpleData name="Vestiging">Brieversweg 185</SimpleData>
+<SimpleData name="Aantal">101</SimpleData>
+<SimpleData name="Blokcode">31005WF00104</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2751816734386,51.2124499832827,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Daverlostr 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Daverlostraat 132</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>431</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00133</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs</SimpleData>
+<SimpleData name="Vestiging_aangepast">Daverlostr 132</SimpleData>
+<SimpleData name="Vestiging">Daverlostraat 132</SimpleData>
+<SimpleData name="Aantal">431</SimpleData>
+<SimpleData name="Blokcode">31005WC00133</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24364400458553,51.1959523289952,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Medisch Pedagogisch Instituut van het Gemeenschapsonderwijs - De Kaproenen</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Kaproenenhof 32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Kaproenenhof 32</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>173</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00164</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Medisch Pedagogisch Instituut van het Gemeenschapsonderwijs - De Kaproenen</SimpleData>
+<SimpleData name="Vestiging_aangepast">Kaproenenhof 32</SimpleData>
+<SimpleData name="Vestiging">Kaproenenhof 32</SimpleData>
+<SimpleData name="Aantal">173</SimpleData>
+<SimpleData name="Blokcode">31005WM00164</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21286413585979,51.1752814299369,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Gerard Davidstr 6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Gerard Davidstraat 6</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>493</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WB00027</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Gerard Davidstr 6</SimpleData>
+<SimpleData name="Vestiging">Gerard Davidstraat 6</SimpleData>
+<SimpleData name="Aantal">493</SimpleData>
+<SimpleData name="Blokcode">31005WB00027</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20711180690146,51.2150203323916,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Lenardsstr 58A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Lenardsstraat 58</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>233</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WE00019</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Lenardsstr 58A</SimpleData>
+<SimpleData name="Vestiging">Sint-Lenardsstraat 58</SimpleData>
+<SimpleData name="Aantal">233</SimpleData>
+<SimpleData name="Blokcode">31005WE00019</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22930253590887,51.2742845463156,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - DE KOMME</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Jozefsstr 6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Jozefsstraat 2</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>145</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WL00068</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - DE KOMME</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Jozefsstr 6</SimpleData>
+<SimpleData name="Vestiging">Sint-Jozefsstraat 2</SimpleData>
+<SimpleData name="Aantal">145</SimpleData>
+<SimpleData name="Blokcode">31005WL00068</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23311071352667,51.2258229183217,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Maartensplein 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Maartensplein 5</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>242</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00171</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Maartensplein 5</SimpleData>
+<SimpleData name="Vestiging">Sint-Maartensplein 5</SimpleData>
+<SimpleData name="Aantal">242</SimpleData>
+<SimpleData name="Blokcode">31005WH00171</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22919721608174,51.2114306683537,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool -Sint-Jozefsinstituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zilverstr 18</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zilverstraat 26</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>173</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00237</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool -Sint-Jozefsinstituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zilverstr 18</SimpleData>
+<SimpleData name="Vestiging">Zilverstraat 26</SimpleData>
+<SimpleData name="Aantal">173</SimpleData>
+<SimpleData name="Blokcode">31005WH00237</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22080618598267,51.2072309652163,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Blankenbergse stwg 219</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Blankenbergse Steenweg 219</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WK00010</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Blankenbergse stwg 219</SimpleData>
+<SimpleData name="Vestiging">Blankenbergse Steenweg 219</SimpleData>
+<SimpleData name="Aantal">224</SimpleData>
+<SimpleData name="Blokcode">31005WK00010</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2057697688757,51.2288136814109,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Potentestr 28</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Potentestraat 28</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>198</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WK00129</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Potentestr 28</SimpleData>
+<SimpleData name="Vestiging">Potentestraat 28</SimpleData>
+<SimpleData name="Aantal">198</SimpleData>
+<SimpleData name="Blokcode">31005WK00129</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20619053957424,51.2228914683041,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Lagere School</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Potterierei 11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Potterierei 11</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>183</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00135</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Lagere School</SimpleData>
+<SimpleData name="Vestiging_aangepast">Potterierei 11</SimpleData>
+<SimpleData name="Vestiging">Potterierei 11</SimpleData>
+<SimpleData name="Aantal">183</SimpleData>
+<SimpleData name="Blokcode">31005WH00135</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23007011436642,51.2142191517699,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool -Oefenschool - Sint-Andreas</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Garenmarkt 8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Garenmarkt 8</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>711</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00289</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool -Oefenschool - Sint-Andreas</SimpleData>
+<SimpleData name="Vestiging_aangepast">Garenmarkt 8</SimpleData>
+<SimpleData name="Vestiging">Garenmarkt 8</SimpleData>
+<SimpleData name="Aantal">711</SimpleData>
+<SimpleData name="Blokcode">31005WH00289</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22747911888462,51.2051864386834,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Gistelse stwg 440</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Gistelse Steenweg 440</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>462</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00157</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Gistelse stwg 440</SimpleData>
+<SimpleData name="Vestiging">Gistelse Steenweg 440</SimpleData>
+<SimpleData name="Aantal">462</SimpleData>
+<SimpleData name="Blokcode">31005WD00157</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18518614789527,51.199227869064,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool -Sint Lodewijkscollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Doornstr 3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Doornstraat 3</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>327</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00181</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool -Sint Lodewijkscollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Doornstr 3</SimpleData>
+<SimpleData name="Vestiging">Doornstraat 3</SimpleData>
+<SimpleData name="Aantal">327</SimpleData>
+<SimpleData name="Blokcode">31005WD00181</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.194970683028,51.1932402104609,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Sint-Lodewijkscollege - afd. Zandstraat</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zandstr 69</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zandstraat 69</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>315</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00145</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Sint-Lodewijkscollege - afd. Zandstraat</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zandstr 69</SimpleData>
+<SimpleData name="Vestiging">Zandstraat 69</SimpleData>
+<SimpleData name="Aantal">315</SimpleData>
+<SimpleData name="Blokcode">31005WD00145</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20146606018537,51.202540647471,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Sint-Lodewijkscollege Afd. Immaculata</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Koningin Astridl 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Koningin Astridlaan 4</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>475</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00064</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Sint-Lodewijkscollege Afd. Immaculata</SimpleData>
+<SimpleData name="Vestiging_aangepast">Koningin Astridl 4</SimpleData>
+<SimpleData name="Vestiging">Koningin Astridlaan 4</SimpleData>
+<SimpleData name="Aantal">475</SimpleData>
+<SimpleData name="Blokcode">31005WM00064</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20826441883954,51.1892285116187,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Sint-Lodewijkscollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Spoorwegstr 250</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Spoorwegstraat 250</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>185</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Sint-Lodewijkscollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Spoorwegstr 250</SimpleData>
+<SimpleData name="Vestiging">Spoorwegstraat 250</SimpleData>
+<SimpleData name="Aantal">185</SimpleData>
+<SimpleData name="Blokcode">31005WM00108</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22305189381258,51.1829375905053,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Gemeentelijke Basisschool - De Triangel</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Diksmuidse Heerweg 159</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Diksmuidse Heerweg 159</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>328</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00173</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Gemeentelijke Basisschool - De Triangel</SimpleData>
+<SimpleData name="Vestiging_aangepast">Diksmuidse Heerweg 159</SimpleData>
+<SimpleData name="Vestiging">Diksmuidse Heerweg 159</SimpleData>
+<SimpleData name="Aantal">328</SimpleData>
+<SimpleData name="Blokcode">31005WD00173</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19536113307598,51.1958295134236,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Lagere School</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>De Linde 96</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>De Linde 94</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>140</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Lagere School</SimpleData>
+<SimpleData name="Vestiging_aangepast">De Linde 96</SimpleData>
+<SimpleData name="Vestiging">De Linde 94</SimpleData>
+<SimpleData name="Aantal">140</SimpleData>
+<SimpleData name="Blokcode">31005WF00108</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28196496170572,51.2103466378954,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Lagere School</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Fortuinstr 29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Fortuinstraat 29</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>384</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00135</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Lagere School</SimpleData>
+<SimpleData name="Vestiging_aangepast">Fortuinstr 29</SimpleData>
+<SimpleData name="Vestiging">Fortuinstraat 29</SimpleData>
+<SimpleData name="Aantal">384</SimpleData>
+<SimpleData name="Blokcode">31005WF00135</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25504853967158,51.2073602195143,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Collegestr 24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Collegestraat 24_bi</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>207</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00073</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Collegestr 24</SimpleData>
+<SimpleData name="Vestiging">Collegestraat 24_bi</SimpleData>
+<SimpleData name="Aantal">207</SimpleData>
+<SimpleData name="Blokcode">31005WC00073</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25046947206429,51.2035971129132,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - OLVA De Meersen</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Astridl 400</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Astridlaan 400</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>201</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00136</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - OLVA De Meersen</SimpleData>
+<SimpleData name="Vestiging_aangepast">Astridl 400</SimpleData>
+<SimpleData name="Vestiging">Astridlaan 400</SimpleData>
+<SimpleData name="Aantal">201</SimpleData>
+<SimpleData name="Blokcode">31005WC00136</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26796098039822,51.1923987422338,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Katarinastr 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Katarinastraat 132</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>372</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00126</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Katarinastr 132</SimpleData>
+<SimpleData name="Vestiging">Sint-Katarinastraat 132</SimpleData>
+<SimpleData name="Aantal">372</SimpleData>
+<SimpleData name="Blokcode">31005WC00126</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23701584104549,51.1969957764013,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Baron Ruzettel 439</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Baron Ruzettelaan 439</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>260</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00169</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Baron Ruzettel 439</SimpleData>
+<SimpleData name="Vestiging">Baron Ruzettelaan 439</SimpleData>
+<SimpleData name="Aantal">260</SimpleData>
+<SimpleData name="Blokcode">31005WC00169</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23618499967866,51.1819041377087,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Gemeentelijke Basisschool-Ter Poorten</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Stationsstr 25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Stationsstraat 25</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>137</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WA00020</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Gemeentelijke Basisschool-Ter Poorten</SimpleData>
+<SimpleData name="Vestiging_aangepast">Stationsstr 25</SimpleData>
+<SimpleData name="Vestiging">Stationsstraat 25</SimpleData>
+<SimpleData name="Aantal">137</SimpleData>
+<SimpleData name="Blokcode">31005WA00020</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19536863246423,51.2943566171681,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool-De Lisblomme</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zeebruggel 43</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zeebruggelaan 41</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>236</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WA00023</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool-De Lisblomme</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zeebruggel 43</SimpleData>
+<SimpleData name="Vestiging">Zeebruggelaan 41</SimpleData>
+<SimpleData name="Aantal">236</SimpleData>
+<SimpleData name="Blokcode">31005WA00023</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19150336036233,51.2937180076241,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zustersstr 9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zustersstraat 9</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>219</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WJ00033</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zustersstr 9</SimpleData>
+<SimpleData name="Vestiging">Zustersstraat 9</SimpleData>
+<SimpleData name="Aantal">219</SimpleData>
+<SimpleData name="Blokcode">31005WJ00033</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20830443919991,51.3302760729287,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool voor Buitengewoon Onderwijs -Koninklijk Instituut Spermalie</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Snaggaardstr 9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Snaggaardstraat 9</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>120</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool voor Buitengewoon Onderwijs -Koninklijk Instituut Spermalie</SimpleData>
+<SimpleData name="Vestiging_aangepast">Snaggaardstr 9</SimpleData>
+<SimpleData name="Vestiging">Snaggaardstraat 9</SimpleData>
+<SimpleData name="Aantal">120</SimpleData>
+<SimpleData name="Blokcode">31005WH00108</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2317627619547,51.2160837947349,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Gemeentelijke Lagere School voor Buitengewoon Onderwijs -De Ganzenveer</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Ganzenstr 13/15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Ganzenstraat 15</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>165</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00207</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Gemeentelijke Lagere School voor Buitengewoon Onderwijs -De Ganzenveer</SimpleData>
+<SimpleData name="Vestiging_aangepast">Ganzenstr 13/15</SimpleData>
+<SimpleData name="Vestiging">Ganzenstraat 15</SimpleData>
+<SimpleData name="Aantal">165</SimpleData>
+<SimpleData name="Blokcode">31005WH00207</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23519218951309,51.2092795123184,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool voor Buitengewoon Onderwijs -Het Noordveld</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Noordveldstr 31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Noordveldstraat 31</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>112</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00136</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool voor Buitengewoon Onderwijs -Het Noordveld</SimpleData>
+<SimpleData name="Vestiging_aangepast">Noordveldstr 31</SimpleData>
+<SimpleData name="Vestiging">Noordveldstraat 31</SimpleData>
+<SimpleData name="Aantal">112</SimpleData>
+<SimpleData name="Blokcode">31005WD00136</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19791181286344,51.2042159863931,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool voor Buitengewoon Onderwijs - Het Anker</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Beisbroekdr 27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Beisbroekdreef 12</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>99</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00231</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool voor Buitengewoon Onderwijs - Het Anker</SimpleData>
+<SimpleData name="Vestiging_aangepast">Beisbroekdr 27</SimpleData>
+<SimpleData name="Vestiging">Beisbroekdreef 12</SimpleData>
+<SimpleData name="Aantal">99</SimpleData>
+<SimpleData name="Blokcode">31005WD00231</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.14356996416128,51.1795456976114,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool voor Buitengewoon Onderwijs - De Berkjes</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Torhoutse stwg 511</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Torhoutse Steenweg 511</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>44</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00186</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool voor Buitengewoon Onderwijs - De Berkjes</SimpleData>
+<SimpleData name="Vestiging_aangepast">Torhoutse stwg 511</SimpleData>
+<SimpleData name="Vestiging">Torhoutse Steenweg 511</SimpleData>
+<SimpleData name="Aantal">44</SimpleData>
+<SimpleData name="Blokcode">31005WM00186</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18865548434362,51.1808527634101,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool voor Buitengewoon Onderwijs -Ter Dreve Type 2</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Koning Albert I-l 188A</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Koning Albert I-laan 188</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>59</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00117</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool voor Buitengewoon Onderwijs -Ter Dreve Type 2</SimpleData>
+<SimpleData name="Vestiging_aangepast">Koning Albert I-l 188A</SimpleData>
+<SimpleData name="Vestiging">Koning Albert I-laan 188</SimpleData>
+<SimpleData name="Aantal">59</SimpleData>
+<SimpleData name="Blokcode">31005WM00117</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20384078208604,51.18152605372,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Lagere School voor Buitengewoon Onderwijs - De Spycker</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Polderstr 76</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Polderstraat 78</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00067</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Lagere School voor Buitengewoon Onderwijs - De Spycker</SimpleData>
+<SimpleData name="Vestiging_aangepast">Polderstr 76</SimpleData>
+<SimpleData name="Vestiging">Polderstraat 78</SimpleData>
+<SimpleData name="Aantal">200</SimpleData>
+<SimpleData name="Blokcode">31005WF00067</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25114334379791,51.2193649159249,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Lagere School voor Buitengewoon Onderwijs - De Boomgaard</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Kristoffelstr 125B</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Kristoffelstraat 125_B</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>93</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00073</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Lagere School voor Buitengewoon Onderwijs - De Boomgaard</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Kristoffelstr 125B</SimpleData>
+<SimpleData name="Vestiging">Sint-Kristoffelstraat 125_B</SimpleData>
+<SimpleData name="Aantal">93</SimpleData>
+<SimpleData name="Blokcode">31005WC00073</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25343300908081,51.2031696733644,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - De Zonnetuin</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Beeweg 32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Beeweg 32</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>476</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00004</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - De Zonnetuin</SimpleData>
+<SimpleData name="Vestiging_aangepast">Beeweg 32</SimpleData>
+<SimpleData name="Vestiging">Beeweg 32</SimpleData>
+<SimpleData name="Aantal">476</SimpleData>
+<SimpleData name="Blokcode">31005WF00004</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27107615197508,51.2026614679884,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Guido Gezelleschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Astridl 86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Astridlaan 86</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>171</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00037</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Guido Gezelleschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Astridl 86</SimpleData>
+<SimpleData name="Vestiging">Astridlaan 86</SimpleData>
+<SimpleData name="Aantal">171</SimpleData>
+<SimpleData name="Blokcode">31005WC00037</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24942371110806,51.1985137793371,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Gemeentelijke Basisschool_-St. Michiels</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Rijselstr 71</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Rijselstraat 71</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>456</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00028</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Gemeentelijke Basisschool_-St. Michiels</SimpleData>
+<SimpleData name="Vestiging_aangepast">Rijselstr 71</SimpleData>
+<SimpleData name="Vestiging">Rijselstraat 71</SimpleData>
+<SimpleData name="Aantal">456</SimpleData>
+<SimpleData name="Blokcode">31005WM00028</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21162208657553,51.187685370712,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Het Palet</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Mariastr 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Mariastraat 7</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>330</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00259</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Het Palet</SimpleData>
+<SimpleData name="Vestiging_aangepast">Mariastr 7</SimpleData>
+<SimpleData name="Vestiging">Mariastraat 7</SimpleData>
+<SimpleData name="Aantal">330</SimpleData>
+<SimpleData name="Blokcode">31005WH00259</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22388882117412,51.2057300030921,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs -Freinetschool De Tandem</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Leopold Debruynestr 56</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Leopold Debruynestraat 56</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>172</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00007</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs -Freinetschool De Tandem</SimpleData>
+<SimpleData name="Vestiging_aangepast">Leopold Debruynestr 56</SimpleData>
+<SimpleData name="Vestiging">Leopold Debruynestraat 56</SimpleData>
+<SimpleData name="Aantal">172</SimpleData>
+<SimpleData name="Blokcode">31005WF00007</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25100951513669,51.2116260643012,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool - Mozaiek</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Pastorieweg 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Pastorieweg 4</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>366</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00067</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool - Mozaiek</SimpleData>
+<SimpleData name="Vestiging_aangepast">Pastorieweg 4</SimpleData>
+<SimpleData name="Vestiging">Pastorieweg 4</SimpleData>
+<SimpleData name="Aantal">366</SimpleData>
+<SimpleData name="Blokcode">31005WF00067</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25048336188807,51.2153351824239,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Smallestr 2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Smallestraat 2</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>334</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WG00017</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Basisschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Smallestr 2</SimpleData>
+<SimpleData name="Vestiging">Smallestraat 2</SimpleData>
+<SimpleData name="Aantal">334</SimpleData>
+<SimpleData name="Blokcode">31005WG00017</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24979553085339,51.2421696400959,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Basisschool van het Gemeenschapsonderwijs - Freinetschool "De Boomhut"</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Koning Leopold III-l 100</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Koning Leopold III-laan 102</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>207</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00192</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Basisschool van het Gemeenschapsonderwijs - Freinetschool "De Boomhut"</SimpleData>
+<SimpleData name="Vestiging_aangepast">Koning Leopold III-l 100</SimpleData>
+<SimpleData name="Vestiging">Koning Leopold III-laan 102</SimpleData>
+<SimpleData name="Aantal">207</SimpleData>
+<SimpleData name="Blokcode">31005WD00192</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18576270071643,51.1898711519715,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrije Kleuterschool</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Fortuinstr 29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Fortuinstraat 29</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>180</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00135</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrije Kleuterschool</SimpleData>
+<SimpleData name="Vestiging_aangepast">Fortuinstr 29</SimpleData>
+<SimpleData name="Vestiging">Fortuinstraat 29</SimpleData>
+<SimpleData name="Aantal">180</SimpleData>
+<SimpleData name="Blokcode">31005WF00135</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25504853967158,51.2073602195143,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Jozefsinstituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zilverstr 18</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zilverstraat 26</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>704</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00237</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Jozefsinstituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zilverstr 18</SimpleData>
+<SimpleData name="Vestiging">Zilverstraat 26</SimpleData>
+<SimpleData name="Aantal">704</SimpleData>
+<SimpleData name="Blokcode">31005WH00237</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22080618598267,51.2072309652163,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrij Technisch Instituut Brugge</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Boeveriestr 73</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Boeveriestraat 73</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1210</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00013</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrij Technisch Instituut Brugge</SimpleData>
+<SimpleData name="Vestiging_aangepast">Boeveriestr 73</SimpleData>
+<SimpleData name="Vestiging">Boeveriestraat 73</SimpleData>
+<SimpleData name="Aantal">1210</SimpleData>
+<SimpleData name="Blokcode">31005WH00013</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2165303989481,51.2011575429197,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Technisch Instituut Heilige Familie</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Oude Zak 44</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Oude Zak 38</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1479</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00030</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Technisch Instituut Heilige Familie</SimpleData>
+<SimpleData name="Vestiging_aangepast">Oude Zak 44</SimpleData>
+<SimpleData name="Vestiging">Oude Zak 38</SimpleData>
+<SimpleData name="Aantal">1479</SimpleData>
+<SimpleData name="Blokcode">31005WH00030</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21701411343674,51.2101097703361,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Hotel- en Toerismeschool Spermalie</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Snaggaardstr 15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Snaggaardstraat 15</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>738</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Hotel- en Toerismeschool Spermalie</SimpleData>
+<SimpleData name="Vestiging_aangepast">Snaggaardstr 15</SimpleData>
+<SimpleData name="Vestiging">Snaggaardstraat 15</SimpleData>
+<SimpleData name="Aantal">738</SimpleData>
+<SimpleData name="Blokcode">31005WH00108</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2326115021513,51.2160096717862,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Leocollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Potterierei 11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Potterierei 11</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>680</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00135</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Leocollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Potterierei 11</SimpleData>
+<SimpleData name="Vestiging">Potterierei 11</SimpleData>
+<SimpleData name="Aantal">680</SimpleData>
+<SimpleData name="Blokcode">31005WH00135</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23007011436642,51.2142191517699,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Franciscus-Xaveriusinstituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Mariastr 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Mariastraat 7</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>928</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00259</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Franciscus-Xaveriusinstituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Mariastr 7</SimpleData>
+<SimpleData name="Vestiging">Mariastraat 7</SimpleData>
+<SimpleData name="Aantal">928</SimpleData>
+<SimpleData name="Blokcode">31005WH00259</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22388882117412,51.2057300030921,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Lyceum Hemelsdaele</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Wapenmakersstr 14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Wapenmakersstraat 14</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>362</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00029</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Lyceum Hemelsdaele</SimpleData>
+<SimpleData name="Vestiging_aangepast">Wapenmakersstr 14</SimpleData>
+<SimpleData name="Vestiging">Wapenmakersstraat 14</SimpleData>
+<SimpleData name="Aantal">362</SimpleData>
+<SimpleData name="Blokcode">31005WH00029</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22727609510869,51.2104699984766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Andreasinstituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Garenmarkt 8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Garenmarkt 8</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>426</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00289</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Andreasinstituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Garenmarkt 8</SimpleData>
+<SimpleData name="Vestiging">Garenmarkt 8</SimpleData>
+<SimpleData name="Aantal">426</SimpleData>
+<SimpleData name="Blokcode">31005WH00289</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22747911888462,51.2051864386834,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Jozefsinstituut - ASO</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Noordzandstr 76</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Noordzandstraat 76</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>639</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00044</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Jozefsinstituut - ASO</SimpleData>
+<SimpleData name="Vestiging_aangepast">Noordzandstr 76</SimpleData>
+<SimpleData name="Vestiging">Noordzandstraat 76</SimpleData>
+<SimpleData name="Aantal">639</SimpleData>
+<SimpleData name="Blokcode">31005WH00044</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21818750701998,51.2069667937522,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Onze-Lieve-Vrouwecollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Collegestr 24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Collegestraat 24</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>666</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00073</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Onze-Lieve-Vrouwecollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Collegestr 24</SimpleData>
+<SimpleData name="Vestiging">Collegestraat 24</SimpleData>
+<SimpleData name="Aantal">666</SimpleData>
+<SimpleData name="Blokcode">31005WC00073</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25046947206429,51.2035971129132,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Abdijschool van Zevenkerken</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Zevenkerken 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Zevenkerken 4</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>298</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00232</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Abdijschool van Zevenkerken</SimpleData>
+<SimpleData name="Vestiging_aangepast">Zevenkerken 4</SimpleData>
+<SimpleData name="Vestiging">Zevenkerken 4</SimpleData>
+<SimpleData name="Aantal">298</SimpleData>
+<SimpleData name="Blokcode">31005WD00232</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.15905635372939,51.159452551624,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Onze-Lieve-Vrouw-Hemelvaart Instituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Doornstr 3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Doornstraat 3</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>576</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00181</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Onze-Lieve-Vrouw-Hemelvaart Instituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Doornstr 3</SimpleData>
+<SimpleData name="Vestiging">Doornstraat 3</SimpleData>
+<SimpleData name="Aantal">576</SimpleData>
+<SimpleData name="Blokcode">31005WD00181</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.194970683028,51.1932402104609,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Andreaslyceum</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Fortuinstr 29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Fortuinstraat 29</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>686</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00135</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Andreaslyceum</SimpleData>
+<SimpleData name="Vestiging_aangepast">Fortuinstr 29</SimpleData>
+<SimpleData name="Vestiging">Fortuinstraat 29</SimpleData>
+<SimpleData name="Aantal">686</SimpleData>
+<SimpleData name="Blokcode">31005WF00135</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25504853967158,51.2073602195143,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Immaculata-Instituut</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Koningin Astridl 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Koningin Astridlaan 4</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>452</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00064</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Immaculata-Instituut</SimpleData>
+<SimpleData name="Vestiging_aangepast">Koningin Astridl 4</SimpleData>
+<SimpleData name="Vestiging">Koningin Astridlaan 4</SimpleData>
+<SimpleData name="Aantal">452</SimpleData>
+<SimpleData name="Blokcode">31005WM00064</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20826441883954,51.1892285116187,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Hotelschool Ter Groene Poorte</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Spoorwegstr 14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Spoorwegstraat 14</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>734</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00009</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Hotelschool Ter Groene Poorte</SimpleData>
+<SimpleData name="Vestiging_aangepast">Spoorwegstr 14</SimpleData>
+<SimpleData name="Vestiging">Spoorwegstraat 14</SimpleData>
+<SimpleData name="Aantal">734</SimpleData>
+<SimpleData name="Blokcode">31005WM00009</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21677678680783,51.1914742028918,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrij Handels- en Sportinst. St.-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Spoorwegstr 14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Spoorwegstraat 14</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>629</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00009</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrij Handels- en Sportinst. St.-Michiels</SimpleData>
+<SimpleData name="Vestiging_aangepast">Spoorwegstr 14</SimpleData>
+<SimpleData name="Vestiging">Spoorwegstraat 14</SimpleData>
+<SimpleData name="Aantal">629</SimpleData>
+<SimpleData name="Blokcode">31005WM00009</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21677678680783,51.1914742028918,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>M.S.G.O. V Assebroek - Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Daverlostr 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Daverlostraat 132</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>146</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00133</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">M.S.G.O. V Assebroek - Sint-Kruis</SimpleData>
+<SimpleData name="Vestiging_aangepast">Daverlostr 132</SimpleData>
+<SimpleData name="Vestiging">Daverlostraat 132</SimpleData>
+<SimpleData name="Aantal">146</SimpleData>
+<SimpleData name="Blokcode">31005WC00133</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24364400458553,51.1959523289952,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>K.A. I</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>St-Clarastr 46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Sint-Clarastraat 46</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>347</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00106</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">K.A. I</SimpleData>
+<SimpleData name="Vestiging_aangepast">St-Clarastr 46</SimpleData>
+<SimpleData name="Vestiging">Sint-Clarastraat 46</SimpleData>
+<SimpleData name="Aantal">347</SimpleData>
+<SimpleData name="Blokcode">31005WH00106</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22387405421352,51.2161073654171,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>K.A. III</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Daverlostr 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Daverlostraat 132</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>208</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00133</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">K.A. III</SimpleData>
+<SimpleData name="Vestiging_aangepast">Daverlostr 132</SimpleData>
+<SimpleData name="Vestiging">Daverlostraat 132</SimpleData>
+<SimpleData name="Aantal">208</SimpleData>
+<SimpleData name="Blokcode">31005WC00133</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24364400458553,51.1959523289952,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>K.A. II</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Vijverhofl 13</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Vijverhoflaan 13</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>226</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00086</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">K.A. II</SimpleData>
+<SimpleData name="Vestiging_aangepast">Vijverhofl 13</SimpleData>
+<SimpleData name="Vestiging">Vijverhoflaan 13</SimpleData>
+<SimpleData name="Aantal">226</SimpleData>
+<SimpleData name="Blokcode">31005WM00086</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21704679779697,51.1853140049257,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>K.T.A.</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Rijselstr 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Rijselstraat 7</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1197</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00071</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">K.T.A.</SimpleData>
+<SimpleData name="Vestiging_aangepast">Rijselstr 5</SimpleData>
+<SimpleData name="Vestiging">Rijselstraat 7</SimpleData>
+<SimpleData name="Aantal">1197</SimpleData>
+<SimpleData name="Blokcode">31005WM00071</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21510327266019,51.1919550355499,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>M.S.G.O. Brugge Centrum</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Hugo Losschaertstr 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Hugo Losschaertstraat 5_A</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>162</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00132</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">M.S.G.O. Brugge Centrum</SimpleData>
+<SimpleData name="Vestiging_aangepast">Hugo Losschaertstr 5</SimpleData>
+<SimpleData name="Vestiging">Hugo Losschaertstraat 5_A</SimpleData>
+<SimpleData name="Aantal">162</SimpleData>
+<SimpleData name="Blokcode">31005WH00132</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21908226222218,51.2143793985778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>kml_80</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Ter Groene Poorte (brood- & banketbakk.)</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Groene-Poortdr 17</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Groene-Poortdreef 17</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>572</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00009</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Ter Groene Poorte (brood- &amp; banketbakk.)</SimpleData>
+<SimpleData name="Vestiging_aangepast">Groene-Poortdr 17</SimpleData>
+<SimpleData name="Vestiging">Groene-Poortdreef 17</SimpleData>
+<SimpleData name="Aantal">572</SimpleData>
+<SimpleData name="Blokcode">31005WM00009</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21549564080943,51.1897338498152,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>kml_81</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Stedelijke Academie voor Schone Kunsten</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Katelijnestr 86/88</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Katelijnestraat 86</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>384</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00007</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Stedelijke Academie voor Schone Kunsten</SimpleData>
+<SimpleData name="Vestiging_aangepast">Katelijnestr 86/88</SimpleData>
+<SimpleData name="Vestiging">Katelijnestraat 86</SimpleData>
+<SimpleData name="Aantal">384</SimpleData>
+<SimpleData name="Blokcode">31005WH00007</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22657072740621,51.2016756145344,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>kml_82</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Hogere Beroepsopl. Verpl St.Jan-St.Jozef</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Koning Albert I-l 8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Koning Albert I-laan 6</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>491</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00048</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Hogere Beroepsopl. Verpl St.Jan-St.Jozef</SimpleData>
+<SimpleData name="Vestiging_aangepast">Koning Albert I-l 8</SimpleData>
+<SimpleData name="Vestiging">Koning Albert I-laan 6</SimpleData>
+<SimpleData name="Aantal">491</SimpleData>
+<SimpleData name="Blokcode">31005WM00048</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20937852419786,51.196346743889,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>kml_83</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Instituut Mariawende-Blydhove</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Boogschuttersl 25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Boogschutterslaan 25</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>672</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WF00067</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Instituut Mariawende-Blydhove</SimpleData>
+<SimpleData name="Vestiging_aangepast">Boogschuttersl 25</SimpleData>
+<SimpleData name="Vestiging">Boogschutterslaan 25</SimpleData>
+<SimpleData name="Aantal">672</SimpleData>
+<SimpleData name="Blokcode">31005WF00067</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2488396243053,51.2157078435239,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>kml_84</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrij Technisch Instituut-Brugge MS</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Boeveriestr 73</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Boeveriestraat 73</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>262</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00013</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrij Technisch Instituut-Brugge MS</SimpleData>
+<SimpleData name="Vestiging_aangepast">Boeveriestr 73</SimpleData>
+<SimpleData name="Vestiging">Boeveriestraat 73</SimpleData>
+<SimpleData name="Aantal">262</SimpleData>
+<SimpleData name="Blokcode">31005WH00013</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2165303989481,51.2011575429197,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>kml_85</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Lodewijkscollege</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Magdalenastr 30</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Magdalenastraat 30</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>1218</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00037</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Lodewijkscollege</SimpleData>
+<SimpleData name="Vestiging_aangepast">Magdalenastr 30</SimpleData>
+<SimpleData name="Vestiging">Magdalenastraat 30</SimpleData>
+<SimpleData name="Aantal">1218</SimpleData>
+<SimpleData name="Blokcode">31005WD00037</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21153305001807,51.199907006583,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>kml_86</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Sint-Lodewijkscollege Eerste Graad</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Magdalenastr 30</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Magdalenastraat 30</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>138</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00037</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Sint-Lodewijkscollege Eerste Graad</SimpleData>
+<SimpleData name="Vestiging_aangepast">Magdalenastr 30</SimpleData>
+<SimpleData name="Vestiging">Magdalenastraat 30</SimpleData>
+<SimpleData name="Aantal">138</SimpleData>
+<SimpleData name="Blokcode">31005WD00037</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21153305001807,51.199907006583,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>kml_87</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Vrij Technisch Instituut Brugge</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Boeveriestr 73</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Boeveriestraat 73</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>174</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00013</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Vrij Technisch Instituut Brugge</SimpleData>
+<SimpleData name="Vestiging_aangepast">Boeveriestr 73</SimpleData>
+<SimpleData name="Vestiging">Boeveriestraat 73</SimpleData>
+<SimpleData name="Aantal">174</SimpleData>
+<SimpleData name="Blokcode">31005WH00013</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2165303989481,51.2011575429197,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_88">
+<name>kml_88</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>K.T.A.</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Rijselstr 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Rijselstraat 7</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>141</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00071</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">K.T.A.</SimpleData>
+<SimpleData name="Vestiging_aangepast">Rijselstr 5</SimpleData>
+<SimpleData name="Vestiging">Rijselstraat 7</SimpleData>
+<SimpleData name="Aantal">141</SimpleData>
+<SimpleData name="Blokcode">31005WM00071</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21510327266019,51.1919550355499,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_89">
+<name>kml_89</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>S.S.B.O.G.O. De Varens</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Nieuwe St-Annadr 25/27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Nieuwe St.-Annadreef 27</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>353</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WD00194</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">S.S.B.O.G.O. De Varens</SimpleData>
+<SimpleData name="Vestiging_aangepast">Nieuwe St-Annadr 25/27</SimpleData>
+<SimpleData name="Vestiging">Nieuwe St.-Annadreef 27</SimpleData>
+<SimpleData name="Aantal">353</SimpleData>
+<SimpleData name="Blokcode">31005WD00194</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17413203876489,51.1902861135845,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_90">
+<name>kml_90</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Bu.S.O. Ravelijn</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Barrierestr 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Barrièrestraat 4_a</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WM00048</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Bu.S.O. Ravelijn</SimpleData>
+<SimpleData name="Vestiging_aangepast">Barrierestr 4</SimpleData>
+<SimpleData name="Vestiging">Barrièrestraat 4_a</SimpleData>
+<SimpleData name="Aantal">142</SimpleData>
+<SimpleData name="Blokcode">31005WM00048</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2067815928465,51.1945690520933,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_91">
+<name>kml_91</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>Bu.S.O. Haverlo</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Weidestr 156</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Weidestraat 156</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>359</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WC00130</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">Bu.S.O. Haverlo</SimpleData>
+<SimpleData name="Vestiging_aangepast">Weidestr 156</SimpleData>
+<SimpleData name="Vestiging">Weidestraat 156</SimpleData>
+<SimpleData name="Aantal">359</SimpleData>
+<SimpleData name="Blokcode">31005WC00130</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24297468844358,51.1931913640931,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_92">
+<name>kml_92</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>School</th>
+<td>BuSO Secundaire School Spermalie</td>
+</tr><tr bgcolor="">
+<th>Vestiging_aangepast</th>
+<td>Potterierei 45</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vestiging</th>
+<td>Potterierei 46</td>
+</tr><tr bgcolor="">
+<th>Aantal</th>
+<td>191</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Blokcode</th>
+<td>31005WH00108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Scholen">
+<SimpleData name="School">BuSO Secundaire School Spermalie</SimpleData>
+<SimpleData name="Vestiging_aangepast">Potterierei 45</SimpleData>
+<SimpleData name="Vestiging">Potterierei 46</SimpleData>
+<SimpleData name="Aantal">191</SimpleData>
+<SimpleData name="Blokcode">31005WH00108</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2290091874876,51.2164849095072,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

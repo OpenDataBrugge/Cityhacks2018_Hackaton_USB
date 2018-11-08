@@ -1,0 +1,688 @@
+[
+{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":1958
+,"Naam_schoo":"GO! basisschool Brugge Centrum"
+,"Niveau":"2"
+,"Vpl_adres":"Vrijdagmarkt 12"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69458.68
+,"Yco":211201.39
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21628950882656,51.2051596792261]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":1958
+,"Naam_schoo":"GO! basisschool Brugge Centrum"
+,"Niveau":"2"
+,"Vpl_adres":"Spiegelrei 15"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70293.94
+,"Yco":212004.23
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22806242005235,51.2124911433325]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":1974
+,"Naam_schoo":"GO! basisschool De Springplank Brugge"
+,"Niveau":"2"
+,"Vpl_adres":"Hugo Losschaertstraat 5_B"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69734.25
+,"Yco":212221.25
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22000517796727,51.2143635083481]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":1974
+,"Naam_schoo":"GO! basisschool De Springplank Brugge"
+,"Niveau":"2"
+,"Vpl_adres":"Pannebekestraat 34"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70476.02
+,"Yco":213555.24
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23032876010705,51.2264550427548]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":1974
+,"Naam_schoo":"GO! basisschool De Springplank Brugge"
+,"Niveau":"2"
+,"Vpl_adres":"Karel Ledeganckstraat 3"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68904.6
+,"Yco":213593.14
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20782797625685,51.2265770987632]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":2071
+,"Naam_schoo":"GO! basisschool Manitoba Sint-Andries"
+,"Niveau":"2"
+,"Vpl_adres":"Manitobalaan 48"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":68112.53
+,"Yco":210275.01
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19723851042929,51.1966449067194]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":2154
+,"Naam_schoo":"GO! basisschool De Linde Sint-Kruis"
+,"Niveau":"2"
+,"Vpl_adres":"Brieversweg 185"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":73578.93
+,"Yco":211898.11
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27509117239358,51.2119804547192]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":2162
+,"Naam_schoo":"GO! basisschool Jan Fevijn"
+,"Niveau":"2"
+,"Vpl_adres":"Gemeneweideweg-Zuid 121"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":72970.83
+,"Yco":210730.65
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26663619445336,51.2014074991709]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":2162
+,"Naam_schoo":"GO! basisschool Jan Fevijn"
+,"Niveau":"2"
+,"Vpl_adres":"Daverlostraat 132"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":71372.75
+,"Yco":210070.43
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24391889114418,51.1952591111267]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16865
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Gerard Davidstraat 57"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68746.24
+,"Yco":212463.62
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20581337724858,51.2164034697388]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16865
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Kardinaal Mercierstraat 56"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69472.74
+,"Yco":212581.64
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21618416928686,51.2175664818648]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16865
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Gerard Davidstraat 6"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68897.45
+,"Yco":212304.86
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20801274688481,51.2149985255572]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16873
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Sint-Lenardsstraat 58"
+,"Vpl_postnu":8380
+,"Vpl_fusieg":"Brugge"
+,"Xco":70440.26
+,"Yco":218845.95
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22865361871206,51.2739996651395]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16881
+,"Naam_schoo":"Vrije Basisschool - DE KOMME"
+,"Niveau":"2"
+,"Vpl_adres":"Ronsaardbekestraat 57"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70685.39
+,"Yco":213470.08
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23334390232261,51.2257191808686]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16899
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Sint-Maartensplein 5"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70367.57
+,"Yco":211851.34
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22914924593087,51.2111272252178]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16931
+,"Naam_schoo":"Vrije Basisschool -           Sint-Jozefsinstituut"
+,"Niveau":"2"
+,"Vpl_adres":"Groenestraat 27"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69518.42
+,"Yco":211819.31
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21700637370927,51.2107210475952]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16931
+,"Naam_schoo":"Vrije Basisschool -           Sint-Jozefsinstituut"
+,"Niveau":"2"
+,"Vpl_adres":"Zilverstraat 26"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69781.92
+,"Yco":211411.03
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22086684866505,51.2070884936592]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16949
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Oostendse Steenweg 82"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68718.35
+,"Yco":213191.85
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20525169916667,51.2229442954606]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16949
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Blankenbergse Steenweg 219"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68761.91
+,"Yco":213843.67
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20572924135099,51.2288092856482]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16956
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Palingstraat 34"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68860.78
+,"Yco":214094.46
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20708841623669,51.231076593175]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16956
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Potentestraat 28"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":68774.24
+,"Yco":213197.9
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20604922888934,51.223006602315]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16964
+,"Naam_schoo":"Vrije Lagere School - Sint-Leocollege"
+,"Niveau":"2"
+,"Vpl_adres":"Potterierei 11"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70386.87
+,"Yco":212202.85
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22934880790736,51.2142881683616]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":16981
+,"Naam_schoo":"Vrije Basisschool -           Sint-Andreas"
+,"Niveau":"2"
+,"Vpl_adres":"Garenmarkt 8"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":70355.17
+,"Yco":211209.67
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22911302881974,51.2053581190833]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17541
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Koude-Keukenstraat 10"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":67140.09
+,"Yco":210510.86
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18327573459254,51.1986252995411]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17541
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Gistelse Steenweg 440"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":67330.22
+,"Yco":210485.07
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18600155779113,51.1984208244882]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17558
+,"Naam_schoo":"Vrije Basisschool -           Sint-Lodewijkscollege"
+,"Niveau":"2"
+,"Vpl_adres":"Doornstraat 3"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":67953.45
+,"Yco":209890.65
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19504993982464,51.1931674669352]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17566
+,"Naam_schoo":"Vrije Basisschool - Sint-Lode-wijkscollege - afd. Zandstraat"
+,"Niveau":"2"
+,"Vpl_adres":"Zandstraat 69"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":68435.63
+,"Yco":210922.03
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20171593465349,51.2025055086886]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17574
+,"Naam_schoo":"Vrije Basisschool - Sint-Lode-wijkscollege Afd. Immaculata"
+,"Niveau":"2"
+,"Vpl_adres":"Koningin Astridlaan 4"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":68925.96
+,"Yco":209421.45
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20906455035639,51.1890875069747]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17582
+,"Naam_schoo":"Vrije Basisschool - Sint-     Lodewijkscollege"
+,"Niveau":"2"
+,"Vpl_adres":"Spoorwegstraat 250"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":69865.26
+,"Yco":208657.49
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22266794253452,51.1823527556341]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17591
+,"Naam_schoo":"Gemeentelijke Basisschool - DeTriangel"
+,"Niveau":"2"
+,"Vpl_adres":"Diksmuidse Heerweg 159"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":67981.25
+,"Yco":210172.56
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19538451347974,51.1957052252009]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17889
+,"Naam_schoo":"Vrije Basisschool - Kantelberg"
+,"Niveau":"2"
+,"Vpl_adres":"De Linde 94"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":74030.92
+,"Yco":211787.5
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28158149722331,51.2110460064641]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17905
+,"Naam_schoo":"Vrije Lagere School"
+,"Niveau":"2"
+,"Vpl_adres":"Fortuinstraat 29"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":72161.03
+,"Yco":211485.99
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2548909247691,51.208088285732]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17921
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Collegestraat 24_BI"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":71994.32
+,"Yco":211061.98
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25259539640376,51.2042540415074]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17939
+,"Naam_schoo":"Vrije Basisschool - OLVA De   Meersen"
+,"Niveau":"2"
+,"Vpl_adres":"Astridlaan 400"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":73071.53
+,"Yco":209750.79
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2682859808168,51.1926144739196]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17947
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Sint-Katarinastraat 132"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":70882.85
+,"Yco":210278.47
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23686480179167,51.1970621812059]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":17954
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Baron Ruzettelaan 439"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":70792.38
+,"Yco":208593.02
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23593980991522,51.1819012658967]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":18036
+,"Naam_schoo":"Gemeentelijke Basisschool -   Brugge-Noord"
+,"Niveau":"2"
+,"Vpl_adres":"Stationsstraat 25"
+,"Vpl_postnu":8380
+,"Vpl_fusieg":"Brugge"
+,"Xco":68149.98
+,"Yco":221107.24
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19532765329144,51.2940010938443]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":18036
+,"Naam_schoo":"Gemeentelijke Basisschool -   Brugge-Noord"
+,"Niveau":"2"
+,"Vpl_adres":"Damse Steenweg 30"
+,"Vpl_postnu":8380
+,"Vpl_fusieg":"Brugge"
+,"Xco":70696.35
+,"Yco":218975.31
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23229534119165,51.275196960449]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":18044
+,"Naam_schoo":"Vrije Basisschool-De Lisblomme"
+,"Niveau":"2"
+,"Vpl_adres":"Zeebruggelaan 41"
+,"Vpl_postnu":8380
+,"Vpl_fusieg":"Brugge"
+,"Xco":67863.86
+,"Yco":221095.14
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19122825785697,51.2938514956603]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":18051
+,"Naam_schoo":"Vrije Basisschool Roezemoes"
+,"Niveau":"2"
+,"Vpl_adres":"Zustersstraat 9"
+,"Vpl_postnu":8380
+,"Vpl_fusieg":"Brugge"
+,"Xco":69129.12
+,"Yco":225168.15
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20845268255733,51.3306350740731]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":45898
+,"Naam_schoo":"Vrije Basisschool - De        Zonnetuin"
+,"Niveau":"2"
+,"Vpl_adres":"Beeweg 32"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":73281.29
+,"Yco":210858.51
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27105178641201,51.2025981426858]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":46185
+,"Naam_schoo":"Vrije Basisschool - Guido     Gezelleschool"
+,"Niveau":"2"
+,"Vpl_adres":"Astridlaan 86"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":71769.65
+,"Yco":210432.62
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24951830575643,51.1985674601306]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":46201
+,"Naam_schoo":"Gemeentelijke Basisschool -   Sint-Michiels"
+,"Niveau":"2"
+,"Vpl_adres":"Sint-Michielslaan 33"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":69701
+,"Yco":208376.5
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22037972166297,51.1798042217314]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":46201
+,"Naam_schoo":"Gemeentelijke Basisschool -   Sint-Michiels"
+,"Niveau":"2"
+,"Vpl_adres":"Rijselstraat 71"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":69090.45
+,"Yco":209271.75
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21145041620106,51.1877654474864]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":105825
+,"Naam_schoo":"Vrije Basisschool - Het Palet"
+,"Niveau":"2"
+,"Vpl_adres":"Mariastraat 7"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":69985.64
+,"Yco":211266.04
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22381479862123,51.2058133611994]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":109851
+,"Naam_schoo":"GO! freinetschool De Tandem Sint-Kruis"
+,"Niveau":"2"
+,"Vpl_adres":"Leopold Debruynestraat 56"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":71885.24
+,"Yco":211887.1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25085749245479,51.2116553949888]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":110271
+,"Naam_schoo":"Vrije Basisschool - Mozaiek"
+,"Niveau":"2"
+,"Vpl_adres":"Pastorieweg 4"
+,"Vpl_postnu":8310
+,"Vpl_fusieg":"Brugge"
+,"Xco":71812.4
+,"Yco":212296.65
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24972703624073,51.2153263497162]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":110429
+,"Naam_schoo":"Vrije Basisschool"
+,"Niveau":"2"
+,"Vpl_adres":"Smallestraat 2"
+,"Vpl_postnu":8000
+,"Vpl_fusieg":"Brugge"
+,"Xco":71858.62
+,"Yco":215298.86
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24974217338993,51.2423146277254]}
+}
+,{
+"json_featuretype":"Lagere_scholen_Brugge"
+,"Nummer_sch":113621
+,"Naam_schoo":"GO! freinetschool De Boomhut Sint-Andries"
+,"Niveau":"2"
+,"Vpl_adres":"Koning Leopold III-laan 102"
+,"Vpl_postnu":8200
+,"Vpl_fusieg":"Brugge"
+,"Xco":67353.14
+,"Yco":209579.93
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18653583329291,51.1902897626603]}
+}
+]

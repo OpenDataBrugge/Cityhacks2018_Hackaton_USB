@@ -1,0 +1,3322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Lagere_scholen_Brugge</name>
+<visibility>1</visibility>
+<Schema name="Lagere_scholen_Brugge" id="kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleField type="xsd:double" name="Nummer_sch">
+<displayName>Nummer_sch</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Naam_schoo">
+<displayName>Naam_schoo</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Niveau">
+<displayName>Niveau</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Vpl_adres">
+<displayName>Vpl_adres</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Vpl_postnu">
+<displayName>Vpl_postnu</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Vpl_fusieg">
+<displayName>Vpl_fusieg</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Xco">
+<displayName>Xco</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Yco">
+<displayName>Yco</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Lagere_scholen_Brugge">
+<name>Lagere_scholen_Brugge</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>1958</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool Brugge Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Vrijdagmarkt 12</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69458.68</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211201.39</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">1958</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool Brugge Centrum</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Vrijdagmarkt 12</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69458.68</SimpleData>
+<SimpleData name="Yco">211201.39</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21628950882656,51.2051596792261,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>1958</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool Brugge Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Spiegelrei 15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70293.94</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212004.23</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">1958</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool Brugge Centrum</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Spiegelrei 15</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70293.94</SimpleData>
+<SimpleData name="Yco">212004.23</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22806242005235,51.2124911433325,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>1974</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool De Springplank Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Hugo Losschaertstraat 5_B</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69734.25</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212221.25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">1974</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool De Springplank Brugge</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Hugo Losschaertstraat 5_B</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69734.25</SimpleData>
+<SimpleData name="Yco">212221.25</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22000517796727,51.2143635083481,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>1974</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool De Springplank Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Pannebekestraat 34</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70476.02</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213555.24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">1974</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool De Springplank Brugge</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Pannebekestraat 34</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70476.02</SimpleData>
+<SimpleData name="Yco">213555.24</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23032876010705,51.2264550427548,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>1974</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool De Springplank Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Karel Ledeganckstraat 3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68904.6</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213593.14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">1974</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool De Springplank Brugge</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Karel Ledeganckstraat 3</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68904.6</SimpleData>
+<SimpleData name="Yco">213593.14</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20782797625685,51.2265770987632,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>2071</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool Manitoba Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Manitobalaan 48</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68112.53</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210275.01</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">2071</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool Manitoba Sint-Andries</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Manitobalaan 48</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68112.53</SimpleData>
+<SimpleData name="Yco">210275.01</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19723851042929,51.1966449067194,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>2154</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool De Linde Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Brieversweg 185</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>73578.93</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211898.11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">2154</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool De Linde Sint-Kruis</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Brieversweg 185</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">73578.93</SimpleData>
+<SimpleData name="Yco">211898.11</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27509117239358,51.2119804547192,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>2162</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool Jan Fevijn</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Gemeneweideweg-Zuid 121</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>72970.83</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210730.65</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">2162</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool Jan Fevijn</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Gemeneweideweg-Zuid 121</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">72970.83</SimpleData>
+<SimpleData name="Yco">210730.65</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26663619445336,51.2014074991709,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>2162</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! basisschool Jan Fevijn</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Daverlostraat 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71372.75</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210070.43</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">2162</SimpleData>
+<SimpleData name="Naam_schoo">GO! basisschool Jan Fevijn</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Daverlostraat 132</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71372.75</SimpleData>
+<SimpleData name="Yco">210070.43</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24391889114418,51.1952591111267,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16865</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Gerard Davidstraat 57</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68746.24</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212463.62</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16865</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Gerard Davidstraat 57</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68746.24</SimpleData>
+<SimpleData name="Yco">212463.62</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20581337724858,51.2164034697388,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16865</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Kardinaal Mercierstraat 56</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69472.74</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212581.64</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16865</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Kardinaal Mercierstraat 56</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69472.74</SimpleData>
+<SimpleData name="Yco">212581.64</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21618416928686,51.2175664818648,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16865</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Gerard Davidstraat 6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68897.45</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212304.86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16865</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Gerard Davidstraat 6</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68897.45</SimpleData>
+<SimpleData name="Yco">212304.86</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20801274688481,51.2149985255572,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16873</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Sint-Lenardsstraat 58</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70440.26</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>218845.95</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16873</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Sint-Lenardsstraat 58</SimpleData>
+<SimpleData name="Vpl_postnu">8380</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70440.26</SimpleData>
+<SimpleData name="Yco">218845.95</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22865361871206,51.2739996651395,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16881</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - DE KOMME</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Ronsaardbekestraat 57</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70685.39</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213470.08</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16881</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - DE KOMME</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Ronsaardbekestraat 57</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70685.39</SimpleData>
+<SimpleData name="Yco">213470.08</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23334390232261,51.2257191808686,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16899</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Sint-Maartensplein 5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70367.57</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211851.34</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16899</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Sint-Maartensplein 5</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70367.57</SimpleData>
+<SimpleData name="Yco">211851.34</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22914924593087,51.2111272252178,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16931</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool -           Sint-Jozefsinstituut</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Groenestraat 27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69518.42</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211819.31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16931</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool -           Sint-Jozefsinstituut</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Groenestraat 27</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69518.42</SimpleData>
+<SimpleData name="Yco">211819.31</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21700637370927,51.2107210475952,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16931</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool -           Sint-Jozefsinstituut</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Zilverstraat 26</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69781.92</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211411.03</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16931</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool -           Sint-Jozefsinstituut</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Zilverstraat 26</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69781.92</SimpleData>
+<SimpleData name="Yco">211411.03</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22086684866505,51.2070884936592,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16949</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Oostendse Steenweg 82</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68718.35</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213191.85</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16949</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Oostendse Steenweg 82</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68718.35</SimpleData>
+<SimpleData name="Yco">213191.85</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20525169916667,51.2229442954606,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16949</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Blankenbergse Steenweg 219</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68761.91</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213843.67</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16949</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Blankenbergse Steenweg 219</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68761.91</SimpleData>
+<SimpleData name="Yco">213843.67</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20572924135099,51.2288092856482,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16956</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Palingstraat 34</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68860.78</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>214094.46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16956</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Palingstraat 34</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68860.78</SimpleData>
+<SimpleData name="Yco">214094.46</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20708841623669,51.231076593175,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16956</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Potentestraat 28</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68774.24</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>213197.9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16956</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Potentestraat 28</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68774.24</SimpleData>
+<SimpleData name="Yco">213197.9</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20604922888934,51.223006602315,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16964</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Lagere School - Sint-Leocollege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Potterierei 11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70386.87</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212202.85</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16964</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Lagere School - Sint-Leocollege</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Potterierei 11</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70386.87</SimpleData>
+<SimpleData name="Yco">212202.85</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22934880790736,51.2142881683616,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>16981</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool -           Sint-Andreas</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Garenmarkt 8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70355.17</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211209.67</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">16981</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool -           Sint-Andreas</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Garenmarkt 8</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70355.17</SimpleData>
+<SimpleData name="Yco">211209.67</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22911302881974,51.2053581190833,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17541</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Koude-Keukenstraat 10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67140.09</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210510.86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17541</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Koude-Keukenstraat 10</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67140.09</SimpleData>
+<SimpleData name="Yco">210510.86</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18327573459254,51.1986252995411,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17541</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Gistelse Steenweg 440</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67330.22</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210485.07</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17541</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Gistelse Steenweg 440</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67330.22</SimpleData>
+<SimpleData name="Yco">210485.07</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18600155779113,51.1984208244882,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17558</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool -           Sint-Lodewijkscollege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Doornstraat 3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67953.45</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>209890.65</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17558</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool -           Sint-Lodewijkscollege</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Doornstraat 3</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67953.45</SimpleData>
+<SimpleData name="Yco">209890.65</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19504993982464,51.1931674669352,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17566</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Sint-Lode-wijkscollege - afd. Zandstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Zandstraat 69</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68435.63</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210922.03</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17566</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Sint-Lode-wijkscollege - afd. Zandstraat</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Zandstraat 69</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68435.63</SimpleData>
+<SimpleData name="Yco">210922.03</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20171593465349,51.2025055086886,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17574</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Sint-Lode-wijkscollege Afd. Immaculata</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Koningin Astridlaan 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68925.96</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>209421.45</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17574</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Sint-Lode-wijkscollege Afd. Immaculata</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Koningin Astridlaan 4</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68925.96</SimpleData>
+<SimpleData name="Yco">209421.45</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20906455035639,51.1890875069747,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17582</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Sint-     Lodewijkscollege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Spoorwegstraat 250</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69865.26</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>208657.49</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17582</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Sint-     Lodewijkscollege</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Spoorwegstraat 250</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69865.26</SimpleData>
+<SimpleData name="Yco">208657.49</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22266794253452,51.1823527556341,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17591</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Gemeentelijke Basisschool - DeTriangel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Diksmuidse Heerweg 159</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67981.25</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210172.56</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17591</SimpleData>
+<SimpleData name="Naam_schoo">Gemeentelijke Basisschool - DeTriangel</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Diksmuidse Heerweg 159</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67981.25</SimpleData>
+<SimpleData name="Yco">210172.56</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19538451347974,51.1957052252009,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17889</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Kantelberg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>De Linde 94</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>74030.92</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211787.5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17889</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Kantelberg</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">De Linde 94</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">74030.92</SimpleData>
+<SimpleData name="Yco">211787.5</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28158149722331,51.2110460064641,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17905</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Lagere School</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Fortuinstraat 29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>72161.03</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211485.99</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17905</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Lagere School</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Fortuinstraat 29</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">72161.03</SimpleData>
+<SimpleData name="Yco">211485.99</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2548909247691,51.208088285732,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17921</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Collegestraat 24_BI</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71994.32</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211061.98</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17921</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Collegestraat 24_BI</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71994.32</SimpleData>
+<SimpleData name="Yco">211061.98</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25259539640376,51.2042540415074,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17939</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - OLVA De   Meersen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Astridlaan 400</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>73071.53</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>209750.79</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17939</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - OLVA De   Meersen</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Astridlaan 400</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">73071.53</SimpleData>
+<SimpleData name="Yco">209750.79</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2682859808168,51.1926144739196,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17947</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Sint-Katarinastraat 132</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70882.85</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210278.47</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17947</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Sint-Katarinastraat 132</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70882.85</SimpleData>
+<SimpleData name="Yco">210278.47</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23686480179167,51.1970621812059,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>17954</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Baron Ruzettelaan 439</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70792.38</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>208593.02</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">17954</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Baron Ruzettelaan 439</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70792.38</SimpleData>
+<SimpleData name="Yco">208593.02</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23593980991522,51.1819012658967,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>18036</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Gemeentelijke Basisschool -   Brugge-Noord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Stationsstraat 25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>68149.98</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>221107.24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">18036</SimpleData>
+<SimpleData name="Naam_schoo">Gemeentelijke Basisschool -   Brugge-Noord</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Stationsstraat 25</SimpleData>
+<SimpleData name="Vpl_postnu">8380</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">68149.98</SimpleData>
+<SimpleData name="Yco">221107.24</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19532765329144,51.2940010938443,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>18036</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Gemeentelijke Basisschool -   Brugge-Noord</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Damse Steenweg 30</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>70696.35</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>218975.31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">18036</SimpleData>
+<SimpleData name="Naam_schoo">Gemeentelijke Basisschool -   Brugge-Noord</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Damse Steenweg 30</SimpleData>
+<SimpleData name="Vpl_postnu">8380</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">70696.35</SimpleData>
+<SimpleData name="Yco">218975.31</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23229534119165,51.275196960449,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>18044</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool-De Lisblomme</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Zeebruggelaan 41</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67863.86</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>221095.14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">18044</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool-De Lisblomme</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Zeebruggelaan 41</SimpleData>
+<SimpleData name="Vpl_postnu">8380</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67863.86</SimpleData>
+<SimpleData name="Yco">221095.14</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19122825785697,51.2938514956603,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>18051</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool Roezemoes</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Zustersstraat 9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69129.12</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>225168.15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">18051</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool Roezemoes</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Zustersstraat 9</SimpleData>
+<SimpleData name="Vpl_postnu">8380</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69129.12</SimpleData>
+<SimpleData name="Yco">225168.15</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20845268255733,51.3306350740731,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>45898</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - De        Zonnetuin</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Beeweg 32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>73281.29</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210858.51</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">45898</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - De        Zonnetuin</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Beeweg 32</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">73281.29</SimpleData>
+<SimpleData name="Yco">210858.51</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27105178641201,51.2025981426858,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>46185</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Guido     Gezelleschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Astridlaan 86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71769.65</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>210432.62</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">46185</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Guido     Gezelleschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Astridlaan 86</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71769.65</SimpleData>
+<SimpleData name="Yco">210432.62</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24951830575643,51.1985674601306,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>46201</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Gemeentelijke Basisschool -   Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Sint-Michielslaan 33</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69701</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>208376.5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">46201</SimpleData>
+<SimpleData name="Naam_schoo">Gemeentelijke Basisschool -   Sint-Michiels</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Sint-Michielslaan 33</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69701</SimpleData>
+<SimpleData name="Yco">208376.5</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22037972166297,51.1798042217314,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>46201</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Gemeentelijke Basisschool -   Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Rijselstraat 71</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69090.45</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>209271.75</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">46201</SimpleData>
+<SimpleData name="Naam_schoo">Gemeentelijke Basisschool -   Sint-Michiels</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Rijselstraat 71</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69090.45</SimpleData>
+<SimpleData name="Yco">209271.75</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21145041620106,51.1877654474864,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>105825</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Het Palet</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Mariastraat 7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>69985.64</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211266.04</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">105825</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Het Palet</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Mariastraat 7</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">69985.64</SimpleData>
+<SimpleData name="Yco">211266.04</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22381479862123,51.2058133611994,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>109851</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! freinetschool De Tandem Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Leopold Debruynestraat 56</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71885.24</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>211887.1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">109851</SimpleData>
+<SimpleData name="Naam_schoo">GO! freinetschool De Tandem Sint-Kruis</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Leopold Debruynestraat 56</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71885.24</SimpleData>
+<SimpleData name="Yco">211887.1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25085749245479,51.2116553949888,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>110271</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool - Mozaiek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Pastorieweg 4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71812.4</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>212296.65</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">110271</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool - Mozaiek</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Pastorieweg 4</SimpleData>
+<SimpleData name="Vpl_postnu">8310</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71812.4</SimpleData>
+<SimpleData name="Yco">212296.65</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24972703624073,51.2153263497162,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>110429</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>Vrije Basisschool</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Smallestraat 2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>71858.62</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>215298.86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">110429</SimpleData>
+<SimpleData name="Naam_schoo">Vrije Basisschool</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Smallestraat 2</SimpleData>
+<SimpleData name="Vpl_postnu">8000</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">71858.62</SimpleData>
+<SimpleData name="Yco">215298.86</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24974217338993,51.2423146277254,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer_sch</th>
+<td>113621</td>
+</tr><tr bgcolor="">
+<th>Naam_schoo</th>
+<td>GO! freinetschool De Boomhut Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Niveau</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Vpl_adres</th>
+<td>Koning Leopold III-laan 102</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vpl_postnu</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Vpl_fusieg</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Xco</th>
+<td>67353.14</td>
+</tr><tr bgcolor="">
+<th>Yco</th>
+<td>209579.93</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lagere_scholen_Brugge">
+<SimpleData name="Nummer_sch">113621</SimpleData>
+<SimpleData name="Naam_schoo">GO! freinetschool De Boomhut Sint-Andries</SimpleData>
+<SimpleData name="Niveau">2</SimpleData>
+<SimpleData name="Vpl_adres">Koning Leopold III-laan 102</SimpleData>
+<SimpleData name="Vpl_postnu">8200</SimpleData>
+<SimpleData name="Vpl_fusieg">Brugge</SimpleData>
+<SimpleData name="Xco">67353.14</SimpleData>
+<SimpleData name="Yco">209579.93</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18653583329291,51.1902897626603,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

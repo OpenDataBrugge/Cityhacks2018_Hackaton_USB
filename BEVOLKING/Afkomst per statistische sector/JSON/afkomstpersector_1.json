@@ -1,0 +1,832 @@
+[
+{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ABDIJ ZEVENKERKE"
+,"Belg":44
+,"Niet-Belg":11
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ACHTERHAVEN"
+,"Belg":13
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ASSEBROEKSE MEERSEN"
+,"Belg":88
+,"Niet-Belg":1
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ASSUMPTA"
+,"Belg":1047
+,"Niet-Belg":48
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ASTRIDPARK"
+,"Belg":1517
+,"Niet-Belg":789
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"AZ SINT-JAN"
+,"Belg":5
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BEGIJNHOFBUURT"
+,"Belg":658
+,"Niet-Belg":47
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BLAUW HUIS"
+,"Belg":1516
+,"Niet-Belg":78
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BLAUWE TOREN"
+,"Belg":182
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BLOEDPUT"
+,"Belg":1172
+,"Niet-Belg":169
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BOMMELBEEK"
+,"Belg":922
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BOUDEWIJNPARK"
+,"Belg":502
+,"Niet-Belg":19
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BRAAMBEIERHOEK"
+,"Belg":1
+,"Niet-Belg":4
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BRUGEOISE"
+,"Belg":133
+,"Niet-Belg":6
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BRUGGE-CENTRUM - BELFORT"
+,"Belg":819
+,"Niet-Belg":257
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BRUGSE KERKHOF"
+,"Belg":689
+,"Niet-Belg":10
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"BUITENHAVEN"
+,"Belg":4
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"CANADABRUG"
+,"Belg":1055
+,"Niet-Belg":99
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DAMPOORT"
+,"Belg":767
+,"Niet-Belg":26
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DAVERLOO"
+,"Belg":368
+,"Niet-Belg":4
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DE GALGE"
+,"Belg":404
+,"Niet-Belg":17
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DE LINDE"
+,"Belg":1413
+,"Niet-Belg":44
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DE MOTE"
+,"Belg":951
+,"Niet-Belg":13
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DEN BROUCK"
+,"Belg":204
+,"Niet-Belg":3
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DOKKEN"
+,"Belg":312
+,"Niet-Belg":105
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DRIEHOEK"
+,"Belg":1142
+,"Niet-Belg":69
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DUDZEDE-VERSPR. BEWONING-ZUID"
+,"Belg":931
+,"Niet-Belg":18
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DUDZELE-CENTRUM"
+,"Belg":652
+,"Niet-Belg":11
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"DUIVENSLAG"
+,"Belg":590
+,"Niet-Belg":10
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ENGELENDALELAAN"
+,"Belg":473
+,"Niet-Belg":3
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"FORT LAPIN"
+,"Belg":633
+,"Niet-Belg":38
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"FORTUINSTRAAT"
+,"Belg":903
+,"Niet-Belg":48
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"GENTWEG"
+,"Belg":1842
+,"Niet-Belg":228
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"GEZELLEKWARTIER"
+,"Belg":1812
+,"Niet-Belg":245
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"GODELIEVE - KERK"
+,"Belg":944
+,"Niet-Belg":32
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"INDUSTRIEPARK"
+,"Belg":203
+,"Niet-Belg":10
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KAAS EN BROOD - DOORNHAAG"
+,"Belg":1560
+,"Niet-Belg":88
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KAPELLEWEG"
+,"Belg":215
+,"Niet-Belg":6
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KARTUIZERSWIJK"
+,"Belg":1592
+,"Niet-Belg":172
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KOOLKERKE-CENTRUM"
+,"Belg":462
+,"Niet-Belg":10
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KOOLKERKE-VERSPREIDE BEWONING"
+,"Belg":590
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KOOLKERKE-ZUID-OOST"
+,"Belg":1442
+,"Niet-Belg":36
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KOUDE KEUKEN"
+,"Belg":1805
+,"Niet-Belg":158
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KRISTUS-KONING"
+,"Belg":1791
+,"Niet-Belg":160
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"KRUISABELE"
+,"Belg":538
+,"Niet-Belg":18
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"LANGE VESTING"
+,"Belg":1170
+,"Niet-Belg":124
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"LEOPOLDWIJK"
+,"Belg":1508
+,"Niet-Belg":32
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"LISSEWEGE-CENTRUM"
+,"Belg":587
+,"Niet-Belg":15
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"LISSEWEGE-VERSPREIDE BEWONING"
+,"Belg":191
+,"Niet-Belg":4
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"LUTGARDIS"
+,"Belg":358
+,"Niet-Belg":11
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MALEHOEK"
+,"Belg":2134
+,"Niet-Belg":101
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MALEHOEK-WEST"
+,"Belg":1063
+,"Niet-Belg":49
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MALEVELD - DOOLHOF"
+,"Belg":110
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MANITOBALAAN"
+,"Belg":408
+,"Niet-Belg":21
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MEERSENSTRAAT"
+,"Belg":1480
+,"Niet-Belg":31
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MIL.DOM.-ZEEBRUGGE-HAVENGEBIED"
+,"Belg":1
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"MOLENDORP"
+,"Belg":885
+,"Niet-Belg":27
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"NOORDVELD KASTEEL"
+,"Belg":1473
+,"Niet-Belg":119
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"NOORDVELDE"
+,"Belg":396
+,"Niet-Belg":6
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"NOORWEGSE KAAI"
+,"Belg":1115
+,"Niet-Belg":26
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"OLYMPIAPARK"
+,"Belg":234
+,"Niet-Belg":8
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"OPPERHOF"
+,"Belg":869
+,"Niet-Belg":35
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"PASTORIESTRAAT"
+,"Belg":617
+,"Niet-Belg":5
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"POLDERHOEK"
+,"Belg":452
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"PUTTERIE"
+,"Belg":605
+,"Niet-Belg":35
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"RIJKSSPORTCENTRUM"
+,"Belg":1070
+,"Niet-Belg":34
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ROMBAUTS - WIJK"
+,"Belg":698
+,"Niet-Belg":8
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"RUBENSLAAN"
+,"Belg":665
+,"Niet-Belg":30
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SANDERSKWARTIER"
+,"Belg":1048
+,"Niet-Belg":37
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SCHAAPSKLAUW"
+,"Belg":694
+,"Niet-Belg":7
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-ANDRIES - CENTRUM"
+,"Belg":2279
+,"Niet-Belg":77
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-ANNA IN DE WOESTIJN"
+,"Belg":217
+,"Niet-Belg":7
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-BAAFS"
+,"Belg":3594
+,"Niet-Belg":231
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-GILLIS"
+,"Belg":2060
+,"Niet-Belg":306
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-JOZEF"
+,"Belg":1748
+,"Niet-Belg":71
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-JOZEF KLINIEK"
+,"Belg":1800
+,"Niet-Belg":167
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-KATARINA - KATELIJNEPOORT"
+,"Belg":2278
+,"Niet-Belg":111
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-KRUIS - CENTRUM"
+,"Belg":2048
+,"Niet-Belg":84
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-KRUIS - KRUISPORT"
+,"Belg":1920
+,"Niet-Belg":159
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-MICHIELS-CENTRUM"
+,"Belg":1247
+,"Niet-Belg":63
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-PIETERS - MOLEN"
+,"Belg":1393
+,"Niet-Belg":46
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-PIETERS - WIJNENBERG"
+,"Belg":1823
+,"Niet-Belg":102
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-PIETERS - ZEVENEKE"
+,"Belg":1632
+,"Niet-Belg":65
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-SALVATOR"
+,"Belg":939
+,"Niet-Belg":143
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SINT-WALBURGA"
+,"Belg":701
+,"Niet-Belg":224
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SMEDENPOORT"
+,"Belg":1501
+,"Niet-Belg":185
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"SPEIEN"
+,"Belg":45
+,"Niet-Belg":2
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"STATIESTRAAT"
+,"Belg":41
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"STEENBRUGGE"
+,"Belg":1076
+,"Niet-Belg":39
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"STOKVELDEWIJK"
+,"Belg":2408
+,"Niet-Belg":45
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"STUBBEKWARTIER"
+,"Belg":1387
+,"Niet-Belg":111
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"STUIVENBERG"
+,"Belg":169
+,"Niet-Belg":6
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"'T FORTUINTJE - VELTEM"
+,"Belg":918
+,"Niet-Belg":24
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"'T LEITJE"
+,"Belg":956
+,"Niet-Belg":19
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"'T PEERDJE"
+,"Belg":2202
+,"Niet-Belg":67
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"'T SPEELHOF"
+,"Belg":512
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"TEN BERGE"
+,"Belg":36
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"TER LUCHT - TER WIND"
+,"Belg":39
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"TILLEGEM"
+,"Belg":535
+,"Niet-Belg":3
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"TIRE"
+,"Belg":1066
+,"Niet-Belg":47
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"VEEMARKT"
+,"Belg":1293
+,"Niet-Belg":99
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"VERRE ASSEBROEK"
+,"Belg":916
+,"Niet-Belg":22
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"VOGELZANG"
+,"Belg":1194
+,"Niet-Belg":20
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"VOSSENSTEERT"
+,"Belg":1227
+,"Niet-Belg":17
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"WAGGELWATER"
+,"Belg":50
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"WATERGANG"
+,"Belg":621
+,"Niet-Belg":9
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"WEIDEBEEK"
+,"Belg":42
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"XAVERIANEN"
+,"Belg":604
+,"Niet-Belg":20
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEBRUGGE - DE MOLE"
+,"Belg":713
+,"Niet-Belg":195
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEBRUGGE - DORP"
+,"Belg":1672
+,"Niet-Belg":145
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEBRUGGE - MIJN"
+,"Belg":840
+,"Niet-Belg":182
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEBRUGGE - STATION"
+,"Belg":558
+,"Niet-Belg":47
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEBRUGGE POLDER - STROOIEN"
+,"Belg":1
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEELAAN"
+,"Belg":47
+,"Niet-Belg":8
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEEWEGE"
+,"Belg":726
+,"Niet-Belg":18
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEVEKOTE"
+,"Belg":2767
+,"Niet-Belg":100
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEVENBERGEN"
+,"Belg":2173
+,"Niet-Belg":49
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZEVENTOREN"
+,"Belg":1642
+,"Niet-Belg":37
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZWANEKERKE"
+,"Belg":81
+,"Niet-Belg":20
+,"Aangemaakt op":"22/11/2017"
+}
+,{
+"json_featuretype":"afkomstpersector"
+,"Sector":"ZWANKERDAMME"
+,"Belg":667
+,"Niet-Belg":27
+,"Aangemaakt op":"22/11/2017"
+}
+]
