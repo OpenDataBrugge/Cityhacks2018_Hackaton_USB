@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Fietskluizen_randparkings</name>
+<visibility>1</visibility>
+<Schema name="Fietskluizen_randparkings" id="kml_schema_ft_Fietskluizen_randparkings">
+<SimpleField type="xsd:string" name="ID">
+<displayName>ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Locatie">
+<displayName>Locatie</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aantal">
+<displayName>Aantal</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Fietskluizen_randparkings">
+<name>Fietskluizen_randparkings</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Locatie</th>
+<td>L. Coiseau</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>06/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietskluizen_randparkings">
+<SimpleData name="ID">1</SimpleData>
+<SimpleData name="Locatie">L. Coiseau</SimpleData>
+<SimpleData name="Aantal">10</SimpleData>
+<SimpleData name="Aangemaakt op">06/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22685333489882,51.2245778316106,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Locatie</th>
+<td>Bevrijdingslaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>06/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietskluizen_randparkings">
+<SimpleData name="ID">2</SimpleData>
+<SimpleData name="Locatie">Bevrijdingslaan</SimpleData>
+<SimpleData name="Aantal">40</SimpleData>
+<SimpleData name="Aangemaakt op">06/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2120154512797,51.2101369499011,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Locatie</th>
+<td>Magdalenastraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>06/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietskluizen_randparkings">
+<SimpleData name="ID">3</SimpleData>
+<SimpleData name="Locatie">Magdalenastraat</SimpleData>
+<SimpleData name="Aantal">20</SimpleData>
+<SimpleData name="Aangemaakt op">06/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20888413502187,51.2014704851634,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Locatie</th>
+<td>Steenbrugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>06/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietskluizen_randparkings">
+<SimpleData name="ID">4</SimpleData>
+<SimpleData name="Locatie">Steenbrugge</SimpleData>
+<SimpleData name="Aantal">40</SimpleData>
+<SimpleData name="Aangemaakt op">06/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2348102136368,51.1810386717754,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Locatie</th>
+<td>Boogschutterslaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>06/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietskluizen_randparkings">
+<SimpleData name="ID">5</SimpleData>
+<SimpleData name="Locatie">Boogschutterslaan</SimpleData>
+<SimpleData name="Aantal">10</SimpleData>
+<SimpleData name="Aangemaakt op">06/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24880468574879,51.2147022749947,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,56 @@
+[
+{
+"json_featuretype":"Randparkings"
+,"ID":"1"
+,"Locatie":"Bevrijdingslaan"
+,"Capaciteit":"154"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20999607912938,51.2109944347679]}
+}
+,{
+"json_featuretype":"Randparkings"
+,"ID":"2"
+,"Locatie":"Magdalenastraat"
+,"Capaciteit":"254"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20917691472032,51.2011199048272]}
+}
+,{
+"json_featuretype":"Randparkings"
+,"ID":"3"
+,"Locatie":"L. Coiseaukaai"
+,"Capaciteit":"152"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22650421925082,51.2246660101335]}
+}
+,{
+"json_featuretype":"Randparkings"
+,"ID":"4"
+,"Locatie":"Boogschutterslaan"
+,"Capaciteit":"100"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2486657036672,51.2145734862904]}
+}
+,{
+"json_featuretype":"Randparkings"
+,"ID":"5"
+,"Locatie":"Steenbrugge"
+,"Capaciteit":"185"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23445886325663,51.1813087917529]}
+}
+,{
+"json_featuretype":"Randparkings"
+,"ID":"6"
+,"Locatie":"Jan Breydel"
+,"Capaciteit":"100"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17993008826606,51.1948485660364]}
+}
+]

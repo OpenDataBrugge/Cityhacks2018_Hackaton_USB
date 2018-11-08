@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Fietstrommels</name>
+<visibility>1</visibility>
+<Schema name="Fietstrommels" id="kml_schema_ft_Fietstrommels">
+<SimpleField type="xsd:int" name="id">
+<displayName>id</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="Pro5">
+<displayName>Pro5</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="Pro4">
+<displayName>Pro4</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="Pro2">
+<displayName>Pro2</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Locatie">
+<displayName>Locatie</displayName>
+</SimpleField>
+<SimpleField type="xsd:int" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Deelgemeente">
+<displayName>Deelgemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Info">
+<displayName>Info</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Fietstrommels">
+<name>Fietstrommels</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Baron Ruzettelaan thv. Parking nr. 122</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">1</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">1</SimpleData>
+<SimpleData name="Pro2">2</SimpleData>
+<SimpleData name="Locatie">Baron Ruzettelaan thv. Parking nr. 122</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23178330872317,51.1930536175497,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Doorgang tussen Jasmijnstraat en Sint-Katharina</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">2</SimpleData>
+<SimpleData name="Pro5">1</SimpleData>
+<SimpleData name="Pro4">3</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Doorgang tussen Jasmijnstraat en Sint-Katharina</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23618315006298,51.1964217608076,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Vrijheidsstraat</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Info</th>
+<td>Ter hoogte van het pleintje</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">3</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">6</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Vrijheidsstraat</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Info">Ter hoogte van het pleintje</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2334522240399,51.1963202446897,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Hoek Kroonstraat – Leopold I-laan</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Kristus-Koning</td>
+</tr><tr bgcolor="">
+<th>Info</th>
+<td>Suggestie bewoners</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">4</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">2</SimpleData>
+<SimpleData name="Pro2">2</SimpleData>
+<SimpleData name="Locatie">Hoek Kroonstraat – Leopold I-laan</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Kristus-Koning</SimpleData>
+<SimpleData name="Info">Suggestie bewoners</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20941455363473,51.2164295492296,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Hoek Witte Beerstraat – Legeweg</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Kristus-Koning</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">5</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">4</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Hoek Witte Beerstraat – Legeweg</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Kristus-Koning</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20775096872178,51.2050529827257,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Vier Heemskinderenstraat 5</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">6</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">3</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Vier Heemskinderenstraat 5</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23397469773551,51.2289213150163,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Hoek Jacob van Maerlantstraat – Sint-Jozefstraa</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">7</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">3</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Hoek Jacob van Maerlantstraat – Sint-Jozefstraa</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23369091531794,51.2278408716671,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Krommestraat – De Meulenaerelaan</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">8</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">0</SimpleData>
+<SimpleData name="Pro2">2</SimpleData>
+<SimpleData name="Locatie">Krommestraat – De Meulenaerelaan</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22842067634401,51.2249348076353,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Louis de Potterstraat</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Info</th>
+<td>Suggestie bewoners</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">9</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">0</SimpleData>
+<SimpleData name="Pro2">2</SimpleData>
+<SimpleData name="Locatie">Louis de Potterstraat</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Info">Suggestie bewoners</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23673021812104,51.2255024790319,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Sint-Jozefsplein</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">10</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">2</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Sint-Jozefsplein</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23198805651912,51.2257687389169,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Altebijstraat</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">11</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">0</SimpleData>
+<SimpleData name="Pro2">2</SimpleData>
+<SimpleData name="Locatie">Altebijstraat</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24182605081867,51.2096008097276,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Maalse Steenweg – Hoek Assebroeklaan</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">12</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">2</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Maalse Steenweg – Hoek Assebroeklaan</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24739389817565,51.2102192471381,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Vredestraat</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">13</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">0</SimpleData>
+<SimpleData name="Pro2">4</SimpleData>
+<SimpleData name="Locatie">Vredestraat</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2483515989797,51.208521344151,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Canadaplein</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">14</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">2</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Canadaplein</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20960528199069,51.2038508968804,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Buiten Boeverievest</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">15</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">1</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Buiten Boeverievest</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21354703562814,51.2015555316303,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Leopold II-Laan</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Stubbekwartier</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">16</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">4</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Leopold II-Laan</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Stubbekwartier</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21687719304958,51.2194667911037,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Werfplein</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Stubbekwartier</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">17</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">3</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Werfplein</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Stubbekwartier</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21823025967888,51.2190743617742,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>id</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>Pro5</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Pro4</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Pro2</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Graaf de Meulenaerelaan</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Info</th>
+<td>Ter hoogte van witte muur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Fietstrommels">
+<SimpleData name="id">18</SimpleData>
+<SimpleData name="Pro5">0</SimpleData>
+<SimpleData name="Pro4">0</SimpleData>
+<SimpleData name="Pro2">0</SimpleData>
+<SimpleData name="Locatie">Graaf de Meulenaerelaan</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Info">Ter hoogte van witte muur</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23174936391468,51.2240525176695,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

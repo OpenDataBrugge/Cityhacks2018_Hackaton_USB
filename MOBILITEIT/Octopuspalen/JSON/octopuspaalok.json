@@ -1,0 +1,1538 @@
+[
+{
+"json_featuretype":"octopuspaalOK"
+,"Id":18
+,"Straat":"Sint-Lenardsstraat"
+,"School":"Vrije Gesubs. Basisschool-De Lenaard"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"voetpad"
+,"Foto":"G:\\WD\\GIS wegendienst\\Octopuspalen\\foto\\SintLenardsstraat.JPG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Dudzele"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22850777684564,51.2742972367351]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":20
+,"Straat":"Zeebruggelaan 41"
+,"School":"Vrije Gesubs. Basisschool-De Lisblomme"
+,"Type":"Octopuspaal"
+,"Aant_bord":1
+,"Inplanting":"fietspad"
+,"Foto":"foto/Zeebruggelaan.JPG"
+,"Zone30":"nee"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Lissewege"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19216226231088,51.2940461853287]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":1
+,"Straat":"Gerard Davidstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege - De wimpel"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/Gerard Davidstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050807"
+,"Dgemeente":"Christus-Koning"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2080396383806,51.2142884128131]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":3
+,"Straat":"Kardinaal Mercierstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege - Pim pam poen"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/kardinaal merciestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050811"
+,"Dgemeente":"Christus Koning"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21558866367819,51.2178445961077]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":2
+,"Straat":"Gerard Davidstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege - De wimpel"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"voetpad"
+,"Foto":"foto/Gerard Davidstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050811"
+,"Dgemeente":"Christus Koning"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20642984233544,51.2163226150283]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":4
+,"Straat":"Brugse Steenweg"
+,"School":"Vrije Gesubs. Basisschool-De Smalle"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting naast voetpad"
+,"Foto":"foto/smallestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Koolkerke"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24900199889816,51.2413087156218]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":5
+,"Straat":"Brugse Steenweg"
+,"School":"Vrije Gesubs. Basisschool-De Smalle"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/smallestraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Koolkerke"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2504808535749,51.2421524201576]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":6
+,"Straat":"Pannebekestraat"
+,"School":"Basisschool Oefenschool-Pannebeke"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Wegversmalling"
+,"Foto":"foto/pannebekestraat.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Sint-Jozef"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23017368886998,51.2271372671644]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":7
+,"Straat":"Ter Looigemweg"
+,"School":"Basisschool Oefenschool-Pannebeke"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/ter looigemweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20070801"
+,"Dgemeente":"Sint-Jozef"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23144845043177,51.225948967765]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":8
+,"Straat":"Sint-Jozefsstraat"
+,"School":"Vrije Gesubs. Basisschool Parochie Sint-Jozef"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/sint-jozefstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Sint-Jozef"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23290845292337,51.225715001194]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":8
+,"Straat":"Korendragersstraat"
+,"School":"Vrije Gesubs. Basisschool Parochie Sint-Jozef"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Wegversmalling, zebrapad"
+,"Foto":"foto/korendragerstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Sint-jozef"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23359242399427,51.2260483588432]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":10
+,"Straat":"Blankenbergse Steenweg"
+,"School":"Vrije Gesubs. Basisschool Sint-Leocollege Afdeling C"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Middenberm"
+,"Foto":"foto/blankenbergse steenweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20607919179321,51.2290607181698]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":11
+,"Straat":"Karel Ledeganckstraat"
+,"School":"Basisschool Brugge Kust-De Regenboog"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/Karel Ledeganckstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20823318768417,51.2264617128822]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":12
+,"Straat":"Karel Ledeganckstraat"
+,"School":"Basisschool Brugge Kust-De Regenboog"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/karel ledeganckstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20738263783237,51.2261543841962]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":13
+,"Straat":"Oostendse Steenweg"
+,"School":"Vrije Gesubs. Basisschool Sint-Leocollege Afdeling C"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Middenberm"
+,"Foto":"foto/oostendse steenweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20296606357671,51.2231303873558]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":13
+,"Straat":"Palingstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Leocollege Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad (gras)"
+,"Foto":"foto/paligstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20635435430048,51.2309801530459]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":15
+,"Straat":"Potentestraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Leocollege Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/potentestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20559047723692,51.2237159438721]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":16
+,"Straat":"Wilgenstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Leocollege Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting (gras)"
+,"Foto":"foto/wilgenstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Sint-Pieters"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20779843074852,51.2319909372972]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":17
+,"Straat":"Damse Steenweg"
+,"School":"Stedelijke Basisschool Afdeling De Bijenkorf"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/damse steenweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050812"
+,"Dgemeente":"Dudzele"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23202947584446,51.2754169023206]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":19
+,"Straat":"Stationsstraat"
+,"School":"Stedelijke Basisschool Afdeling Ter Poorten"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/stationsstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050816"
+,"Dgemeente":"Lissewege"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1951976291874,51.2944668099935]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":22
+,"Straat":"Ploegstraat"
+,"School":"Onze-Lieve-Vrouw Ter Duinen"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/ploegstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050816"
+,"Dgemeente":"Zeebrugge"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2101826319444,51.3289821611392]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":21
+,"Straat":"Evendijk-Oost"
+,"School":"Onze-Lieve-Vrouw Ter Duinen"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"voetpad"
+,"Foto":"foto/evendijk oost.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20070801"
+,"Dgemeente":"Zeebrugge"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20842455903632,51.3296857434128]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":21
+,"Straat":"Doornweg"
+,"School":"Vrije Gesubs. Basisschool-De Lisblomme"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/doornweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050816"
+,"Dgemeente":"Zwankendamme"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19855999765899,51.3093143440777]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":25
+,"Straat":"Doornstraat"
+,"School":"Vrije Gesubs. Basisschool-De Lisblomme"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/doornweg 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050816"
+,"Dgemeente":"Zwankendamme"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19843604919959,51.3095379295258]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":26
+,"Straat":"Beisbroekdreef"
+,"School":"B.O.-school Type 3-Het Anker"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/beisbroekdreef.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050816"
+,"Dgemeente":"Sint Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1445761109695,51.1792137304588]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":27
+,"Straat":"Diksmuidse Heerweg"
+,"School":"Stedelijke Basisschool-De Triangel"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/diksmuidse heerweg 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19468543881522,51.1954873720011]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":28
+,"Straat":"Diksmuidse Heerweg"
+,"School":"Stedelijke Basisschool-De Triangel"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/diksmuidse heerweg 3.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19469604686913,51.195872220311]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":29
+,"Straat":"Doornstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/doornstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20160708"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19574473075453,51.1935544703024]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":30
+,"Straat":"Doornstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/doornstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19447864780613,51.193443398274]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":48
+,"Straat":"Gistelse Steenweg"
+,"School":"Vrije Ges. Gem. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/gistelse steenweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20179891594037,51.2016951257931]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":32
+,"Straat":"Jan Breydellaan"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Naast zebrapad"
+,"Foto":"foto/jan breydellaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050819"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20693399628943,51.2091183389539]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":33
+,"Straat":"Knotwilgenlaan"
+,"School":"Vrije Ges. Gem. Basisschool Sint-Lodewijkscollege-Blijmare"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting (plein)"
+,"Foto":"foto/knotwilgenlaan 1.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18331981492655,51.2073473513765]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":34
+,"Straat":"Knotwilgenlaan"
+,"School":"Vrije Ges. Gem. Basisschool Sint-Lodewijkscollege-Blijmare"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/knotwilgenlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.182803059304,51.2069921939909]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":35
+,"Straat":"Koning Leopold III-laan"
+,"School":"Basisschool De Boomhut"
+,"Type":"octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/koning leopold 3 laan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050823"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18709139288851,51.1904900070704]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":36
+,"Straat":"Koude-Keukenstraat"
+,"School":"Vrije Ges. Gem. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/koude keukenstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050823"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18302431013627,51.1983573981441]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":37
+,"Straat":"Magdalenastraat"
+,"School":"Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/magdalenastraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20832895396212,51.2009493461546]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":38
+,"Straat":"Magdalenastraat"
+,"School":"Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/magdalenastraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060408"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2113891595118,51.2018403693955]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":39
+,"Straat":"Manitobalaan"
+,"School":"Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/manitobalaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050817"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19835265932655,51.1962723571822]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":40
+,"Straat":"Manitobalaan"
+,"School":"Basisschool Sint-Andries-Manitoba"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/manitobalaan 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050823"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19858814935074,51.1959281879672]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":41
+,"Straat":"Nieuwe St.-Annadreef"
+,"School":"Bu.S.O.-De Varens"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/nieuwe sint-annadreef.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050817"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17358396299374,51.1897944844427]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":42
+,"Straat":"Nieuwe St.-Annadreef"
+,"School":"Bu.S.O.-De Varens"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/nieuwe sint-annadreef 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050817"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17322714823611,51.1902613785931]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":43
+,"Straat":"Noordveldstraat"
+,"School":"Vrij Gesubs. B.L.O.-Het Noordveld"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"voetpad"
+,"Foto":"foto/noordveldstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050822"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19877695622584,51.2037743899491]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":44
+,"Straat":"Noordveldstraat"
+,"School":"Vrij Gesubs. B.L.O.-Het Noordveld"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/noordveldstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050822"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19858461351676,51.2044562139767]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":45
+,"Straat":"Oorlogsvrijwilligerslaan"
+,"School":"Basisschool Sint-Andries-Hermitage"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/oorlogsvrijwilligerslaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17829363484971,51.1848889863064]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":46
+,"Straat":"Zandstraat"
+,"School":"Vrij Technisch Instituut-Zandstraat"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Beplanting"
+,"Foto":"foto/zandstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050817"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19516050295632,51.2024139760031]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":47
+,"Straat":"Zandstraat"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/zandstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050822"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20133630707341,51.2027856820587]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":31
+,"Straat":"Gistelse Steenweg"
+,"School":"Vrije Ges. Gem. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Zebrapad, rijbaan"
+,"Foto":"foto/gistelse steenweg 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18588183090342,51.1981959657693]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":51
+,"Straat":"Barrièrestraat"
+,"School":"Bu.S.I.-Ravelijn"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/barrierestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050823"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20777231788363,51.1940359156968]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":49
+,"Straat":"Gistelse Steenweg"
+,"School":"Vrije Gesubs. Basisschool Sint-Lodewijkscollege"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/gistelse steenweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Andries"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20186820251717,51.2015799235463]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":50
+,"Straat":"Barrièrestraat"
+,"School":"Bu.S.O.-Ravelijn"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/barrierestraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20709951592207,51.1937245262747]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":52
+,"Straat":"Kaproenenhof"
+,"School":"M.P.I.-De Kaproenen"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/kaproenenhof.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21356535906596,51.1747315068579]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":52
+,"Straat":"Koning Albert I-laan"
+,"School":"Vrije Gesubs. Basisschool B.O.-Ter Dreve"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/koning albert 1 laan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20561819642393,51.1821920018604]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":54
+,"Straat":"Koningin Astridlaan"
+,"School":"Vrije Gesubs. Basisschool B.O.-Ter Dreve"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/koning astridlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20928416466135,51.188635386549]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":55
+,"Straat":"Koningin Astridlaan"
+,"School":"Vrije Gesubs. Basisschool B.O.-Ter Dreve"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/kon. astridlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20717754032133,51.1884397171595]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":57
+,"Straat":"Rijselstraat"
+,"School":"Koninklijk technisch Atheneum"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/rijselstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050830"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21280345197296,51.1913607303788]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":56
+,"Straat":"Rijselstraat"
+,"School":"Koninklijk Technisch Atheneum"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/rijselstraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21363038555028,51.1933435125479]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":59
+,"Straat":"Rijselstraat"
+,"School":"Gemeentelijke Basisschool Afdeling A"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/rijselstraat 3.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21112153939607,51.1878653662102]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":58
+,"Straat":"Dorpsstraat"
+,"School":"Gemeentelijke Basisschool Afdeling A"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/rijselstraat 4.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21182827737424,51.1878467900032]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":60
+,"Straat":"Ten Boomgaard"
+,"School":"Gemeentelijke Basisschool Afdeling A"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad + beplanting"
+,"Foto":"foto/ten boomgaard.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21330581104082,51.187754625619]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":61
+,"Straat":"Sint-Michielslaan"
+,"School":"Gemeentelijke Basisschool Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/sint-michielslaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050921"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21958401304313,51.1797721517079]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":62
+,"Straat":"Sint-Michielslaan"
+,"School":"Gemeentelijke Basisschool Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/sint-michielslaan 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050921"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22105349897862,51.1802963306574]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":63
+,"Straat":"Sint-Godelievelaan"
+,"School":"Gemeentelijke Basisschool Afdeling B"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Beplanting"
+,"Foto":"foto/sint-godelievelaan.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22154415577479,51.179462075929]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":64
+,"Straat":"Spoorwegstraat"
+,"School":"K.H.B.O-Campus Sint-Michiel"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/spoorwegstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22374651115844,51.1847620543901]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":65
+,"Straat":"Spoorwegstraat"
+,"School":"Bakkerij-, Slagerij- en Hotelschool Ter Groene Poorte"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/spoorwegstraat 2.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22485419151654,51.1825257446725]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":69
+,"Straat":"Vijverhoflaan"
+,"School":"Basisschool Sint-Andries-Vijverhof"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/vijverhoflaan.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21563071780436,51.185607935054]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":70
+,"Straat":"Vijverhoflaan"
+,"School":"Basisschool Sint-Andries-Vijverhof"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/vijverhoflaan 2.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Sint-Michiels"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21564775024068,51.1861875329958]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":71
+,"Straat":"Astridlaan"
+,"School":"Guido Gezelleschool Steinerpedagogie"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Naast fietspad"
+,"Foto":"foto/astridlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25015826062047,51.1986476822642]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":72
+,"Straat":"Koning Boudewijnlaan"
+,"School":"Guido Gezelleschool Steinerpedagogie"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/koning boudewijlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24936239632885,51.1979158693911]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":73
+,"Straat":"Koning Boudewijnlaan"
+,"School":"Guido Gezelleschool Steinerpedagogie"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/koning boudewijnlaan 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20070801"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24947649362158,51.1978497361782]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":74
+,"Straat":"Baron Ruzettelaan"
+,"School":"Vrije Gesubs. Basisschool OLVA Afdeling Steenbrugge"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/baron ruzettelaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23518296096233,51.1817097510586]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":75
+,"Straat":"Sint-Trudostraat"
+,"School":"Vrije Gesubs. Basisschool OLVA Afdeling Steenbrugge"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Tussenstuk rijbaan/fietsp"
+,"Foto":"foto/sint-trudostraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23902729729896,51.1813293674292]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":76
+,"Straat":"Sint-Kristoffelstraat"
+,"School":"Onze-Lieve-Vrouwecollege Assebroek"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/sint-kristoffelstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24989727382049,51.2029178885074]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":77
+,"Straat":"Collegestraat"
+,"School":"Onze-Lieve-Vrouwecollege Assebroek"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/collegestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25181141061812,51.2044077191308]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":78
+,"Straat":"Daverlostraat"
+,"School":"Basisschool Koninklijk Atheneum Assebroek"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/daverlostraat 1.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050828"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24511528284336,51.1957432987467]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":79
+,"Straat":"Daverlostraat"
+,"School":"Basisschool Koninklijk Atheneum Assebroek"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Middenstuk baan-fietspad"
+,"Foto":"foto/daverlostraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2436620161783,51.1968106880883]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":80
+,"Straat":"Weidestraat"
+,"School":"Basisschool Koninklijk Atheneum Assebroek"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/weidestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24284401891697,51.1959314446471]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":81
+,"Straat":"Dries"
+,"School":"Vrije Gesubs. Basisschool OLVA E-'t Sparrenhof"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Beplanting"
+,"Foto":"foto/dries.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050825"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24954946195027,51.1934989408104]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":82
+,"Straat":"Gemeneweideweg-Zuid"
+,"School":"Basisschool Koninklijk Atheneum Assebroek-Paalbos"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Gras"
+,"Foto":"foto/gemeneweideweg-zuid.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2666672893306,51.2017311065937]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":83
+,"Straat":"Generaal Lemanlaan"
+,"School":"Instituut Mariawende-Blydhove"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Parkeerplaats"
+,"Foto":"foto/generaal lemanlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24361048455905,51.2012439618669]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":84
+,"Straat":"Sint-Katarinastraat"
+,"School":"Vrije Gesubs. Basisschool OLVA B"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/sint-katerinastraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23652798669095,51.1971087871342]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":85
+,"Straat":"Sint-Kristoffelstraat"
+,"School":"Vrij Gesubs. B.L.O.-De Boomgaard"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/sint-kristoffelstraat 3.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050921"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25338827343687,51.2024931220114]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":86
+,"Straat":"Weidestraat"
+,"School":"Vrij Instituut Buitengewoon Beroepsonderwijs-Haverlo"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Bepanting"
+,"Foto":"foto/weidestraat 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050824"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24295002633227,51.1939832632699]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":87
+,"Straat":"Tulpenstraat"
+,"School":"Vrij Instituut Buitengewoon Beroepsonderwijs-Haverlo"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Voetpad"
+,"Foto":"foto/tulpenstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050825"
+,"Dgemeente":"Assebroek"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24046971773033,51.1948113772389]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":88
+,"Straat":"Beeweg"
+,"School":"Vrije Gesubs. Basisschool Mariawende-Zonnetuin"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/beeweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2709949594233,51.2021908612334]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":89
+,"Straat":"Ter Lo"
+,"School":"Vrije Gesubs. Basisschool Mariawende-Zonnetuin"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/ter lo.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27180345526993,51.2024811214151]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":90
+,"Straat":"Boogschutterslaan"
+,"School":"Instituut Mariawende-Blydhove"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/boogschutterslaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24917706390033,51.2147162297404]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":91
+,"Straat":"Boogschutterslaan"
+,"School":"Instituut Mariawende-Blydhove"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Stuk voor parkeerplaatsen"
+,"Foto":"foto/boogschutterslaan 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2477458991261,51.2153805981289]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":98
+,"Straat":"Pastorieweg"
+,"School":"Vrije Gesubs. Basisschool-Mozaïek"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/pastorieweg.PNG"
+,"Zone30":"nee"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25070074557302,51.2145011908336]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":92
+,"Straat":"Brieversweg"
+,"School":"Basisschool Sint-Kruis-De Linde"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Beplanting"
+,"Foto":"foto/brievensweg.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27537289549447,51.2126343260738]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":93
+,"Straat":"Vijversdreef"
+,"School":"Vrije Gesubs. Lagere School OLVA G Male"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Beplanting"
+,"Foto":"foto/vijversdreef.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28038889383116,51.212106962592]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":94
+,"Straat":"Vijversdreef"
+,"School":"Vrije Gesubs. Lagere School OLVA G Male"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Gras"
+,"Foto":"foto/vijversdreef 2.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28022002828442,51.2111203972984]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":95
+,"Straat":"Karel van Manderstraat"
+,"School":"Vrije Gesubs. Basisschool-Mozaïek"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Beplanting"
+,"Foto":"foto/karel van manderstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24184920403451,51.2201778026544]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":96
+,"Straat":"Leopold Debruynestraat"
+,"School":"Basisschool De Tandem"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Voetpad"
+,"Foto":"foto/leopold debruynestraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25255430139693,51.2106771323964]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":100
+,"Straat":"Prins Leopoldstraat"
+,"School":"Basisschool Sint-Kruis-De Beuken"
+,"Type":"Octopus"
+,"Aant_bord":1
+,"Inplanting":"Gras"
+,"Foto":"foto/prins leopoldstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24864212136782,51.2117897208619]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":101
+,"Straat":"Raadsherenlaan"
+,"School":"Vrije Gesubs. Basisschool Mariawende-De Zonnetuin"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Gras"
+,"Foto":"foto/raadsherenlaan.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20050831"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27737061281699,51.2155718846794]}
+}
+,{
+"json_featuretype":"octopuspaalOK"
+,"Id":99
+,"Straat":"Polderstraat"
+,"School":"Vrij Gesubs. B.L.O.-De Spycker"
+,"Type":"Octopus"
+,"Aant_bord":2
+,"Inplanting":"Gras"
+,"Foto":"foto/polderstraat.PNG"
+,"Zone30":"ja"
+,"Datumplaat":"20060401"
+,"Dgemeente":"Sint-Kruis"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25430044169569,51.2200674647153]}
+}
+]

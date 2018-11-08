@@ -1,0 +1,47 @@
+[
+{
+"json_featuretype":"Fietskluizen_randparkings"
+,"ID":"1"
+,"Locatie":"L. Coiseau"
+,"Aantal":"10"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22685333489882,51.2245778316106]}
+}
+,{
+"json_featuretype":"Fietskluizen_randparkings"
+,"ID":"2"
+,"Locatie":"Bevrijdingslaan"
+,"Aantal":"40"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2120154512797,51.2101369499011]}
+}
+,{
+"json_featuretype":"Fietskluizen_randparkings"
+,"ID":"3"
+,"Locatie":"Magdalenastraat"
+,"Aantal":"20"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20888413502187,51.2014704851634]}
+}
+,{
+"json_featuretype":"Fietskluizen_randparkings"
+,"ID":"4"
+,"Locatie":"Steenbrugge"
+,"Aantal":"40"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2348102136368,51.1810386717754]}
+}
+,{
+"json_featuretype":"Fietskluizen_randparkings"
+,"ID":"5"
+,"Locatie":"Boogschutterslaan"
+,"Aantal":"10"
+,"Aangemaakt op":"06/07/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24880468574879,51.2147022749947]}
+}
+]

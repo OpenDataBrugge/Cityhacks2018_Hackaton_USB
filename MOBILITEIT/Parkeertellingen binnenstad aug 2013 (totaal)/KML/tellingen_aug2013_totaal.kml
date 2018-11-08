@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Tellingen_aug2013_Totaal</name>
+<visibility>1</visibility>
+<Schema name="Tellingen_aug2013_Totaal" id="kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleField type="xsd:int" name="Id">
+<displayName>Id</displayName>
+</SimpleField>
+<SimpleField type="xsd:short" name="Id_1">
+<displayName>Id_1</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Naam_straa">
+<displayName>Naam_straa</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Parkeercap">
+<displayName>Parkeercap</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Bewoner_aa">
+<displayName>Bewoner_aa</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Buitenland">
+<displayName>Buitenland</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Andere_aan">
+<displayName>Andere_aan</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Totaal_aan">
+<displayName>Totaal_aan</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Vrije_park">
+<displayName>Vrije_park</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Proc_bezet">
+<displayName>Proc_bezet</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Proc_bewon">
+<displayName>Proc_bewon</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Proc_buite">
+<displayName>Proc_buite</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Proc_ander">
+<displayName>Proc_ander</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Tellingen_aug2013_Totaal">
+<name>Tellingen_aug2013_Totaal</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 1 Beenhouwersstraat</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>376</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>204</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>114</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>329</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.875</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.620061</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.033435</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.346505</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">1</SimpleData>
+<SimpleData name="Naam_straa">Wijk 1 Beenhouwersstraat</SimpleData>
+<SimpleData name="Parkeercap">376</SimpleData>
+<SimpleData name="Bewoner_aa">204</SimpleData>
+<SimpleData name="Buitenland">11</SimpleData>
+<SimpleData name="Andere_aan">114</SimpleData>
+<SimpleData name="Totaal_aan">329</SimpleData>
+<SimpleData name="Vrije_park">47</SimpleData>
+<SimpleData name="Proc_bezet">0.875</SimpleData>
+<SimpleData name="Proc_bewon">0.620061</SimpleData>
+<SimpleData name="Proc_buite">0.033435</SimpleData>
+<SimpleData name="Proc_ander">0.346505</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.21393887103279,51.2094758623534,0.0 3.21398244413276,51.2095619053919,0.0 3.21404060980646,51.2097017029133,0.0 3.21405328260171,51.209801722445,0.0 3.21401948666057,51.210096324777,0.0 3.21401494400967,51.2102033117295,0.0 3.21403601196978,51.2104996377264,0.0 3.21407551688473,51.2107881106544,0.0 3.21417923539456,51.211291881323,0.0 3.21423009991155,51.2114553037018,0.0 3.21431173205341,51.2116761090163,0.0 3.21454831661959,51.2122920661358,0.0 3.21487008353667,51.2130622634213,0.0 3.21513704669891,51.2136295188787,0.0 3.21536867666122,51.2140637080756,0.0 3.21554335342353,51.2143508284864,0.0 3.21583485428577,51.2147532539208,0.0 3.21600547867547,51.2149594659812,0.0 3.21621655582307,51.2151837877061,0.0 3.21635673721127,51.2148044909634,0.0 3.21659934461121,51.2144881387281,0.0 3.21688702833451,51.2141864959669,0.0 3.21727314554773,51.2138858093729,0.0 3.21773556651122,51.2135620814832,0.0 3.21816035353657,51.2132284712366,0.0 3.21904160582618,51.2125044701264,0.0 3.21959872841807,51.2120246744863,0.0 3.21982695296082,51.2118439129834,0.0 3.22030820611963,51.2115083020836,0.0 3.22083861021451,51.2111899773737,0.0 3.22066028520878,51.2110502958252,0.0 3.22081885332593,51.2107616597095,0.0 3.22111186725517,51.2102412396532,0.0 3.22121427337579,51.210080495656,0.0 3.22128452156182,51.2099955525955,0.0 3.22137736769993,51.2099155852482,0.0 3.22160044810761,51.2097750405214,0.0 3.22203075697604,51.2095223381487,0.0 3.22256752928608,51.2092516385132,0.0 3.22225222202323,51.2091391722046,0.0 3.22181042226893,51.2089350957869,0.0 3.22113754602702,51.2085813103474,0.0 3.22018274853609,51.2076824915218,0.0 3.21975252599348,51.2073167830829,0.0 3.21918306947675,51.2068722817854,0.0 3.21901611734295,51.2067768471054,0.0 3.2176110747548,51.2062056620097,0.0 3.21689019306627,51.2059588915326,0.0 3.21675980828341,51.2063324716376,0.0 3.21662590085812,51.2066032648676,0.0 3.21638759573619,51.2070538062998,0.0 3.2162356544616,51.2073187146252,0.0 3.21604476580818,51.2075661199009,0.0 3.21585415713978,51.2078021101867,0.0 3.21575116403366,51.2079247875063,0.0 3.21549965367644,51.2081735023249,0.0 3.21504090796107,51.2085952519966,0.0 3.21431476369406,51.2091723207733,0.0 3.21393887103279,51.2094758623534,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 2 Ezelstraat  - Vlamingdam</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>416</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>162</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>13</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>123</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>298</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>118</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.716346</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.543624</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.043624</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.412752</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">2</SimpleData>
+<SimpleData name="Naam_straa">Wijk 2 Ezelstraat  - Vlamingdam</SimpleData>
+<SimpleData name="Parkeercap">416</SimpleData>
+<SimpleData name="Bewoner_aa">162</SimpleData>
+<SimpleData name="Buitenland">13</SimpleData>
+<SimpleData name="Andere_aan">123</SimpleData>
+<SimpleData name="Totaal_aan">298</SimpleData>
+<SimpleData name="Vrije_park">118</SimpleData>
+<SimpleData name="Proc_bezet">0.716346</SimpleData>
+<SimpleData name="Proc_bewon">0.543624</SimpleData>
+<SimpleData name="Proc_buite">0.043624</SimpleData>
+<SimpleData name="Proc_ander">0.412752</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22482217011937,51.2098638845644,0.0 3.22498665348593,51.2093326974805,0.0 3.22389509448695,51.209374462214,0.0 3.22327763027284,51.2092305313719,0.0 3.22287169849814,51.2091076759164,0.0 3.22256752928608,51.2092516385132,0.0 3.22203075697604,51.2095223381487,0.0 3.22160044810761,51.2097750405214,0.0 3.22152704195401,51.2098212882158,0.0 3.22152579572764,51.2098220715184,0.0 3.2214762827693,51.2098532673545,0.0 3.22147284071168,51.2098554345947,0.0 3.2214255363903,51.2098852394044,0.0 3.22137736769993,51.2099155852482,0.0 3.22128452156182,51.2099955525955,0.0 3.22121427337579,51.210080495656,0.0 3.2211528366531,51.2101769314893,0.0 3.22111186725517,51.2102412396532,0.0 3.22081885332593,51.2107616597095,0.0 3.22075257966737,51.2108822941351,0.0 3.22072677754669,51.2109292594094,0.0 3.22070097537405,51.2109762246772,0.0 3.22066028520878,51.2110502958252,0.0 3.22083861021451,51.2111899773737,0.0 3.22030820611963,51.2115083020836,0.0 3.22026117628597,51.2115410993631,0.0 3.22021310472585,51.2115746229279,0.0 3.22016503306122,51.2116081479106,0.0 3.21982695296082,51.2118439129834,0.0 3.21978244302432,51.2118791667511,0.0 3.21973793044529,51.211914421915,0.0 3.21959872841807,51.2120246744863,0.0 3.21904160582618,51.2125044701264,0.0 3.21854908958801,51.2129091064074,0.0 3.2183494986286,51.2130730797476,0.0 3.21816035353657,51.2132284712366,0.0 3.21773556651122,51.2135620814832,0.0 3.21727314554773,51.2138858093729,0.0 3.21688702833451,51.2141864959669,0.0 3.21659934461121,51.2144881387281,0.0 3.21635673721127,51.2148044909634,0.0 3.21632132155708,51.2149188676614,0.0 3.21621921082957,51.2151860472848,0.0 3.21649261007651,51.2154185455804,0.0 3.21677815562725,51.2156639308782,0.0 3.21822080858183,51.2167482844506,0.0 3.22021911782937,51.2182799454273,0.0 3.22042325022973,51.2181268854266,0.0 3.2206380139098,51.2177103597602,0.0 3.22120147347234,51.2160508971449,0.0 3.22138619494913,51.2153153632667,0.0 3.22167227237018,51.2144618875176,0.0 3.2218445886042,51.2142304690689,0.0 3.22193027183787,51.213517757641,0.0 3.22206068174444,51.2128340215932,0.0 3.22304144815998,51.2123725889345,0.0 3.22357079292932,51.2120970548771,0.0 3.22391805783132,51.2118340271985,0.0 3.22411295253188,51.2116075804711,0.0 3.22424703557049,51.2113900580202,0.0 3.22431402490416,51.2111290746714,0.0 3.22459139376169,51.2106275211137,0.0 3.22477708198047,51.2101583800845,0.0 3.22482217011937,51.2098638845644,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 3: Sint-Gilliswijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>886</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>346</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>43</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>245</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>634</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>252</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.715576</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.545741</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.067823</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.386435</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">3</SimpleData>
+<SimpleData name="Naam_straa">Wijk 3: Sint-Gilliswijk</SimpleData>
+<SimpleData name="Parkeercap">886</SimpleData>
+<SimpleData name="Bewoner_aa">346</SimpleData>
+<SimpleData name="Buitenland">43</SimpleData>
+<SimpleData name="Andere_aan">245</SimpleData>
+<SimpleData name="Totaal_aan">634</SimpleData>
+<SimpleData name="Vrije_park">252</SimpleData>
+<SimpleData name="Proc_bezet">0.715576</SimpleData>
+<SimpleData name="Proc_bewon">0.545741</SimpleData>
+<SimpleData name="Proc_buite">0.067823</SimpleData>
+<SimpleData name="Proc_ander">0.386435</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22178366926101,51.2195337939082,0.0 3.2219945950724,51.21967806222,0.0 3.22225207957401,51.2198346819916,0.0 3.22267998637836,51.220084286745,0.0 3.22291307742228,51.2202164086413,0.0 3.22318713574791,51.2203460731676,0.0 3.22346151084134,51.2204628959642,0.0 3.22377671336853,51.2205829683211,0.0 3.22419394428979,51.2207125878398,0.0 3.22470191436372,51.2208487935161,0.0 3.22503631300084,51.2209276620688,0.0 3.22559035838055,51.2210386210523,0.0 3.22603353369604,51.221129953722,0.0 3.22619830544179,51.221175784829,0.0 3.22629264699105,51.2212209355592,0.0 3.22650485946673,51.221376104599,0.0 3.22684562934342,51.2212137468732,0.0 3.22691483644528,51.2211716020842,0.0 3.22838812184633,51.2210193198844,0.0 3.2279873071244,51.2206824719099,0.0 3.22706161259584,51.2201264939849,0.0 3.22691189776193,51.2200536957359,0.0 3.22694603147991,51.2198970463061,0.0 3.22712076724881,51.2189473461999,0.0 3.22717866624824,51.2187481146034,0.0 3.22730448763845,51.218559051395,0.0 3.22754517899418,51.2183187704425,0.0 3.22784691325209,51.218060048875,0.0 3.22819408469155,51.2178017660921,0.0 3.22848556651693,51.2176523536976,0.0 3.22810213336512,51.2172252907354,0.0 3.22757018967376,51.2172962699324,0.0 3.22730956815045,51.217112992335,0.0 3.22739157623642,51.2168569093405,0.0 3.2280903468181,51.2167780253629,0.0 3.22810361607017,51.2165450629814,0.0 3.22819342324289,51.2162795401818,0.0 3.22837129343448,51.215819832302,0.0 3.22850012396583,51.2155071174888,0.0 3.22859692006556,51.2152654471022,0.0 3.22861589863701,51.2151086509029,0.0 3.22857453342796,51.2149417585814,0.0 3.22832473170322,51.2143161916438,0.0 3.2282471327837,51.2140823543297,0.0 3.2282152013687,51.2138394413992,0.0 3.22826452050872,51.2135864612409,0.0 3.22843792796397,51.213336250935,0.0 3.22740580774714,51.213074763191,0.0 3.22663133433664,51.2126396800211,0.0 3.22609466088959,51.2122872393161,0.0 3.22594007798035,51.2121049823938,0.0 3.22583803380339,51.2119422604467,0.0 3.22543440232151,51.2117242960336,0.0 3.22508924801093,51.2115925215978,0.0 3.22440372220929,51.2114431824202,0.0 3.22424703557049,51.2113900580202,0.0 3.22411295253188,51.2116075804711,0.0 3.22391805783132,51.2118340271985,0.0 3.22357079292932,51.2120970548771,0.0 3.22304144815998,51.2123725889345,0.0 3.22293181626469,51.212424169364,0.0 3.2228520029881,51.212461720129,0.0 3.22206068174444,51.2128340215932,0.0 3.22203601335884,51.2129633562064,0.0 3.22193027183787,51.213517757641,0.0 3.2218445886042,51.2142304690689,0.0 3.22167227237018,51.2144618875176,0.0 3.22138619494913,51.2153153632667,0.0 3.22132393262776,51.2155632875352,0.0 3.22120147347234,51.2160508971449,0.0 3.2206380139098,51.2177103597602,0.0 3.22047763989151,51.2180213994664,0.0 3.22042325022973,51.2181268854266,0.0 3.22021911782937,51.2182799454273,0.0 3.22045244872629,51.2185314362444,0.0 3.22178366926101,51.2195337939082,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 4: Seminariewijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>646</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>181</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>17</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>146</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>344</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>302</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.532508</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.526163</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.049419</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.424419</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">4</SimpleData>
+<SimpleData name="Naam_straa">Wijk 4: Seminariewijk</SimpleData>
+<SimpleData name="Parkeercap">646</SimpleData>
+<SimpleData name="Bewoner_aa">181</SimpleData>
+<SimpleData name="Buitenland">17</SimpleData>
+<SimpleData name="Andere_aan">146</SimpleData>
+<SimpleData name="Totaal_aan">344</SimpleData>
+<SimpleData name="Vrije_park">302</SimpleData>
+<SimpleData name="Proc_bezet">0.532508</SimpleData>
+<SimpleData name="Proc_bewon">0.526163</SimpleData>
+<SimpleData name="Proc_buite">0.049419</SimpleData>
+<SimpleData name="Proc_ander">0.424419</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2290599474916,51.2209690670957,0.0 3.23019872071344,51.2208658665082,0.0 3.2305068299634,51.2208117477509,0.0 3.23076967154766,51.220750058729,0.0 3.23129883382856,51.2204840031681,0.0 3.23199305706788,51.2209045285205,0.0 3.23276629178336,51.2213472147127,0.0 3.23441695572098,51.2212203460121,0.0 3.23452613395161,51.2209359774848,0.0 3.23416487301324,51.2208397523406,0.0 3.23392892065292,51.2207304587231,0.0 3.23699091608258,51.2172099400775,0.0 3.23673294086735,51.2169161099498,0.0 3.23704793038391,51.2161865572712,0.0 3.23508528754013,51.2151331320792,0.0 3.2335348292558,51.2144189927392,0.0 3.23289261654113,51.2141987645322,0.0 3.23198899878405,51.2139831577025,0.0 3.23098194749496,51.2138164958953,0.0 3.23006437609265,51.213707770744,0.0 3.22905803462579,51.2135125573023,0.0 3.22843792796397,51.213336250935,0.0 3.22836098115116,51.2134472763063,0.0 3.22826452050872,51.2135864612409,0.0 3.2282152013687,51.2138394413992,0.0 3.2282471327837,51.2140823543297,0.0 3.22832473170322,51.2143161916438,0.0 3.22857453342796,51.2149417585814,0.0 3.22861589863701,51.2151086509029,0.0 3.22859692006556,51.2152654471022,0.0 3.22850012396583,51.2155071174888,0.0 3.22837129343448,51.215819832302,0.0 3.22819342324289,51.2162795401818,0.0 3.22810361607017,51.2165450629814,0.0 3.2280903468181,51.2167780253629,0.0 3.22739157623642,51.2168569093405,0.0 3.22730956815045,51.217112992335,0.0 3.22757018967376,51.2172962699324,0.0 3.22810213336512,51.2172252907354,0.0 3.22848556651693,51.2176523536976,0.0 3.22819408469155,51.2178017660921,0.0 3.22784691325209,51.218060048875,0.0 3.22754517899418,51.2183187704425,0.0 3.22730448763845,51.218559051395,0.0 3.22717866624824,51.2187481146034,0.0 3.22712076724881,51.2189473461999,0.0 3.22694603147991,51.2198970463061,0.0 3.22691189776193,51.2200536957359,0.0 3.22706161259584,51.2201264939849,0.0 3.2279873071244,51.2206824719099,0.0 3.22838812184633,51.2210193198844,0.0 3.2290599474916,51.2209690670957,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>wijk 5: Sint-Annawijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>561</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>246</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>122</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>377</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>184</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.672014</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.65252</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.023873</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.323607</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">5</SimpleData>
+<SimpleData name="Naam_straa">wijk 5: Sint-Annawijk</SimpleData>
+<SimpleData name="Parkeercap">561</SimpleData>
+<SimpleData name="Bewoner_aa">246</SimpleData>
+<SimpleData name="Buitenland">9</SimpleData>
+<SimpleData name="Andere_aan">122</SimpleData>
+<SimpleData name="Totaal_aan">377</SimpleData>
+<SimpleData name="Vrije_park">184</SimpleData>
+<SimpleData name="Proc_bezet">0.672014</SimpleData>
+<SimpleData name="Proc_bewon">0.65252</SimpleData>
+<SimpleData name="Proc_buite">0.023873</SimpleData>
+<SimpleData name="Proc_ander">0.323607</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2335617938196,51.2098240501773,0.0 3.23238064939779,51.2098127074389,0.0 3.23170901126721,51.2098704702924,0.0 3.23138996839548,51.2099102155796,0.0 3.23143684322336,51.210317384985,0.0 3.23139772771902,51.2105239351653,0.0 3.23129029626795,51.2107369652578,0.0 3.23099644701711,51.2111408574313,0.0 3.23004968171507,51.2122305997958,0.0 3.22959540860076,51.2126900263381,0.0 3.22936407881452,51.2129518082482,0.0 3.22905803462579,51.2135125573023,0.0 3.22923411862075,51.2135467151774,0.0 3.23006437609265,51.213707770744,0.0 3.23098194749496,51.2138164958953,0.0 3.23198899878405,51.2139831577025,0.0 3.23289261654113,51.2141987645322,0.0 3.2335348292558,51.2144189927392,0.0 3.23508528754013,51.2151331320792,0.0 3.23575476185025,51.2154924739768,0.0 3.23704793038391,51.2161865572712,0.0 3.23673294086735,51.2169161099498,0.0 3.23699091608258,51.2172099400775,0.0 3.23755955027573,51.2165153976299,0.0 3.23828419227096,51.2156803490317,0.0 3.23971286377728,51.2133564408372,0.0 3.24006913525766,51.2127176545343,0.0 3.23950227671626,51.2126694325286,0.0 3.23857414205064,51.2126288543119,0.0 3.23823230837793,51.2125534920671,0.0 3.23768586840339,51.2121483173835,0.0 3.23616632955956,51.2111495550754,0.0 3.2355061062777,51.2106861013361,0.0 3.23478776508831,51.2103281536625,0.0 3.23404807021945,51.2099143409535,0.0 3.23383384501565,51.2098480660848,0.0 3.2335617938196,51.2098240501773,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 6: Gerechtshofwijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>553</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>245</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>17</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>149</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>411</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>142</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.743219</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.596107</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.041363</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.36253</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">6</SimpleData>
+<SimpleData name="Naam_straa">Wijk 6: Gerechtshofwijk</SimpleData>
+<SimpleData name="Parkeercap">553</SimpleData>
+<SimpleData name="Bewoner_aa">245</SimpleData>
+<SimpleData name="Buitenland">17</SimpleData>
+<SimpleData name="Andere_aan">149</SimpleData>
+<SimpleData name="Totaal_aan">411</SimpleData>
+<SimpleData name="Vrije_park">142</SimpleData>
+<SimpleData name="Proc_bezet">0.743219</SimpleData>
+<SimpleData name="Proc_bewon">0.596107</SimpleData>
+<SimpleData name="Proc_buite">0.041363</SimpleData>
+<SimpleData name="Proc_ander">0.36253</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2409842017524,51.2101978841824,0.0 3.24093720361123,51.2094006501642,0.0 3.2408616521201,51.209001536659,0.0 3.24076573696563,51.208661690197,0.0 3.24053991526604,51.2082135722004,0.0 3.24030118265588,51.2079080401386,0.0 3.23874122250678,51.2062638923846,0.0 3.23690808987211,51.2045695396724,0.0 3.23471862147891,51.2070281228759,0.0 3.23394070669831,51.2078769115786,0.0 3.23360194922588,51.2081828614497,0.0 3.23313011328544,51.2085113180512,0.0 3.232580819093,51.2089103821835,0.0 3.2321971874138,51.2091148134673,0.0 3.23126815006304,51.2095577911581,0.0 3.23138996839548,51.2099102155796,0.0 3.23170901126721,51.2098704702924,0.0 3.23182671653185,51.2098603470036,0.0 3.23189808856517,51.2098542096951,0.0 3.23196945042088,51.2098480722459,0.0 3.23238064939779,51.2098127074389,0.0 3.2335617938196,51.2098240501773,0.0 3.23383384501565,51.2098480660848,0.0 3.23404807021945,51.2099143409535,0.0 3.23478776508831,51.2103281536625,0.0 3.2355061062777,51.2106861013361,0.0 3.23616632955956,51.2111495550754,0.0 3.23768586840339,51.2121483173835,0.0 3.23823230837793,51.2125534920671,0.0 3.23857414205064,51.2126288543119,0.0 3.23950227671626,51.2126694325286,0.0 3.24006913525766,51.2127176545343,0.0 3.24048688677437,51.212755938203,0.0 3.24069542248739,51.2123535887235,0.0 3.24086609592599,51.2119508778015,0.0 3.24092935245825,51.2116839029589,0.0 3.24082595894153,51.2116531856352,0.0 3.24091144667746,51.2112496621761,0.0 3.2409842017524,51.2101978841824,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 7: Magdalenawijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>535</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>208</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>55</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>200</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>463</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>72</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.865421</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.449244</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.11879</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.431965</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">7</SimpleData>
+<SimpleData name="Naam_straa">Wijk 7: Magdalenawijk</SimpleData>
+<SimpleData name="Parkeercap">535</SimpleData>
+<SimpleData name="Bewoner_aa">208</SimpleData>
+<SimpleData name="Buitenland">55</SimpleData>
+<SimpleData name="Andere_aan">200</SimpleData>
+<SimpleData name="Totaal_aan">463</SimpleData>
+<SimpleData name="Vrije_park">72</SimpleData>
+<SimpleData name="Proc_bezet">0.865421</SimpleData>
+<SimpleData name="Proc_bewon">0.449244</SimpleData>
+<SimpleData name="Proc_buite">0.11879</SimpleData>
+<SimpleData name="Proc_ander">0.431965</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23646880091386,51.2040965993183,0.0 3.23521842143328,51.2029667370912,0.0 3.23424323348028,51.2033676718439,0.0 3.23362235404593,51.2035995614303,0.0 3.23336497270174,51.2036743916243,0.0 3.23267755298215,51.2039175294538,0.0 3.23211884718095,51.204316501251,0.0 3.23163830226998,51.2046151368959,0.0 3.23019223716449,51.2053028747727,0.0 3.22923199132311,51.2062509631589,0.0 3.22911683252467,51.206315261075,0.0 3.22827341232175,51.2063546999804,0.0 3.22710868321393,51.2071461985257,0.0 3.22952246905716,51.2083111420092,0.0 3.23142598336464,51.2090548968716,0.0 3.231906437565,51.2092534473464,0.0 3.2321971874138,51.2091148134673,0.0 3.232580819093,51.2089103821835,0.0 3.23313011328544,51.2085113180512,0.0 3.23339994688731,51.2083234812529,0.0 3.23360194922588,51.2081828614497,0.0 3.23394070669831,51.2078769115786,0.0 3.23406438559515,51.2077419658261,0.0 3.23409751474125,51.2077058180106,0.0 3.23452523744853,51.2072391293163,0.0 3.23456094914578,51.2072001625849,0.0 3.2345966607484,51.20716119728,0.0 3.23471862147891,51.2070281228759,0.0 3.23594716189184,51.2056486150662,0.0 3.23690808987211,51.2045695396724,0.0 3.23646880091386,51.2040965993183,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 8: Wijk Oude Gentweg</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>423</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>147</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>35</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>156</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>338</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>85</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.799054</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.434911</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.10355</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.461538</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">8</SimpleData>
+<SimpleData name="Naam_straa">Wijk 8: Wijk Oude Gentweg</SimpleData>
+<SimpleData name="Parkeercap">423</SimpleData>
+<SimpleData name="Bewoner_aa">147</SimpleData>
+<SimpleData name="Buitenland">35</SimpleData>
+<SimpleData name="Andere_aan">156</SimpleData>
+<SimpleData name="Totaal_aan">338</SimpleData>
+<SimpleData name="Vrije_park">85</SimpleData>
+<SimpleData name="Proc_bezet">0.799054</SimpleData>
+<SimpleData name="Proc_bewon">0.434911</SimpleData>
+<SimpleData name="Proc_buite">0.10355</SimpleData>
+<SimpleData name="Proc_ander">0.461538</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23470544161548,51.202529220976,0.0 3.2333787932379,51.201503258578,0.0 3.2321596732635,51.2007280555442,0.0 3.23023516023475,51.1995393292361,0.0 3.23054608602867,51.1993639359804,0.0 3.23018882879417,51.1991107561147,0.0 3.22887524509216,51.1998829993152,0.0 3.2283431676938,51.200277453889,0.0 3.22708648243127,51.2015068952455,0.0 3.22672487279121,51.2018958527732,0.0 3.22554934017627,51.2025909033623,0.0 3.22509809098637,51.2029290407006,0.0 3.22466534744647,51.2034386078355,0.0 3.22355750732117,51.2046123677067,0.0 3.22381396627933,51.2048075070327,0.0 3.22373777950523,51.2051350002514,0.0 3.22480811052905,51.2056585302237,0.0 3.22537688154222,51.2059214858249,0.0 3.22710868321393,51.2071461985257,0.0 3.22735570173387,51.2069783389666,0.0 3.22827341232175,51.2063546999804,0.0 3.22869033029709,51.2063352047667,0.0 3.22911683252467,51.206315261075,0.0 3.22923199132311,51.2062509631589,0.0 3.23019223716449,51.2053028747727,0.0 3.23163830226998,51.2046151368959,0.0 3.23211884718095,51.204316501251,0.0 3.23267755298215,51.2039175294538,0.0 3.23336497270174,51.2036743916243,0.0 3.23362235404593,51.2035995614303,0.0 3.23424323348028,51.2033676718439,0.0 3.23521842143328,51.2029667370912,0.0 3.23470544161548,51.202529220976,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>12</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 12: Wijk Burg</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>254</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>114</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>212</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.834646</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.537736</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.146226</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.316038</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">12</SimpleData>
+<SimpleData name="Naam_straa">Wijk 12: Wijk Burg</SimpleData>
+<SimpleData name="Parkeercap">254</SimpleData>
+<SimpleData name="Bewoner_aa">114</SimpleData>
+<SimpleData name="Buitenland">31</SimpleData>
+<SimpleData name="Andere_aan">67</SimpleData>
+<SimpleData name="Totaal_aan">212</SimpleData>
+<SimpleData name="Vrije_park">42</SimpleData>
+<SimpleData name="Proc_bezet">0.834646</SimpleData>
+<SimpleData name="Proc_bewon">0.537736</SimpleData>
+<SimpleData name="Proc_buite">0.146226</SimpleData>
+<SimpleData name="Proc_ander">0.316038</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22952246905716,51.2083111420092,0.0 3.22710868321393,51.2071461985257,0.0 3.22673797657584,51.2074130997654,0.0 3.22651147670044,51.2075707456671,0.0 3.22602821129638,51.2078229524604,0.0 3.2258342741735,51.2079495160636,0.0 3.22570498133872,51.2080338911314,0.0 3.22549615652965,51.2082116856411,0.0 3.22532807317928,51.2083955823777,0.0 3.22518249576808,51.2085882588118,0.0 3.22498665348593,51.2093326974805,0.0 3.22492974796872,51.2095164691973,0.0 3.22482217011937,51.2098638845644,0.0 3.22477708198047,51.2101583800845,0.0 3.22464321068403,51.2104966075068,0.0 3.22459139376169,51.2106275211137,0.0 3.22431402490416,51.2111290746714,0.0 3.22424703557049,51.2113900580202,0.0 3.22440372220929,51.2114431824202,0.0 3.22508924801093,51.2115925215978,0.0 3.22543440232151,51.2117242960336,0.0 3.22583803380339,51.2119422604467,0.0 3.22594007798035,51.2121049823938,0.0 3.22609466088959,51.2122872393161,0.0 3.2264108414103,51.2124948796991,0.0 3.22663133433664,51.2126396800211,0.0 3.22740580774714,51.213074763191,0.0 3.22843792796397,51.213336250935,0.0 3.22905803462579,51.2135125573023,0.0 3.22936407881452,51.2129518082482,0.0 3.22959540860076,51.2126900263381,0.0 3.22984260284099,51.2124400283977,0.0 3.23004968171507,51.2122305997958,0.0 3.23099644701711,51.2111408574313,0.0 3.23129029626795,51.2107369652578,0.0 3.23139772771902,51.2105239351653,0.0 3.23140967297059,51.2104608561492,0.0 3.23143684322336,51.210317384985,0.0 3.23138996839548,51.2099102155796,0.0 3.23126815006304,51.2095577911581,0.0 3.231906437565,51.2092534473464,0.0 3.23142598336464,51.2090548968716,0.0 3.22994329294889,51.2084755746091,0.0 3.22952246905716,51.2083111420092,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 11: Wijk Steenstraat</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>116</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>51</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>112</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.965517</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.455357</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.125</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.419643</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">11</SimpleData>
+<SimpleData name="Naam_straa">Wijk 11: Wijk Steenstraat</SimpleData>
+<SimpleData name="Parkeercap">116</SimpleData>
+<SimpleData name="Bewoner_aa">51</SimpleData>
+<SimpleData name="Buitenland">14</SimpleData>
+<SimpleData name="Andere_aan">47</SimpleData>
+<SimpleData name="Totaal_aan">112</SimpleData>
+<SimpleData name="Vrije_park">4</SimpleData>
+<SimpleData name="Proc_bezet">0.965517</SimpleData>
+<SimpleData name="Proc_bewon">0.455357</SimpleData>
+<SimpleData name="Proc_buite">0.125</SimpleData>
+<SimpleData name="Proc_ander">0.419643</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22299986500754,51.2048192065257,0.0 3.22282216517221,51.204654796067,0.0 3.2226926776356,51.2045622077554,0.0 3.22255766895832,51.204509525263,0.0 3.22144949689777,51.2043075483904,0.0 3.221236149747,51.204299769634,0.0 3.22083544253218,51.2043358401347,0.0 3.22049483919675,51.2043296783265,0.0 3.21989553179113,51.2043124416115,0.0 3.2198400639098,51.2047200500479,0.0 3.21945354078114,51.2047334188817,0.0 3.21953781332918,51.2042632990613,0.0 3.21947082776455,51.2040314590893,0.0 3.21744026119642,51.2043289685916,0.0 3.21689019306627,51.2059588915326,0.0 3.21699421521357,51.2059945021049,0.0 3.2176110747548,51.2062056620097,0.0 3.21901611734295,51.2067768471054,0.0 3.21918306947675,51.2068722817854,0.0 3.21970927756609,51.2072830269027,0.0 3.21975252599348,51.2073167830829,0.0 3.22018274853609,51.2076824915218,0.0 3.22113754602702,51.2085813103474,0.0 3.22181042226893,51.2089350957869,0.0 3.22219148258107,51.2091111157775,0.0 3.22225222202323,51.2091391722046,0.0 3.22256752928608,51.2092516385132,0.0 3.22287169849814,51.2091076759164,0.0 3.22327763027284,51.2092305313719,0.0 3.22389509448695,51.209374462214,0.0 3.22498665348593,51.2093326974805,0.0 3.22518249576808,51.2085882588118,0.0 3.22532807317928,51.2083955823777,0.0 3.22549615652965,51.2082116856411,0.0 3.22570498133872,51.2080338911314,0.0 3.2258342741735,51.2079495160636,0.0 3.22596691731006,51.2078629524639,0.0 3.22602821129638,51.2078229524604,0.0 3.22651147670044,51.2075707456671,0.0 3.22673797657584,51.2074130997654,0.0 3.22710868321393,51.2071461985257,0.0 3.22537688154222,51.2059214858249,0.0 3.22499402816122,51.2057444846641,0.0 3.22480811052905,51.2056585302237,0.0 3.22373777950523,51.2051350002514,0.0 3.22381396627933,51.2048075070327,0.0 3.22355750732117,51.2046123677067,0.0 3.22299986500754,51.2048192065257,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 9: Begijnhofwijk</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>259</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>112</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>144</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>115</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.555985</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.777778</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.027778</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.194444</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">9</SimpleData>
+<SimpleData name="Naam_straa">Wijk 9: Begijnhofwijk</SimpleData>
+<SimpleData name="Parkeercap">259</SimpleData>
+<SimpleData name="Bewoner_aa">112</SimpleData>
+<SimpleData name="Buitenland">4</SimpleData>
+<SimpleData name="Andere_aan">28</SimpleData>
+<SimpleData name="Totaal_aan">144</SimpleData>
+<SimpleData name="Vrije_park">115</SimpleData>
+<SimpleData name="Proc_bezet">0.555985</SimpleData>
+<SimpleData name="Proc_bewon">0.777778</SimpleData>
+<SimpleData name="Proc_buite">0.027778</SimpleData>
+<SimpleData name="Proc_ander">0.194444</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22908336043957,51.1995180386923,0.0 3.22811626118406,51.1988141958184,0.0 3.22766510419425,51.1986861613214,0.0 3.22659394164579,51.1985235970669,0.0 3.22500991878986,51.1982799513895,0.0 3.22420917842864,51.198205604336,0.0 3.22349694181748,51.198227250042,0.0 3.22225063014877,51.1984149655358,0.0 3.21929880237325,51.1989119520583,0.0 3.21889213300397,51.1995145131251,0.0 3.21855680058066,51.2002176613268,0.0 3.2183075853627,51.2008824030758,0.0 3.21808820851478,51.2017186844861,0.0 3.21796045643314,51.2025237478271,0.0 3.21789831564724,51.2028328231075,0.0 3.21773063668164,51.2034605373723,0.0 3.21744026119642,51.2043289685916,0.0 3.21768622032931,51.2042929352238,0.0 3.21947082776455,51.2040314590893,0.0 3.21953781332918,51.2042632990613,0.0 3.21945354078114,51.2047334188817,0.0 3.2198400639098,51.2047200500479,0.0 3.21989553179113,51.2043124416115,0.0 3.22049483919675,51.2043296783265,0.0 3.22083544253218,51.2043358401347,0.0 3.221236149747,51.204299769634,0.0 3.22144949689777,51.2043075483904,0.0 3.22255766895832,51.204509525263,0.0 3.2226926776356,51.2045622077554,0.0 3.22282216517221,51.204654796067,0.0 3.22299986500754,51.2048192065257,0.0 3.22355750732117,51.2046123677067,0.0 3.22382056723458,51.2043336595571,0.0 3.22466534744647,51.2034386078355,0.0 3.22509809098637,51.2029290407006,0.0 3.22554934017627,51.2025909033623,0.0 3.22672487279121,51.2018958527732,0.0 3.22708648243127,51.2015068952455,0.0 3.22742642644111,51.2011743298292,0.0 3.2283431676938,51.200277453889,0.0 3.22887524509216,51.1998829993152,0.0 3.22926066178169,51.1996564212435,0.0 3.22908336043957,51.1995180386923,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id_1</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Naam_straa</th>
+<td>Wijk 10: West-Brugge</td>
+</tr><tr bgcolor="">
+<th>Parkeercap</th>
+<td>587</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Bewoner_aa</th>
+<td>155</td>
+</tr><tr bgcolor="">
+<th>Buitenland</th>
+<td>13</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Andere_aan</th>
+<td>103</td>
+</tr><tr bgcolor="">
+<th>Totaal_aan</th>
+<td>271</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vrije_park</th>
+<td>316</td>
+</tr><tr bgcolor="">
+<th>Proc_bezet</th>
+<td>0.46167</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_bewon</th>
+<td>0.571956</td>
+</tr><tr bgcolor="">
+<th>Proc_buite</th>
+<td>0.04797</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Proc_ander</th>
+<td>0.380074</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b0ffffff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Tellingen_aug2013_Totaal">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Id_1">10</SimpleData>
+<SimpleData name="Naam_straa">Wijk 10: West-Brugge</SimpleData>
+<SimpleData name="Parkeercap">587</SimpleData>
+<SimpleData name="Bewoner_aa">155</SimpleData>
+<SimpleData name="Buitenland">13</SimpleData>
+<SimpleData name="Andere_aan">103</SimpleData>
+<SimpleData name="Totaal_aan">271</SimpleData>
+<SimpleData name="Vrije_park">316</SimpleData>
+<SimpleData name="Proc_bezet">0.46167</SimpleData>
+<SimpleData name="Proc_bewon">0.571956</SimpleData>
+<SimpleData name="Proc_buite">0.04797</SimpleData>
+<SimpleData name="Proc_ander">0.380074</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.21809677459978,51.1995820220576,0.0 3.21631061454911,51.1999356708961,0.0 3.21594343574711,51.1998571692398,0.0 3.21574573639418,51.2000443313288,0.0 3.21550617699831,51.2003167113307,0.0 3.21525838324199,51.200692473701,0.0 3.21473086461835,51.2015863945571,0.0 3.21395915542838,51.2029381670615,0.0 3.21308725763798,51.2044352314784,0.0 3.21288025171508,51.2048135274891,0.0 3.2130832567972,51.2059728828304,0.0 3.21360687965291,51.2089106675042,0.0 3.21374869360456,51.2096294347041,0.0 3.21386238079245,51.2095376307074,0.0 3.21431476369406,51.2091723207733,0.0 3.21504090796107,51.2085952519966,0.0 3.21549965367644,51.2081735023249,0.0 3.21575116403366,51.2079247875063,0.0 3.21585415713978,51.2078021101867,0.0 3.21604476580818,51.2075661199009,0.0 3.2162356544616,51.2073187146252,0.0 3.21638759573619,51.2070538062998,0.0 3.21662590085812,51.2066032648676,0.0 3.21675980828341,51.2063324716376,0.0 3.21689019306627,51.2059588915326,0.0 3.21720433931332,51.2050280458447,0.0 3.21744026119642,51.2043289685916,0.0 3.21773063668164,51.2034605373723,0.0 3.21789831564724,51.2028328231075,0.0 3.21796045643314,51.2025237478271,0.0 3.21798469430133,51.2023710077424,0.0 3.21808820851478,51.2017186844861,0.0 3.2183075853627,51.2008824030758,0.0 3.21855680058066,51.2002176613268,0.0 3.21867898377004,51.1999614626994,0.0 3.21889213300397,51.1995145131251,0.0 3.21809677459978,51.1995820220576,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder>
+</Document></kml>

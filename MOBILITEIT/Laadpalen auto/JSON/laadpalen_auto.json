@@ -1,0 +1,314 @@
+[
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Albert Serreynstraat 8",
+		"Gemeente" : "Sint-Andries",
+		"Status" : "Bestaand",
+		"Bron" : "Stad  Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.174937543777737, 51.188202507032976 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Bargeweg 19",
+		"Gemeente" : "Brugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.226771190357061, 51.20855277470777 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Brusselstraat 8",
+		"Gemeente" : "Zeebrugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.207883314334041, 51.33138220673029 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Gerard Davidstraat 19",
+		"Gemeente" : "Brugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.226771190357061, 51.20855277470777 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Koningin Astridpark 6",
+		"Gemeente" : "Brugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.226771190357061, 51.20855277470777 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Lodewijk Coiseaukaai 1",
+		"Gemeente" : "Brugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.226771190357061, 51.20855277470777 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Magdalenastraat 27",
+		"Gemeente" : "Sint-Andries",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.174937543777737, 51.188202507032976 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Marguerite Yourcenarstraat 8",
+		"Gemeente" : "Brugge",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.226771190357061, 51.20855277470777 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Moerkerkse Steenweg 144",
+		"Gemeente" : "Sint-Kruis",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.273450546219714, 51.2183796381022 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Pol Dhondtstraat 8",
+		"Gemeente" : "Lissewege",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.1990826121549945, 51.31700240047098 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Rademakersstraat 11",
+		"Gemeente" : "Lissewege",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.1990826121549945, 51.31700240047098 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Stokerij 8",
+		"Gemeente" : "Dudzele",
+		"Status" : "Bestaand",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.2374751856754576, 51.29083925137294 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Boogschutterslaan 23",
+		"Gemeente" : "Sint-Kruis",
+		"Status" : "Toekomstig",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.273450546219714, 51.2183796381022 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Dries 2",
+		"Gemeente" : "Assebroek",
+		"Status" : "Toekomstig",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.257077748245737, 51.19332037706953 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Koning Albert-I Laan",
+		"Gemeente" : "Sint-Michiels",
+		"Status" : "Toekomstig",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.20787594670761, 51.18087951233557 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Zandstraat 284",
+		"Gemeente" : "Sint-Andries",
+		"Status" : "Toekomstig",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.174937543777737, 51.188202507032976 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Pandreitje",
+		"Gemeente" : "Parking Pandreitje",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.228493691815745, 51.206894874609766 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Zilverpand",
+		"Gemeente" : "Parking Zilverpand",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.220020689542119, 51.2064679725735 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Biekorf",
+		"Gemeente" : "Parking Biekorf",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.222412388159778, 51.21013137418799 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Centrum 't Zand",
+		"Gemeente" : "Centrum 't Zand",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.217561689957571, 51.204462471430396 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Katelijne",
+		"Gemeente" : "Parking Katelijne",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.2265436938666334, 51.202288872819075 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Centrum Station",
+		"Gemeente" : "Centrum Station",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.2205098985776264, 51.19648376975634 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking NMBS (kant Sint-Michiels)",
+		"Gemeente" : "Sint-Michiels)",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.20787594670761, 51.18087951233557 ]
+		}
+	},
+	{
+		"json_featuretype" : "Laadpalen_Auto",
+		"Laadpunt" : "Parking Alfa",
+		"Gemeente" : "Brugge",
+		"Status" : "Publieke Parking",
+		"Bron" : "Stad Brugge",
+		"Aangemaakt op" : "21/09/2018",
+		"json_ogc_wkt_crs" : "GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]",
+		"json_geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 3.233705694785308, 51.20872357166317 ]
+		}
+	}
+]

@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Laadpalen_Auto</name>
+<visibility>1</visibility>
+<Schema name="Laadpalen_Auto" id="kml_schema_ft_Laadpalen_Auto">
+<SimpleField type="xsd:string" name="Laadpunt">
+<displayName>Laadpunt</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Gemeente">
+<displayName>Gemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Status">
+<displayName>Status</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Bron">
+<displayName>Bron</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Laadpalen_Auto">
+<name>Laadpalen_Auto</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Albert Serreynstraat 8</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad  Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Albert Serreynstraat 8</SimpleData>
+<SimpleData name="Gemeente">Sint-Andries</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad  Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.17493754377774,51.188202507033,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Bargeweg 19</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Bargeweg 19</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22677119035706,51.2085527747078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Brusselstraat 8</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Brusselstraat 8</SimpleData>
+<SimpleData name="Gemeente">Zeebrugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.20788331433404,51.3313822067303,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Gerard Davidstraat 19</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Gerard Davidstraat 19</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22677119035706,51.2085527747078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Koningin Astridpark 6</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Koningin Astridpark 6</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22677119035706,51.2085527747078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Lodewijk Coiseaukaai 1</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Lodewijk Coiseaukaai 1</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22677119035706,51.2085527747078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Magdalenastraat 27</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Magdalenastraat 27</SimpleData>
+<SimpleData name="Gemeente">Sint-Andries</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.17493754377774,51.188202507033,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Marguerite Yourcenarstraat 8</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Marguerite Yourcenarstraat 8</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22677119035706,51.2085527747078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Moerkerkse Steenweg 144</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Moerkerkse Steenweg 144</SimpleData>
+<SimpleData name="Gemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.27345054621971,51.2183796381022,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Pol Dhondtstraat 8</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Pol Dhondtstraat 8</SimpleData>
+<SimpleData name="Gemeente">Lissewege</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.19908261215499,51.317002400471,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Rademakersstraat 11</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Rademakersstraat 11</SimpleData>
+<SimpleData name="Gemeente">Lissewege</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.19908261215499,51.317002400471,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Stokerij 8</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Bestaand</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Stokerij 8</SimpleData>
+<SimpleData name="Gemeente">Dudzele</SimpleData>
+<SimpleData name="Status">Bestaand</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.23747518567546,51.2908392513729,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Boogschutterslaan 23</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Toekomstig</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Boogschutterslaan 23</SimpleData>
+<SimpleData name="Gemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Status">Toekomstig</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.27345054621971,51.2183796381022,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Dries 2</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Toekomstig</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Dries 2</SimpleData>
+<SimpleData name="Gemeente">Assebroek</SimpleData>
+<SimpleData name="Status">Toekomstig</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.25707774824574,51.1933203770695,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Koning Albert-I Laan</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Toekomstig</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Koning Albert-I Laan</SimpleData>
+<SimpleData name="Gemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Status">Toekomstig</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.20787594670761,51.1808795123356,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Zandstraat 284</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Toekomstig</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Zandstraat 284</SimpleData>
+<SimpleData name="Gemeente">Sint-Andries</SimpleData>
+<SimpleData name="Status">Toekomstig</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.17493754377774,51.188202507033,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Pandreitje</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Parking Pandreitje</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Pandreitje</SimpleData>
+<SimpleData name="Gemeente">Parking Pandreitje</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22849369181574,51.2068948746098,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Zilverpand</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Parking Zilverpand</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Zilverpand</SimpleData>
+<SimpleData name="Gemeente">Parking Zilverpand</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22002068954212,51.2064679725735,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Biekorf</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Parking Biekorf</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Biekorf</SimpleData>
+<SimpleData name="Gemeente">Parking Biekorf</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22241238815978,51.210131374188,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Centrum 't Zand</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Centrum 't Zand</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Centrum 't Zand</SimpleData>
+<SimpleData name="Gemeente">Centrum 't Zand</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.21756168995757,51.2044624714304,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Katelijne</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Parking Katelijne</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Katelijne</SimpleData>
+<SimpleData name="Gemeente">Parking Katelijne</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22654369386663,51.2022888728191,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Centrum Station</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Centrum Station</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Centrum Station</SimpleData>
+<SimpleData name="Gemeente">Centrum Station</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.22050989857763,51.1964837697563,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking NMBS (kant Sint-Michiels)</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Michiels)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking NMBS (kant Sint-Michiels)</SimpleData>
+<SimpleData name="Gemeente">Sint-Michiels)</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.20787594670761,51.1808795123356,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Laadpunt</th>
+<td>Parking Alfa</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Status</th>
+<td>Publieke Parking</td>
+</tr><tr bgcolor="">
+<th>Bron</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>21/09/2018</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Laadpalen_Auto">
+<SimpleData name="Laadpunt">Parking Alfa</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Status">Publieke Parking</SimpleData>
+<SimpleData name="Bron">Stad Brugge</SimpleData>
+<SimpleData name="Aangemaakt op">21/09/2018</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<coordinates>3.23370569478531,51.2087235716632,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,240 @@
+[
+{
+"json_featuretype":"Fietstrommels"
+,"id":1
+,"Pro5":0
+,"Pro4":1
+,"Pro2":2
+,"Locatie":"Baron Ruzettelaan thv. Parking nr. 122"
+,"Postcode":8310
+,"Deelgemeente":"Assebroek"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23178330872317,51.1930536175497]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":2
+,"Pro5":1
+,"Pro4":3
+,"Pro2":0
+,"Locatie":"Doorgang tussen Jasmijnstraat en Sint-Katharina"
+,"Postcode":8310
+,"Deelgemeente":"Assebroek"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23618315006298,51.1964217608076]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":3
+,"Pro5":0
+,"Pro4":6
+,"Pro2":0
+,"Locatie":"Vrijheidsstraat"
+,"Postcode":8310
+,"Deelgemeente":"Assebroek"
+,"Info":"Ter hoogte van het pleintje"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2334522240399,51.1963202446897]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":4
+,"Pro5":0
+,"Pro4":2
+,"Pro2":2
+,"Locatie":"Hoek Kroonstraat – Leopold I-laan"
+,"Postcode":8000
+,"Deelgemeente":"Kristus-Koning"
+,"Info":"Suggestie bewoners"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20941455363473,51.2164295492296]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":5
+,"Pro5":0
+,"Pro4":4
+,"Pro2":0
+,"Locatie":"Hoek Witte Beerstraat – Legeweg"
+,"Postcode":8000
+,"Deelgemeente":"Kristus-Koning"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20775096872178,51.2050529827257]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":6
+,"Pro5":0
+,"Pro4":3
+,"Pro2":0
+,"Locatie":"Vier Heemskinderenstraat 5"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23397469773551,51.2289213150163]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":7
+,"Pro5":0
+,"Pro4":3
+,"Pro2":0
+,"Locatie":"Hoek Jacob van Maerlantstraat – Sint-Jozefstraa"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23369091531794,51.2278408716671]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":8
+,"Pro5":0
+,"Pro4":0
+,"Pro2":2
+,"Locatie":"Krommestraat – De Meulenaerelaan"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22842067634401,51.2249348076353]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":9
+,"Pro5":0
+,"Pro4":0
+,"Pro2":2
+,"Locatie":"Louis de Potterstraat"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Info":"Suggestie bewoners"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23673021812104,51.2255024790319]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":10
+,"Pro5":0
+,"Pro4":2
+,"Pro2":0
+,"Locatie":"Sint-Jozefsplein"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23198805651912,51.2257687389169]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":11
+,"Pro5":0
+,"Pro4":0
+,"Pro2":2
+,"Locatie":"Altebijstraat"
+,"Postcode":8310
+,"Deelgemeente":"Sint-Kruis"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24182605081867,51.2096008097276]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":12
+,"Pro5":0
+,"Pro4":2
+,"Pro2":0
+,"Locatie":"Maalse Steenweg – Hoek Assebroeklaan"
+,"Postcode":8310
+,"Deelgemeente":"Sint-Kruis"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24739389817565,51.2102192471381]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":13
+,"Pro5":0
+,"Pro4":0
+,"Pro2":4
+,"Locatie":"Vredestraat"
+,"Postcode":8310
+,"Deelgemeente":"Sint-Kruis"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2483515989797,51.208521344151]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":14
+,"Pro5":0
+,"Pro4":2
+,"Pro2":0
+,"Locatie":"Canadaplein"
+,"Postcode":8200
+,"Deelgemeente":"Sint-Michiels"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20960528199069,51.2038508968804]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":15
+,"Pro5":0
+,"Pro4":1
+,"Pro2":0
+,"Locatie":"Buiten Boeverievest"
+,"Postcode":8200
+,"Deelgemeente":"Sint-Michiels"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21354703562814,51.2015555316303]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":16
+,"Pro5":0
+,"Pro4":4
+,"Pro2":0
+,"Locatie":"Leopold II-Laan"
+,"Postcode":8000
+,"Deelgemeente":"Stubbekwartier"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21687719304958,51.2194667911037]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":17
+,"Pro5":0
+,"Pro4":3
+,"Pro2":0
+,"Locatie":"Werfplein"
+,"Postcode":8000
+,"Deelgemeente":"Stubbekwartier"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21823025967888,51.2190743617742]}
+}
+,{
+"json_featuretype":"Fietstrommels"
+,"id":18
+,"Pro5":0
+,"Pro4":0
+,"Pro2":0
+,"Locatie":"Graaf de Meulenaerelaan"
+,"Postcode":8000
+,"Deelgemeente":"Sint-Jozef"
+,"Info":"Ter hoogte van witte muur"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23174936391468,51.2240525176695]}
+}
+]
