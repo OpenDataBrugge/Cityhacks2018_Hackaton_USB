@@ -1,0 +1,3978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>spoorwegenOK</name>
+<visibility>1</visibility>
+<Schema name="spoorwegenOK" id="kml_schema_ft_spoorwegenOK">
+<SimpleField type="xsd:double" name="Link_id">
+<displayName>Link_id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Railway_nm">
+<displayName>Railway_nm</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Lang_code">
+<displayName>Lang_code</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Bridge">
+<displayName>Bridge</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Tunnel">
+<displayName>Tunnel</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_spoorwegenOK">
+<name>spoorwegenOK</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853834</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853834</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2058743277521,51.2502330602875,0.0 3.20439336142891,51.2562235892983,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53685186</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53685186</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22404110438798,51.1854567481638,0.0 3.22309043876191,51.1873770426892,0.0 3.22175124520296,51.1899459983173,0.0 3.21999161144012,51.192656869448,0.0 3.21891144501357,51.1942061937437,0.0 3.2153316258595,51.1983860944883,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60863308</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60863308</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20155422972263,51.2675336487963,0.0 3.20242424620995,51.2688632863008,0.0 3.20291385955709,51.2698936707297,0.0 3.20382322750609,51.2709826471129,0.0 3.20481348998926,51.2717931333906,0.0 3.20622316511539,51.2726030931785,0.0 3.2073138527988,51.2730935482636,0.0 3.20918276269263,51.2736414444294,0.0 3.21083432850203,51.2739415150481,0.0 3.2115544444428,51.2740319886124,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853433</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853433</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2306302513415,51.1780167427754,0.0 3.22966078854963,51.1789866428203,0.0 3.22751029199855,51.1808270320232,0.0 3.22700159786089,51.1813470841584,0.0 3.22528105636585,51.1836168879655,0.0 3.22481033204816,51.1844664147786,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853833</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853833</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20680300365244,51.2465338999716,0.0 3.20661293437366,51.247344379504,0.0 3.20634292628809,51.2483244226692,0.0 3.2058743277521,51.2502330602875,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53677999</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53677999</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21182380057527,51.2741215319071,0.0 3.21326293261936,51.2744218105899,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79533590</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79533590</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23444223591216,51.3186809440418,0.0 3.23099387558154,51.3218392280528,0.0 3.23001351750301,51.3228298575377,0.0 3.22947477091419,51.3237598304865,0.0 3.22928435618547,51.3242099310799,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79516738</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79516738</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20120411762487,51.2687527625647,0.0 3.20040350500674,51.2723928588874,0.0 3.19874404599576,51.2785924226964,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60849793</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60849793</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20382303141022,51.2078060418089,0.0 3.20285297035812,51.2082356892286,0.0 3.20091386100947,51.2089049179729,0.0 3.19922345133172,51.2093656628951,0.0 3.19720268860421,51.2097558982016,0.0 3.19510241585374,51.2100050884504,0.0 3.19284225743637,51.2101553079067,0.0 3.19201387554355,51.2101551806973,0.0 3.19132385984605,51.2101552664101,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53961345</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53961345</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19748325835105,51.3263196253398,0.0 3.19821475841503,51.3264299824151,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60867783</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60867783</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21400350266531,51.2745819980757,0.0 3.21566362280071,51.2749122133697,0.0 3.2171443138344,51.2754017369218,0.0 3.21901420579355,51.2762924960228,0.0 3.2212543332215,51.2778322748859,0.0 3.22278333952881,51.2788425038103,0.0 3.22673117101788,51.2815818362402,0.0 3.23014239878871,51.2839914049639,0.0 3.23236164931626,51.2854322618478,0.0 3.23400190018283,51.2863715586417,0.0 3.23601121173388,51.287411701178,0.0 3.23820170721374,51.2884523785878,0.0 3.24090174110173,51.289671687197,0.0 3.24394234426478,51.2909521063868,0.0 3.24560148864584,51.2916619717288,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53975483</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53975483</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1673645537842,51.2078156051298,0.0 3.17239247698674,51.2083660461202,0.0 3.17311388455146,51.208435920398,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53975477</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53975477</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.149435599481,51.2059262510524,0.0 3.15783589470699,51.2068156630536,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>580423679</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">580423679</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19109323978209,51.2101552879639,0.0 3.19132385984605,51.2101552664101,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60827309</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60827309</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20881181044859,51.2048258272448,0.0 3.20859101706804,51.2050253024368,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53974774</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53974774</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20180355869736,51.2170755147894,0.0 3.20173340760016,51.217445655646,0.0 3.20173351355885,51.217515187862,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683704</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683704</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21371091647788,51.2002256053797,0.0 3.21193097901045,51.2019349032277,0.0 3.21026158721797,51.2034957648917,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60863920</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60863920</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22959137828189,51.1759370028287,0.0 3.22859064884317,51.1772067391403,0.0 3.22807171819748,51.1778460603564,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79533575</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79533575</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25370203158349,51.2993807940528,0.0 3.25329189761437,51.3007605436657,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>68160079</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">68160079</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24560148864584,51.2916619717288,0.0 3.24627254702605,51.2919615092941,0.0 3.24776203804492,51.2925816667576,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60864835</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60864835</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1919150454661,51.3047813279735,0.0 3.19141610031013,51.3068205203009,0.0 3.19028523454231,51.3116913586607,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53964686</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53964686</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20238350732282,51.2666529972888,0.0 3.20155422972263,51.2675336487963,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53676061</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53676061</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19821475841503,51.3264299824151,0.0 3.19891482707615,51.3265400248343,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683306</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683306</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2099305893291,51.2038251137238,0.0 3.20946080891683,51.2042458097399,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53676114</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53676114</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22928435618547,51.3242099310799,0.0 3.22907397225074,51.3247200967464,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853430</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853430</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22459135229335,51.1855768027179,0.0 3.22448134061122,51.1873569075015,0.0 3.22443055899998,51.1886763580737,0.0 3.22341049262603,51.1905670100172,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53970016</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53970016</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20859101706804,51.2050253024368,0.0 3.20744028181181,51.2058252073683,0.0 3.20525375145828,51.2071758018853,0.0 3.20382303141022,51.2078060418089,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>567225635</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">567225635</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20317341521836,51.3271694759838,0.0 3.20589466711174,51.3275194998884,0.0 3.21061472084366,51.3281196010511,0.0 3.21107413359814,51.3282399670783,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60827308</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60827308</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20946080891683,51.2042458097399,0.0 3.20881181044859,51.2048258272448,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853820</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853820</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20745424602415,51.24151440524,0.0 3.20749396270644,51.2437745327887,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53964688</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53964688</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20749396270644,51.2437745327887,0.0 3.20738394659998,51.2450041404851,0.0 3.20680300365244,51.2465338999716,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853896</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853896</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19281516028159,51.325799470029,0.0 3.19409553351062,51.3259998877007,0.0 3.19748325835105,51.3263196253398,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683773</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683773</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21474147653641,51.1995762776325,0.0 3.21371091647788,51.2002256053797,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683799</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683799</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21465175111284,51.1991767548179,0.0 3.21371091647788,51.2002256053797,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853850</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853850</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19508278634846,51.263303683225,0.0 3.19450348313442,51.2638634503311,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53681371</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53681371</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20210357368895,51.2229353101743,0.0 3.20224313057097,51.2234060206415,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853431</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853431</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2191302536611,51.195506243373,0.0 3.21864071611353,51.1959870441308,0.0 3.21776063231359,51.1971964400518,0.0 3.21655192090704,51.1984165337275,0.0 3.21574065891469,51.1989266350478,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853434</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853434</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22481033204816,51.1844664147786,0.0 3.22459061811357,51.1854562740061,0.0 3.22459135229335,51.1855768027179,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>567215523</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">567215523</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20469288634563,51.2502932960697,0.0 3.20211406390013,51.2538035197805,0.0 3.19889426731883,51.2581127446136,0.0 3.19636400500442,51.2617137093572,0.0 3.19632347919698,51.2617828381024,0.0 3.19608386919307,51.2622034395428,0.0 3.19508278634846,51.263303683225,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53681344</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53681344</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20224313057097,51.2234060206415,0.0 3.20239235890775,51.2237852770454,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683794</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683794</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21543137928307,51.1991264188827,0.0 3.21474147653641,51.1995762776325,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79532534</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79532534</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22889466024299,51.3258493573314,0.0 3.22892371327401,51.3264000642116,0.0 3.2289236213288,51.3271590737941,0.0 3.22916369541811,51.3279296618478,0.0 3.23118445043117,51.3306896101186,0.0 3.23246458008092,51.3316694743116,0.0 3.2336736204504,51.3322291611193,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53682396</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53682396</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20332366526059,51.2114758542338,0.0 3.20325326789361,51.2116350825501,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53686015</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53686015</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23111105384592,51.1772762225396,0.0 3.2306302513415,51.1780167427754,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>567225634</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">567225634</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19960380436019,51.3266499537169,0.0 3.20180368969286,51.3269891362706,0.0 3.20317341521836,51.3271694759838,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60864836</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60864836</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19028523454231,51.3116913586607,0.0 3.18973582217508,51.3141112863476,0.0 3.1878468639099,51.3211507894632,0.0 3.18804601848301,51.3228504251531,0.0 3.18871561505872,51.3239405752114,0.0 3.18999536781187,51.3248200917069,0.0 3.19115514517611,51.3253994305271,0.0 3.19281516028159,51.325799470029,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853691</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853691</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20192405797141,51.2163153369734,0.0 3.20189231083132,51.2166255964742,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79516763</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79516763</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24795231154751,51.2926622656145,0.0 3.24888232311685,51.2930314479576,0.0 3.25135118355397,51.2945102157103,0.0 3.25259204225256,51.295870758985,0.0 3.25353143477249,51.2975505982896,0.0 3.25370203158349,51.2993807940528,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53975478</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53975478</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.15783589470699,51.2068156630536,0.0 3.1673645537842,51.2078156051298,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53685966</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53685966</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22807171819748,51.1778460603564,0.0 3.22671049195712,51.1800567747867,0.0 3.22560151365369,51.1821262137828,0.0 3.22478127572606,51.1838461423323,0.0 3.22404110438798,51.1854567481638,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853429</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853429</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22341049262603,51.1905670100172,0.0 3.2229403844467,51.1912369108954,0.0 3.22220150218874,51.1921869652342,0.0 3.2191302536611,51.195506243373,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53680683</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53680683</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20459397145911,51.231404366486,0.0 3.20477345385884,51.2319044358395,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53680624</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53680624</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20483360271429,51.2323048291797,0.0 3.20502288208999,51.2330043156242,0.0 3.20565376831378,51.2349446297408,0.0 3.20636326289261,51.2375844927832,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853819</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853819</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20636326289261,51.2375844927832,0.0 3.20680300113651,51.2387546064365,0.0 3.20745424602415,51.24151440524,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53682454</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53682454</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20355372668735,51.2110551388121,0.0 3.20332366526059,51.2114758542338,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53962914</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53962914</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1952346057835,51.2919722386853,0.0 3.1951539620709,51.2923121328834,0.0 3.1946436851712,51.2941519175896,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53678326</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53678326</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20155422972263,51.2675336487963,0.0 3.20120411762487,51.2687527625647,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53678120</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53678120</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18675305269219,51.2715134366726,0.0 3.18217523655824,51.2783325732393,0.0 3.18069548439064,51.2803526442062,0.0 3.17894629984169,51.281992212255,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53974094</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53974094</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19231433072197,51.2658534549784,0.0 3.19037406682257,51.2675631412177,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683872</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683872</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2153316258595,51.1983860944883,0.0 3.21526087128704,51.1986368764677,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53681301</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53681301</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20239235890775,51.2237852770454,0.0 3.20251354607752,51.2241051554284,0.0 3.20278377513653,51.2252550798087,0.0 3.20459397145911,51.231404366486,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853828</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853828</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20680300365244,51.2465338999716,0.0 3.20587418442819,51.2483140244017,0.0 3.20469288634563,51.2502932960697,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53974093</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53974093</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19450348313442,51.2638634503311,0.0 3.1938838678524,51.2644830739621,0.0 3.19231433072197,51.2658534549784,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>580423678</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">580423678</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17311388455146,51.208435920398,0.0 3.17560390240865,51.2086754578766,0.0 3.18579384243211,51.209745471672,0.0 3.18859290177806,51.2100260671578,0.0 3.19029328604249,51.2101253014324,0.0 3.19091242101808,51.2101558050486,0.0 3.19109323978209,51.2101552879639,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53964685</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53964685</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20439336142891,51.2562235892983,0.0 3.20378376505561,51.2583730236199,0.0 3.20337371468394,51.2604432994462,0.0 3.20258413693291,51.2634334239726,0.0 3.20238350732282,51.2666529972888,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53962906</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53962906</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1940332073986,51.2963719568654,0.0 3.19321412633196,51.2995308815397,0.0 3.1919150454661,51.3047813279735,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53964970</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53964970</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2115544444428,51.2740319886124,0.0 3.21182380057527,51.2741215319071,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53680656</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53680656</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20477345385884,51.2319044358395,0.0 3.20483360271429,51.2323048291797,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683350</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683350</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21026158721797,51.2034957648917,0.0 3.2099305893291,51.2038251137238,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79533596</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79533596</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25329189761437,51.3007605436657,0.0 3.2532117293633,51.3010205193856,0.0 3.25287134354103,51.3015712218514,0.0 3.25251159182102,51.3020811828501,0.0 3.25218106783438,51.3024512031831,0.0 3.25150129970808,51.3032003349901,0.0 3.24716212833113,51.3072105172787,0.0 3.23855232051565,51.3149807591602,0.0 3.23526258915391,51.3179506364246,0.0 3.23444223591216,51.3186809440418,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>68160083</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">68160083</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24776203804492,51.2925816667576,0.0 3.24795231154751,51.2926622656145,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53676056</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53676056</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19891482707615,51.3265400248343,0.0 3.19960380436019,51.3266499537169,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>721182283</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">721182283</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20325326789361,51.2116350825501,0.0 3.20313296456696,51.211945629005,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53974847</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53974847</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20189231083132,51.2166255964742,0.0 3.20187404665942,51.2167656375353,0.0 3.20180355869736,51.2170755147894,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53681905</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53681905</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20173351355885,51.217515187862,0.0 3.20165356637948,51.2180555833116,0.0 3.20158243246002,51.2190549710701,0.0 3.20163304245871,51.2210150886569,0.0 3.2018027925008,51.2219751330573,0.0 3.20210357368895,51.2229353101743,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683823</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683823</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21574065891469,51.1989266350478,0.0 3.21543137928307,51.1991264188827,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>60853690</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">60853690</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20313296456696,51.211945629005,0.0 3.20267219128477,51.2132552284626,0.0 3.2022125443229,51.2150353315186,0.0 3.20192405797141,51.2163153369734,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53975535</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53975535</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20859101706804,51.2050253024368,0.0 3.20671211680987,51.2069154917342,0.0 3.20544348030416,51.2084454571279,0.0 3.20530320834949,51.2085958874118,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53677980</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53677980</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21326293261936,51.2744218105899,0.0 3.21400350266531,51.2745819980757,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_80">
+<name>kml_80</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>79516739</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">79516739</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19874404599576,51.2785924226964,0.0 3.19711419338969,51.2845523683787,0.0 3.1952346057835,51.2919722386853,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_81">
+<name>kml_81</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53975536</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53975536</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20530320834949,51.2085958874118,0.0 3.20456300903963,51.2094252973588,0.0 3.20391335344479,51.2103958159791,0.0 3.20355372668735,51.2110551388121,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_82">
+<name>kml_82</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53962915</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53962915</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1946436851712,51.2941519175896,0.0 3.19441331649005,51.2949318372035,0.0 3.1940332073986,51.2963719568654,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_83">
+<name>kml_83</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53683833</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53683833</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21526087128704,51.1986368764677,0.0 3.21465175111284,51.1991767548179,0.0</coordinates>
+</LineString>
+</Placemark>
+<Placemark id="kml_84">
+<name>kml_84</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Link_id</th>
+<td>53676096</td>
+</tr><tr bgcolor="">
+<th>Bridge</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Tunnel</th>
+<td>N</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>22/06/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_spoorwegenOK">
+<SimpleData name="Link_id">53676096</SimpleData>
+<SimpleData name="Bridge">N</SimpleData>
+<SimpleData name="Tunnel">N</SimpleData>
+<SimpleData name="Aangemaakt op">22/06/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<LineString>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22907397225074,51.3247200967464,0.0 3.22903455166691,51.3248193742498,0.0 3.22889466024299,51.3258493573314,0.0</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document></kml>

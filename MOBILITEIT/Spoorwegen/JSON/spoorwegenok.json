@@ -1,0 +1,758 @@
+[
+{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853834
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2058743277521,51.2502330602875],[3.20439336142891,51.2562235892983]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53685186
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22404110438798,51.1854567481638],[3.22309043876191,51.1873770426892],[3.22175124520296,51.1899459983173],[3.21999161144012,51.192656869448],[3.21891144501357,51.1942061937437],[3.2153316258595,51.1983860944883]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60863308
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20155422972263,51.2675336487963],[3.20242424620995,51.2688632863008],[3.20291385955709,51.2698936707297],[3.20382322750609,51.2709826471129],[3.20481348998926,51.2717931333906],[3.20622316511539,51.2726030931785],[3.2073138527988,51.2730935482636],[3.20918276269263,51.2736414444294],[3.21083432850203,51.2739415150481],[3.2115544444428,51.2740319886124]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853433
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2306302513415,51.1780167427754],[3.22966078854963,51.1789866428203],[3.22751029199855,51.1808270320232],[3.22700159786089,51.1813470841584],[3.22528105636585,51.1836168879655],[3.22481033204816,51.1844664147786]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853833
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20680300365244,51.2465338999716],[3.20661293437366,51.247344379504],[3.20634292628809,51.2483244226692],[3.2058743277521,51.2502330602875]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53677999
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21182380057527,51.2741215319071],[3.21326293261936,51.2744218105899]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79533590
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.23444223591216,51.3186809440418],[3.23099387558154,51.3218392280528],[3.23001351750301,51.3228298575377],[3.22947477091419,51.3237598304865],[3.22928435618547,51.3242099310799]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79516738
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20120411762487,51.2687527625647],[3.20040350500674,51.2723928588874],[3.19874404599576,51.2785924226964]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60849793
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20382303141022,51.2078060418089],[3.20285297035812,51.2082356892286],[3.20091386100947,51.2089049179729],[3.19922345133172,51.2093656628951],[3.19720268860421,51.2097558982016],[3.19510241585374,51.2100050884504],[3.19284225743637,51.2101553079067],[3.19201387554355,51.2101551806973],[3.19132385984605,51.2101552664101]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53961345
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19748325835105,51.3263196253398],[3.19821475841503,51.3264299824151]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60867783
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21400350266531,51.2745819980757],[3.21566362280071,51.2749122133697],[3.2171443138344,51.2754017369218],[3.21901420579355,51.2762924960228],[3.2212543332215,51.2778322748859],[3.22278333952881,51.2788425038103],[3.22673117101788,51.2815818362402],[3.23014239878871,51.2839914049639],[3.23236164931626,51.2854322618478],[3.23400190018283,51.2863715586417],[3.23601121173388,51.287411701178],[3.23820170721374,51.2884523785878],[3.24090174110173,51.289671687197],[3.24394234426478,51.2909521063868],[3.24560148864584,51.2916619717288]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53975483
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.1673645537842,51.2078156051298],[3.17239247698674,51.2083660461202],[3.17311388455146,51.208435920398]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53975477
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.149435599481,51.2059262510524],[3.15783589470699,51.2068156630536]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":580423679
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19109323978209,51.2101552879639],[3.19132385984605,51.2101552664101]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60827309
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20881181044859,51.2048258272448],[3.20859101706804,51.2050253024368]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53974774
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20180355869736,51.2170755147894],[3.20173340760016,51.217445655646],[3.20173351355885,51.217515187862]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683704
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21371091647788,51.2002256053797],[3.21193097901045,51.2019349032277],[3.21026158721797,51.2034957648917]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60863920
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22959137828189,51.1759370028287],[3.22859064884317,51.1772067391403],[3.22807171819748,51.1778460603564]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79533575
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.25370203158349,51.2993807940528],[3.25329189761437,51.3007605436657]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":68160079
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.24560148864584,51.2916619717288],[3.24627254702605,51.2919615092941],[3.24776203804492,51.2925816667576]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60864835
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.1919150454661,51.3047813279735],[3.19141610031013,51.3068205203009],[3.19028523454231,51.3116913586607]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53964686
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20238350732282,51.2666529972888],[3.20155422972263,51.2675336487963]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53676061
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19821475841503,51.3264299824151],[3.19891482707615,51.3265400248343]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683306
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2099305893291,51.2038251137238],[3.20946080891683,51.2042458097399]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53676114
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22928435618547,51.3242099310799],[3.22907397225074,51.3247200967464]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853430
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22459135229335,51.1855768027179],[3.22448134061122,51.1873569075015],[3.22443055899998,51.1886763580737],[3.22341049262603,51.1905670100172]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53970016
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20859101706804,51.2050253024368],[3.20744028181181,51.2058252073683],[3.20525375145828,51.2071758018853],[3.20382303141022,51.2078060418089]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":567225635
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20317341521836,51.3271694759838],[3.20589466711174,51.3275194998884],[3.21061472084366,51.3281196010511],[3.21107413359814,51.3282399670783]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60827308
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20946080891683,51.2042458097399],[3.20881181044859,51.2048258272448]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853820
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20745424602415,51.24151440524],[3.20749396270644,51.2437745327887]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53964688
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20749396270644,51.2437745327887],[3.20738394659998,51.2450041404851],[3.20680300365244,51.2465338999716]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853896
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19281516028159,51.325799470029],[3.19409553351062,51.3259998877007],[3.19748325835105,51.3263196253398]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683773
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21474147653641,51.1995762776325],[3.21371091647788,51.2002256053797]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683799
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21465175111284,51.1991767548179],[3.21371091647788,51.2002256053797]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853850
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19508278634846,51.263303683225],[3.19450348313442,51.2638634503311]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53681371
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20210357368895,51.2229353101743],[3.20224313057097,51.2234060206415]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853431
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2191302536611,51.195506243373],[3.21864071611353,51.1959870441308],[3.21776063231359,51.1971964400518],[3.21655192090704,51.1984165337275],[3.21574065891469,51.1989266350478]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853434
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22481033204816,51.1844664147786],[3.22459061811357,51.1854562740061],[3.22459135229335,51.1855768027179]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":567215523
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20469288634563,51.2502932960697],[3.20211406390013,51.2538035197805],[3.19889426731883,51.2581127446136],[3.19636400500442,51.2617137093572],[3.19632347919698,51.2617828381024],[3.19608386919307,51.2622034395428],[3.19508278634846,51.263303683225]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53681344
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20224313057097,51.2234060206415],[3.20239235890775,51.2237852770454]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683794
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21543137928307,51.1991264188827],[3.21474147653641,51.1995762776325]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79532534
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22889466024299,51.3258493573314],[3.22892371327401,51.3264000642116],[3.2289236213288,51.3271590737941],[3.22916369541811,51.3279296618478],[3.23118445043117,51.3306896101186],[3.23246458008092,51.3316694743116],[3.2336736204504,51.3322291611193]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53682396
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20332366526059,51.2114758542338],[3.20325326789361,51.2116350825501]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53686015
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.23111105384592,51.1772762225396],[3.2306302513415,51.1780167427754]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":567225634
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19960380436019,51.3266499537169],[3.20180368969286,51.3269891362706],[3.20317341521836,51.3271694759838]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60864836
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19028523454231,51.3116913586607],[3.18973582217508,51.3141112863476],[3.1878468639099,51.3211507894632],[3.18804601848301,51.3228504251531],[3.18871561505872,51.3239405752114],[3.18999536781187,51.3248200917069],[3.19115514517611,51.3253994305271],[3.19281516028159,51.325799470029]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853691
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20192405797141,51.2163153369734],[3.20189231083132,51.2166255964742]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79516763
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.24795231154751,51.2926622656145],[3.24888232311685,51.2930314479576],[3.25135118355397,51.2945102157103],[3.25259204225256,51.295870758985],[3.25353143477249,51.2975505982896],[3.25370203158349,51.2993807940528]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53975478
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.15783589470699,51.2068156630536],[3.1673645537842,51.2078156051298]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53685966
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22807171819748,51.1778460603564],[3.22671049195712,51.1800567747867],[3.22560151365369,51.1821262137828],[3.22478127572606,51.1838461423323],[3.22404110438798,51.1854567481638]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853429
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22341049262603,51.1905670100172],[3.2229403844467,51.1912369108954],[3.22220150218874,51.1921869652342],[3.2191302536611,51.195506243373]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53680683
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20459397145911,51.231404366486],[3.20477345385884,51.2319044358395]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53680624
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20483360271429,51.2323048291797],[3.20502288208999,51.2330043156242],[3.20565376831378,51.2349446297408],[3.20636326289261,51.2375844927832]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853819
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20636326289261,51.2375844927832],[3.20680300113651,51.2387546064365],[3.20745424602415,51.24151440524]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53682454
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20355372668735,51.2110551388121],[3.20332366526059,51.2114758542338]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53962914
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.1952346057835,51.2919722386853],[3.1951539620709,51.2923121328834],[3.1946436851712,51.2941519175896]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53678326
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20155422972263,51.2675336487963],[3.20120411762487,51.2687527625647]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53678120
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.18675305269219,51.2715134366726],[3.18217523655824,51.2783325732393],[3.18069548439064,51.2803526442062],[3.17894629984169,51.281992212255]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53974094
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19231433072197,51.2658534549784],[3.19037406682257,51.2675631412177]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683872
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2153316258595,51.1983860944883],[3.21526087128704,51.1986368764677]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53681301
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20239235890775,51.2237852770454],[3.20251354607752,51.2241051554284],[3.20278377513653,51.2252550798087],[3.20459397145911,51.231404366486]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853828
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20680300365244,51.2465338999716],[3.20587418442819,51.2483140244017],[3.20469288634563,51.2502932960697]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53974093
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19450348313442,51.2638634503311],[3.1938838678524,51.2644830739621],[3.19231433072197,51.2658534549784]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":580423678
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.17311388455146,51.208435920398],[3.17560390240865,51.2086754578766],[3.18579384243211,51.209745471672],[3.18859290177806,51.2100260671578],[3.19029328604249,51.2101253014324],[3.19091242101808,51.2101558050486],[3.19109323978209,51.2101552879639]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53964685
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20439336142891,51.2562235892983],[3.20378376505561,51.2583730236199],[3.20337371468394,51.2604432994462],[3.20258413693291,51.2634334239726],[3.20238350732282,51.2666529972888]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53962906
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.1940332073986,51.2963719568654],[3.19321412633196,51.2995308815397],[3.1919150454661,51.3047813279735]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53964970
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.2115544444428,51.2740319886124],[3.21182380057527,51.2741215319071]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53680656
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20477345385884,51.2319044358395],[3.20483360271429,51.2323048291797]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683350
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21026158721797,51.2034957648917],[3.2099305893291,51.2038251137238]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79533596
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.25329189761437,51.3007605436657],[3.2532117293633,51.3010205193856],[3.25287134354103,51.3015712218514],[3.25251159182102,51.3020811828501],[3.25218106783438,51.3024512031831],[3.25150129970808,51.3032003349901],[3.24716212833113,51.3072105172787],[3.23855232051565,51.3149807591602],[3.23526258915391,51.3179506364246],[3.23444223591216,51.3186809440418]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":68160083
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.24776203804492,51.2925816667576],[3.24795231154751,51.2926622656145]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53676056
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19891482707615,51.3265400248343],[3.19960380436019,51.3266499537169]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":721182283
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20325326789361,51.2116350825501],[3.20313296456696,51.211945629005]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53974847
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20189231083132,51.2166255964742],[3.20187404665942,51.2167656375353],[3.20180355869736,51.2170755147894]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53681905
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20173351355885,51.217515187862],[3.20165356637948,51.2180555833116],[3.20158243246002,51.2190549710701],[3.20163304245871,51.2210150886569],[3.2018027925008,51.2219751330573],[3.20210357368895,51.2229353101743]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683823
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21574065891469,51.1989266350478],[3.21543137928307,51.1991264188827]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":60853690
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20313296456696,51.211945629005],[3.20267219128477,51.2132552284626],[3.2022125443229,51.2150353315186],[3.20192405797141,51.2163153369734]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53975535
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20859101706804,51.2050253024368],[3.20671211680987,51.2069154917342],[3.20544348030416,51.2084454571279],[3.20530320834949,51.2085958874118]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53677980
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21326293261936,51.2744218105899],[3.21400350266531,51.2745819980757]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":79516739
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.19874404599576,51.2785924226964],[3.19711419338969,51.2845523683787],[3.1952346057835,51.2919722386853]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53975536
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.20530320834949,51.2085958874118],[3.20456300903963,51.2094252973588],[3.20391335344479,51.2103958159791],[3.20355372668735,51.2110551388121]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53962915
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.1946436851712,51.2941519175896],[3.19441331649005,51.2949318372035],[3.1940332073986,51.2963719568654]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53683833
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.21526087128704,51.1986368764677],[3.21465175111284,51.1991767548179]]}
+}
+,{
+"json_featuretype":"spoorwegenOK"
+,"Link_id":53676096
+,"Bridge":"N"
+,"Tunnel":"N"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"LineString","coordinates":[[3.22907397225074,51.3247200967464],[3.22903455166691,51.3248193742498],[3.22889466024299,51.3258493573314]]}
+}
+]

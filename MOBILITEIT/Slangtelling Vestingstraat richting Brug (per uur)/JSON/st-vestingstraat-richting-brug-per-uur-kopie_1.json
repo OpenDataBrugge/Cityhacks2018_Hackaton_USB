@@ -1,0 +1,12022 @@
+[
+{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":91
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":158
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":154
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":152
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":178
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":186
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":161
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":158
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":136
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":80
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":56
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":53
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":22
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":71
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":51
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":74
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":64
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":46
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":23
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":46
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":71
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":93
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":102
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":110
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":79
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":15
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"20/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":13
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":20
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":51
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":97
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":196
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":193
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":153
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":119
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":184
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":173
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":142
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":142
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":140
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":129
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":120
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":45
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":56
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":92
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":77
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":59
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":77
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":65
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":57
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":25
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":98
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":108
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":79
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":53
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":100
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":102
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":80
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":64
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":59
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":56
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":13
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":39
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"21/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":20
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":57
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":92
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":114
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":125
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":100
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":118
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":122
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":116
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":117
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":97
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":97
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":76
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":57
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":49
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":55
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":63
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":58
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":54
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":64
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":50
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":39
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":53
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":47
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":63
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":54
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":44
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":45
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":61
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Zwa 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"22/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":76
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":302
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":297
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":161
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":141
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":124
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":127
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":149
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":123
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":163
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":136
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":158
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":145
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":106
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":74
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":45
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":93
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":74
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":64
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":59
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":58
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":65
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":55
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":53
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":85
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":53
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":201
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":202
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":86
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":81
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":58
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":50
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":77
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":95
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":65
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":47
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":15
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"23/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":84
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":313
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":308
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":148
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":118
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":127
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":118
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":175
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":121
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":148
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":168
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":160
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":124
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":137
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":24
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":23
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic >60kmu"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":48
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":109
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":92
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":43
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":42
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":40
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":44
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":56
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":66
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":13
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":13
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":185
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":200
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":78
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":63
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":95
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":79
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":82
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":87
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":39
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"24/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":69
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":272
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":302
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":200
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":119
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":189
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":175
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":188
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":140
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":129
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":145
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":138
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":137
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":108
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":45
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":14
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic >60kmu"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":14
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":59
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":57
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":46
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":78
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":69
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":84
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":51
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":43
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":67
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":20
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":12
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":25
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":205
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":220
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":115
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":69
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":96
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":88
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":100
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":79
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":81
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":74
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":58
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":15
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med >60kmu"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":15
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Zwa 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":23
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"25/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":296
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":296
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":158
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":131
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":127
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":121
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":145
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":121
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":144
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":140
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":176
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":159
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":125
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":79
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":62
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":39
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"A"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":17
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":122
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":88
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":49
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":39
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":49
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":55
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":55
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":52
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":61
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":81
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":71
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":21
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":13
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":162
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":186
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":76
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":72
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":58
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":74
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":71
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":106
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":66
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":48
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 50-60"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":10
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":25
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V85"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":25
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"15:0"
+,"TO":"16:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"16:0"
+,"TO":"17:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"17:0"
+,"TO":"18:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"18:0"
+,"TO":"19:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"19:0"
+,"TO":"20:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"20:0"
+,"TO":"21:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"21:0"
+,"TO":"22:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"22:0"
+,"TO":"23:0"
+,"VALUE":31
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"26/4/2012"
+,"ZONE":"V50"
+,"FROM":"23:0"
+,"TO":"0:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":87
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":269
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":319
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":149
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":158
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":133
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":128
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":151
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"A"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 50-60"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":9
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":7
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 40-50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":18
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":44
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":98
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":63
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":60
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":68
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":49
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":73
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic 30-40"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":16
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":8
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":148
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":219
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":70
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":76
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":55
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":63
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":75
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Lic <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":11
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 40-50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med 30-40"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":14
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":4
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":6
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":3
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":5
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Med <=30kmu "
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":2
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"Zwa <=30kmu "
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":1
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":34
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":38
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":35
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V85"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":36
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"0:0"
+,"TO":"1:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"1:0"
+,"TO":"2:0"
+,"VALUE":26
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"2:0"
+,"TO":"3:0"
+,"VALUE":37
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"3:0"
+,"TO":"4:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"4:0"
+,"TO":"5:0"
+,"VALUE":28
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"5:0"
+,"TO":"6:0"
+,"VALUE":33
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"6:0"
+,"TO":"7:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"7:0"
+,"TO":"8:0"
+,"VALUE":29
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"8:0"
+,"TO":"9:0"
+,"VALUE":27
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"9:0"
+,"TO":"10:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"10:0"
+,"TO":"11:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"11:0"
+,"TO":"12:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"12:0"
+,"TO":"13:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"13:0"
+,"TO":"14:0"
+,"VALUE":30
+,"Aangemaakt op":"08/07/2016"
+}
+,{
+"json_featuretype":"Blad1"
+,"SITE":"VES01"
+,"DATE":"27/4/2012"
+,"ZONE":"V50"
+,"FROM":"14:0"
+,"TO":"15:0"
+,"VALUE":32
+,"Aangemaakt op":"08/07/2016"
+}
+]
