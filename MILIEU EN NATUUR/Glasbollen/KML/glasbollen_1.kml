@@ -1,0 +1,4815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Glasbollen</name>
+<visibility>1</visibility>
+<Schema name="Glasbollen" id="kml_schema_ft_Glasbollen">
+<SimpleField type="xsd:string" name="DEELGEMEENTE">
+<displayName>DEELGEMEENTE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="LIGGING">
+<displayName>LIGGING</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="OPMERKINGEN">
+<displayName>OPMERKINGEN</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="NR">
+<displayName>NR</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="AANTAL">
+<displayName>AANTAL</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Glasbollen">
+<name>Glasbollen</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1008</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan ingang winkelcomplex/ bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1008</SimpleData>
+<SimpleData name="OPMERKINGEN">aan ingang winkelcomplex/ bovengronds</SimpleData>
+<SimpleData name="NR">3</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2314222274636,51.1947901070608,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1029</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking Daverlopark / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1029</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking Daverlopark / bovengronds</SimpleData>
+<SimpleData name="NR">6</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24933055738007,51.193368224257,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>367</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan AC Walwein / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>17</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">367</SimpleData>
+<SimpleData name="OPMERKINGEN">aan AC Walwein / bovengronds</SimpleData>
+<SimpleData name="NR">17</SimpleData>
+<SimpleData name="AANTAL">3</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22695980681073,51.2216031255544,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>2004</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. gemeentelijke basisschool / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Dudzele</SimpleData>
+<SimpleData name="LIGGING">2004</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. gemeentelijke basisschool / bovengronds</SimpleData>
+<SimpleData name="NR">21</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23292358804373,51.2756515897059,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>3008</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking aan voetbalterrein</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Koolkerke</SimpleData>
+<SimpleData name="LIGGING">3008</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking aan voetbalterrein</SimpleData>
+<SimpleData name="NR">24</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2480947275626,51.2318303757395,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Christus-Koning</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>934</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Christus-Koning</SimpleData>
+<SimpleData name="LIGGING">934</SimpleData>
+<SimpleData name="OPMERKINGEN">bovengronds</SimpleData>
+<SimpleData name="NR">25</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21794082431649,51.2187860259594,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>4003</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek met Zeebruggelaan / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Lissewege</SimpleData>
+<SimpleData name="LIGGING">4003</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek met Zeebruggelaan / bovengronds</SimpleData>
+<SimpleData name="NR">27</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19199956619304,51.2923116040899,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5068</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>nabij Expressweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>38</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5068</SimpleData>
+<SimpleData name="OPMERKINGEN">nabij Expressweg / bovengronds</SimpleData>
+<SimpleData name="NR">38</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19495521326033,51.2056503887493,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op pleintje t.h.v. Gentiaanstraat</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>40</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5130</SimpleData>
+<SimpleData name="OPMERKINGEN">op pleintje t.h.v. Gentiaanstraat</SimpleData>
+<SimpleData name="NR">40</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17916230238784,51.1842652165838,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6003</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>in berm langs weide / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>47</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6003</SimpleData>
+<SimpleData name="OPMERKINGEN">in berm langs weide / bovengronds</SimpleData>
+<SimpleData name="NR">47</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24257833630335,51.2091906039471,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7060</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>expresspark op parking Delhaize / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>57</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7060</SimpleData>
+<SimpleData name="OPMERKINGEN">expresspark op parking Delhaize / bovengronds</SimpleData>
+<SimpleData name="NR">57</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20069039038864,51.186904972953,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7038</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>60</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7038</SimpleData>
+<SimpleData name="OPMERKINGEN">bovengronds</SimpleData>
+<SimpleData name="NR">60</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22003049491777,51.1891814425462,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7091</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan brughoofd Kerkebeek / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>63</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7091</SimpleData>
+<SimpleData name="OPMERKINGEN">aan brughoofd Kerkebeek / bovengronds</SimpleData>
+<SimpleData name="NR">63</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20995466155602,51.1757698149683,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>585</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op containerpark / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>70</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">585</SimpleData>
+<SimpleData name="OPMERKINGEN">op containerpark / bovengronds</SimpleData>
+<SimpleData name="NR">70</SimpleData>
+<SimpleData name="AANTAL">4</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20819520291751,51.2501340558649,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zwankendamme</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>3605</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan spoorwegovergang</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>84</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zwankendamme</SimpleData>
+<SimpleData name="LIGGING">3605</SimpleData>
+<SimpleData name="OPMERKINGEN">aan spoorwegovergang</SimpleData>
+<SimpleData name="NR">84</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19230667879359,51.3054496978345,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>260</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>naast toegang ondergrondse parking / ondergronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>87</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">260</SimpleData>
+<SimpleData name="OPMERKINGEN">naast toegang ondergrondse parking / ondergronds</SimpleData>
+<SimpleData name="NR">87</SimpleData>
+<SimpleData name="AANTAL">3</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23008444377713,51.2069511781392,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>2032</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Herdersbruggestraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>22</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Dudzele</SimpleData>
+<SimpleData name="LIGGING">2032</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Herdersbruggestraat / bovengronds</SimpleData>
+<SimpleData name="NR">22</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22357266531739,51.2720281162503,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>3001</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op gemeenteplein / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>23</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Koolkerke</SimpleData>
+<SimpleData name="LIGGING">3001</SimpleData>
+<SimpleData name="OPMERKINGEN">op gemeenteplein / bovengronds</SimpleData>
+<SimpleData name="NR">23</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24889019883761,51.2414160489343,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>316</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parkeerplaats / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>16</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">316</SimpleData>
+<SimpleData name="OPMERKINGEN">op parkeerplaats / bovengronds</SimpleData>
+<SimpleData name="NR">16</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21516811697858,51.2046129889884,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Christus-Koning</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>940</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>langs spoorwegberm / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>19</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Christus-Koning</SimpleData>
+<SimpleData name="LIGGING">940</SimpleData>
+<SimpleData name="OPMERKINGEN">langs spoorwegberm / bovengronds</SimpleData>
+<SimpleData name="NR">19</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20295342374122,51.2127879300079,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Kruisabele</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>2017</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op einde straat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>26</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Kruisabele</SimpleData>
+<SimpleData name="LIGGING">2017</SimpleData>
+<SimpleData name="OPMERKINGEN">op einde straat / bovengronds</SimpleData>
+<SimpleData name="NR">26</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22245264527583,51.2459814814656,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5020</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan rondpunt / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5020</SimpleData>
+<SimpleData name="OPMERKINGEN">aan rondpunt / bovengronds</SimpleData>
+<SimpleData name="NR">31</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19313290352329,51.1934475880183,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5055</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan pleintje t.h.v. nr. 58 / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>36</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5055</SimpleData>
+<SimpleData name="OPMERKINGEN">aan pleintje t.h.v. nr. 58 / bovengronds</SimpleData>
+<SimpleData name="NR">36</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17937785575763,51.2071833269004,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5093</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan ingang naar Koude Keuken / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>42</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5093</SimpleData>
+<SimpleData name="OPMERKINGEN">aan ingang naar Koude Keuken / bovengronds</SimpleData>
+<SimpleData name="NR">42</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18454386256765,51.204117066621,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5094</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan bejaardenlokaal en speelplein r.o. Nr. 2 / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>43</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5094</SimpleData>
+<SimpleData name="OPMERKINGEN">aan bejaardenlokaal en speelplein r.o. Nr. 2 / bovengronds</SimpleData>
+<SimpleData name="NR">43</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21003223847267,51.2069649409825,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6020</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking Gulden Kamer / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>48</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6020</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking Gulden Kamer / bovengronds</SimpleData>
+<SimpleData name="NR">48</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24661713132621,51.2164859874351,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6025</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. Marinekazerne / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>50</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6025</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. Marinekazerne / bovengronds</SimpleData>
+<SimpleData name="NR">50</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26110257317519,51.2129576242297,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6076</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. Puyenbroeklaan / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>52</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6076</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. Puyenbroeklaan / bovengronds</SimpleData>
+<SimpleData name="NR">52</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27209000495711,51.2073044203708,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6096</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Moerkerkse Steenweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>54</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6096</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Moerkerkse Steenweg / bovengronds</SimpleData>
+<SimpleData name="NR">54</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28438102223341,51.224092603129,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7097</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan expressweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>58</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7097</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan expressweg / bovengronds</SimpleData>
+<SimpleData name="NR">58</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20201535778136,51.1851961329236,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7109</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op containerpark / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>59</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7109</SimpleData>
+<SimpleData name="OPMERKINGEN">op containerpark / bovengronds</SimpleData>
+<SimpleData name="NR">59</SimpleData>
+<SimpleData name="AANTAL">4</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22586601897501,51.1869464451603,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7121</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>61</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7121</SimpleData>
+<SimpleData name="OPMERKINGEN">bovengronds</SimpleData>
+<SimpleData name="NR">61</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21945000135357,51.1792172990432,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7118</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>parking Torhoutse Steenweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>66</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7118</SimpleData>
+<SimpleData name="OPMERKINGEN">parking Torhoutse Steenweg / bovengronds</SimpleData>
+<SimpleData name="NR">66</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18211647845412,51.1767001887528,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>502</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek met Goudenregenstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>68</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">502</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek met Goudenregenstraat / bovengronds</SimpleData>
+<SimpleData name="NR">68</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21124349839761,51.2348592594135,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>575</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan ingang wijk / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>69</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">575</SimpleData>
+<SimpleData name="OPMERKINGEN">aan ingang wijk / bovengronds</SimpleData>
+<SimpleData name="NR">69</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20200101542371,51.236942025465,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>551</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan rondpunt / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>72</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">551</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan rondpunt / bovengronds</SimpleData>
+<SimpleData name="NR">72</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21374315768477,51.2233083638274,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>732</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Kustlaan / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>76</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">732</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Kustlaan / bovengronds</SimpleData>
+<SimpleData name="NR">76</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17705747152006,51.3269181346594,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>735</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>v??r gemeenschapshuis / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>80</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">735</SimpleData>
+<SimpleData name="OPMERKINGEN">v??r gemeenschapshuis / bovengronds</SimpleData>
+<SimpleData name="NR">80</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21031286664223,51.3313243533369,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>749</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>in begin kaai / ondergronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>85</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">749</SimpleData>
+<SimpleData name="OPMERKINGEN">in begin kaai / ondergronds</SimpleData>
+<SimpleData name="NR">85</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20789272427633,51.3351266191071,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1076</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek met Daverlostraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1076</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek met Daverlostraat / bovengronds</SimpleData>
+<SimpleData name="NR">9</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23997783095721,51.198628207277,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1179</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Baron Ruzettelaan / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1179</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Baron Ruzettelaan / bovengronds</SimpleData>
+<SimpleData name="NR">10</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23354249721617,51.1889430942517,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1121</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op driehoekig graspleintje / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1121</SimpleData>
+<SimpleData name="OPMERKINGEN">op driehoekig graspleintje / bovengronds</SimpleData>
+<SimpleData name="NR">4</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27182134472187,51.1879700070278,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1008</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek Tragelweg (aan randparking) / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1008</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek Tragelweg (aan randparking) / bovengronds</SimpleData>
+<SimpleData name="NR">5</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23405775016472,51.1796520521579,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1141</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking Daverlopark</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>12</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1141</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking Daverlopark</SimpleData>
+<SimpleData name="NR">12</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24547123488559,51.1925452336175,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>88</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">88</SimpleData>
+<SimpleData name="OPMERKINGEN">bovengronds</SimpleData>
+<SimpleData name="NR">15</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23153776473616,51.2013703062966,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Christus-Koning</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>930</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking GB / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>18</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Christus-Koning</SimpleData>
+<SimpleData name="LIGGING">930</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking GB / bovengronds</SimpleData>
+<SimpleData name="NR">18</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21307821776661,51.2165698924292,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5020</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan Mari?nhovedreef / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5020</SimpleData>
+<SimpleData name="OPMERKINGEN">aan Mari?nhovedreef / bovengronds</SimpleData>
+<SimpleData name="NR">32</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.14784897354576,51.1791017732581,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5108</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op inrit naar parking Koude Keuken / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>44</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5108</SimpleData>
+<SimpleData name="OPMERKINGEN">op inrit naar parking Koude Keuken / bovengronds</SimpleData>
+<SimpleData name="NR">44</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18051098484412,51.2011339045428,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>179</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek Witte Molenstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>62</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">179</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek Witte Molenstraat / bovengronds</SimpleData>
+<SimpleData name="NR">62</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.207751324789,51.1855356547142,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7138</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Torhoutse Steenweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>67</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7138</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Torhoutse Steenweg / bovengronds</SimpleData>
+<SimpleData name="NR">67</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18874977102384,51.1831340908727,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>525</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Sint-Pieterskerklaan / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>71</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">525</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Sint-Pieterskerklaan / bovengronds</SimpleData>
+<SimpleData name="NR">71</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21159236839955,51.2309101148481,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>556</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. Rustenburgstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>73</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">556</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. Rustenburgstraat / bovengronds</SimpleData>
+<SimpleData name="NR">73</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2074898904402,51.2187555452118,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>557</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking aan sporthal / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>74</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">557</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking aan sporthal / bovengronds</SimpleData>
+<SimpleData name="NR">74</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20439073756186,51.2274467060028,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>702</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op hoek met Brusselstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>75</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">702</SimpleData>
+<SimpleData name="OPMERKINGEN">op hoek met Brusselstraat / bovengronds</SimpleData>
+<SimpleData name="NR">75</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1819311446942,51.3290741128021,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>716</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking aan sporthal / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>79</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">716</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking aan sporthal / bovengronds</SimpleData>
+<SimpleData name="NR">79</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21300810969526,51.3304764425334,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Christus-Koning</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>914</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan spoorwegbrug / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>20</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Christus-Koning</SimpleData>
+<SimpleData name="LIGGING">914</SimpleData>
+<SimpleData name="OPMERKINGEN">aan spoorwegbrug / bovengronds</SimpleData>
+<SimpleData name="NR">20</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20139944343248,51.2168781761283,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>4018</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking achterzijde station</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>28</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Lissewege</SimpleData>
+<SimpleData name="LIGGING">4018</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking achterzijde station</SimpleData>
+<SimpleData name="NR">28</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19468929549702,51.2949284441095,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5004</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking achter gemeentehuis / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5004</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking achter gemeentehuis / bovengronds</SimpleData>
+<SimpleData name="NR">29</SimpleData>
+<SimpleData name="AANTAL">3</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18094299759437,51.1981627924004,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>578</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan overkant van speelplein / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Pieters</SimpleData>
+<SimpleData name="LIGGING">578</SimpleData>
+<SimpleData name="OPMERKINGEN">aan overkant van speelplein / bovengronds</SimpleData>
+<SimpleData name="NR">1</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19690152304323,51.228357245075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>397</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan mobilhomeparking / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>14</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">397</SimpleData>
+<SimpleData name="OPMERKINGEN">aan mobilhomeparking / bovengronds</SimpleData>
+<SimpleData name="NR">14</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22612143604059,51.1964840846267,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5018</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>nabij expressweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>30</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5018</SimpleData>
+<SimpleData name="OPMERKINGEN">nabij expressweg / bovengronds</SimpleData>
+<SimpleData name="NR">30</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19642933185811,51.197466382134,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5030</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. Bosdreef / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>34</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5030</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. Bosdreef / bovengronds</SimpleData>
+<SimpleData name="NR">34</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17402429722238,51.1959450493748,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5030</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking GB (nr. 344) / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>35</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5030</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking GB (nr. 344) / bovengronds</SimpleData>
+<SimpleData name="NR">35</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19105381346913,51.2005872580761,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>HOGE LANE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan garagecomplex op hoek met Legeweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>37</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">HOGE LANE</SimpleData>
+<SimpleData name="OPMERKINGEN">aan garagecomplex op hoek met Legeweg / bovengronds</SimpleData>
+<SimpleData name="NR">37</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20717290603501,51.2056260664732,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>571</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>verbindingsweg naar Steenkaai / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>41</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">571</SimpleData>
+<SimpleData name="OPMERKINGEN">verbindingsweg naar Steenkaai / bovengronds</SimpleData>
+<SimpleData name="NR">41</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19989873738749,51.2200893740624,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>3337</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan pompstation r.o. Ter Looigemweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Jozef</SimpleData>
+<SimpleData name="LIGGING">3337</SimpleData>
+<SimpleData name="OPMERKINGEN">aan pompstation r.o. Ter Looigemweg / bovengronds</SimpleData>
+<SimpleData name="NR">46</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23183005865561,51.2270924618881,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6025</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking supermarkt Ronse nr. 225 / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>49</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6025</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking supermarkt Ronse nr. 225 / bovengronds</SimpleData>
+<SimpleData name="NR">49</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27837600576784,51.2123726067367,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6099</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Moerkerkse Steenweg / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>55</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6099</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Moerkerkse Steenweg / bovengronds</SimpleData>
+<SimpleData name="NR">55</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25195327832224,51.2145486020811,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6122</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan inrit naar zwembad / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>56</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6122</SimpleData>
+<SimpleData name="OPMERKINGEN">aan inrit naar zwembad / bovengronds</SimpleData>
+<SimpleData name="NR">56</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25742130098948,51.208169438873,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7109</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. uitgang containerpark / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>64</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7109</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. uitgang containerpark / bovengronds</SimpleData>
+<SimpleData name="NR">64</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22704475768206,51.1863064353707,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>760</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan grasplein in begin straat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>77</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">760</SimpleData>
+<SimpleData name="OPMERKINGEN">aan grasplein in begin straat / bovengronds</SimpleData>
+<SimpleData name="NR">77</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1906848749286,51.3272394531562,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>779</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>Jozef Verschaveweg op containerpark / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>78</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">779</SimpleData>
+<SimpleData name="OPMERKINGEN">Jozef Verschaveweg op containerpark / bovengronds</SimpleData>
+<SimpleData name="NR">78</SimpleData>
+<SimpleData name="AANTAL">4</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20557070114944,51.3276384820537,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>791</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>transportzone op 2e parking / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>82</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">791</SimpleData>
+<SimpleData name="OPMERKINGEN">transportzone op 2e parking / bovengronds</SimpleData>
+<SimpleData name="NR">82</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1859789952991,51.3195057393439,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>729</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>zijarm op hoek met Kielbankstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>83</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">729</SimpleData>
+<SimpleData name="OPMERKINGEN">zijarm op hoek met Kielbankstraat / bovengronds</SimpleData>
+<SimpleData name="NR">83</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20139688275353,51.3291636730476,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>130</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan Kruisvest / ondergronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>86</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">130</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan Kruisvest / ondergronds</SimpleData>
+<SimpleData name="NR">86</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23783321385169,51.2145435499223,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>23</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan speelplein / ondergronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>88</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">23</SimpleData>
+<SimpleData name="OPMERKINGEN">aan speelplein / ondergronds</SimpleData>
+<SimpleData name="NR">88</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23824040694807,51.2079886774042,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Brugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan speelplein / ondergronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>89</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Brugge</SimpleData>
+<SimpleData name="LIGGING">4</SimpleData>
+<SimpleData name="OPMERKINGEN">aan speelplein / ondergronds</SimpleData>
+<SimpleData name="NR">89</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2244562960119,51.2156234564689,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1060</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan hoek met Pannenhuisstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1060</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan hoek met Pannenhuisstraat / bovengronds</SimpleData>
+<SimpleData name="NR">8</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27872531202714,51.1883031908495,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1093</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>r.o. nr. 62 / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1093</SimpleData>
+<SimpleData name="OPMERKINGEN">r.o. nr. 62 / bovengronds</SimpleData>
+<SimpleData name="NR">11</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27132580156221,51.2010156883351,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>kml_80</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>1042</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>aan begin Sint-Kristoffelstraat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Assebroek</SimpleData>
+<SimpleData name="LIGGING">1042</SimpleData>
+<SimpleData name="OPMERKINGEN">aan begin Sint-Kristoffelstraat / bovengronds</SimpleData>
+<SimpleData name="NR">7</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24704772809088,51.2011398016012,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>kml_81</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5070</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking Edgar De Smedtplantsoen / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>33</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5070</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking Edgar De Smedtplantsoen / bovengronds</SimpleData>
+<SimpleData name="NR">33</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20788943520004,51.201021901036,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>kml_82</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>5075</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op parking/pleintje / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>39</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Andries</SimpleData>
+<SimpleData name="LIGGING">5075</SimpleData>
+<SimpleData name="OPMERKINGEN">op parking/pleintje / bovengronds</SimpleData>
+<SimpleData name="NR">39</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17235487029595,51.1918437141407,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>kml_83</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>3331</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op einde straat aan Gandhiplein / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>45</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Jozef</SimpleData>
+<SimpleData name="LIGGING">3331</SimpleData>
+<SimpleData name="OPMERKINGEN">op einde straat aan Gandhiplein / bovengronds</SimpleData>
+<SimpleData name="NR">45</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23304112066519,51.230665380187,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>kml_84</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6049</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>op 1e parking op einde straat / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>51</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6049</SimpleData>
+<SimpleData name="OPMERKINGEN">op 1e parking op einde straat / bovengronds</SimpleData>
+<SimpleData name="NR">51</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24745226656324,51.2189575874645,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>kml_85</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>6077</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>t.h.v. speelterrein</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>53</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Kruis</SimpleData>
+<SimpleData name="LIGGING">6077</SimpleData>
+<SimpleData name="OPMERKINGEN">t.h.v. speelterrein</SimpleData>
+<SimpleData name="NR">53</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27984728384764,51.2164559065587,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>kml_86</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>7113</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>65</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Sint-Michiels</SimpleData>
+<SimpleData name="LIGGING">7113</SimpleData>
+<SimpleData name="OPMERKINGEN">bovengronds</SimpleData>
+<SimpleData name="NR">65</SimpleData>
+<SimpleData name="AANTAL">2</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21341052825054,51.1854177643767,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>kml_87</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DEELGEMEENTE</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>LIGGING</th>
+<td>753</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPMERKINGEN</th>
+<td>tegenaan nieuwe zeesluizen / bovengronds</td>
+</tr><tr bgcolor="">
+<th>NR</th>
+<td>81</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>AANTAL</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>30/10/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Glasbollen">
+<SimpleData name="DEELGEMEENTE">Zeebrugge</SimpleData>
+<SimpleData name="LIGGING">753</SimpleData>
+<SimpleData name="OPMERKINGEN">tegenaan nieuwe zeesluizen / bovengronds</SimpleData>
+<SimpleData name="NR">81</SimpleData>
+<SimpleData name="AANTAL">1</SimpleData>
+<SimpleData name="Aangemaakt op">30/10/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21372227012276,51.3357454130255,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

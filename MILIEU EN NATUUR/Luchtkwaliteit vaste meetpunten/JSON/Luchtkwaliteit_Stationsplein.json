@@ -1,0 +1,1512 @@
+[
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180425",
+		"PM 1" : 3.78,
+		"PM 2,5" : 8.19,
+		"PM 10" : 20.65,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180426",
+		"PM 1" : 3.62,
+		"PM 2,5" : 7.79,
+		"PM 10" : 17.7,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180427",
+		"PM 1" : 5.65,
+		"PM 2,5" : 9.87,
+		"PM 10" : 24.32,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180428",
+		"PM 1" : 9.53,
+		"PM 2,5" : 11.36,
+		"PM 10" : 15.82,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180429",
+		"PM 1" : 14.6,
+		"PM 2,5" : 16.01,
+		"PM 10" : 18.4,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180430",
+		"PM 1" : 6.55,
+		"PM 2,5" : 7.6,
+		"PM 10" : 10.64,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180501",
+		"PM 1" : 5.23,
+		"PM 2,5" : 7.48,
+		"PM 10" : 13.04,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180502",
+		"PM 1" : 6.7,
+		"PM 2,5" : 8.34,
+		"PM 10" : 14.41,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180503",
+		"PM 1" : 5.57,
+		"PM 2,5" : 7.69,
+		"PM 10" : 12.68,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180504",
+		"PM 1" : 10.29,
+		"PM 2,5" : 13.26,
+		"PM 10" : 19.98,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180505",
+		"PM 1" : 15.48,
+		"PM 2,5" : 18.95,
+		"PM 10" : 27.64,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180506",
+		"PM 1" : 25.11,
+		"PM 2,5" : 29.11,
+		"PM 10" : 40.74,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180507",
+		"PM 1" : 19.58,
+		"PM 2,5" : 23.26,
+		"PM 10" : 39.22,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180508",
+		"PM 1" : 30.73,
+		"PM 2,5" : 35.74,
+		"PM 10" : 54.68,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180509",
+		"PM 1" : 22.27,
+		"PM 2,5" : 26.03,
+		"PM 10" : 34.67,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180510",
+		"PM 1" : 6.99,
+		"PM 2,5" : 11.32,
+		"PM 10" : 18.79,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180511",
+		"PM 1" : 10.12,
+		"PM 2,5" : 14.18,
+		"PM 10" : 25.03,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180512",
+		"PM 1" : 13.88,
+		"PM 2,5" : 17.48,
+		"PM 10" : 29.83,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180513",
+		"PM 1" : 13.98,
+		"PM 2,5" : 16.22,
+		"PM 10" : 19.99,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180514",
+		"PM 1" : 19.52,
+		"PM 2,5" : 23.85,
+		"PM 10" : 31.07,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180515",
+		"PM 1" : 27.09,
+		"PM 2,5" : 32.12,
+		"PM 10" : 45.08,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180516",
+		"PM 1" : 14.9,
+		"PM 2,5" : 22.23,
+		"PM 10" : 40.35,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180517",
+		"PM 1" : 6.05,
+		"PM 2,5" : 13.69,
+		"PM 10" : 32.25,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180518",
+		"PM 1" : 6.02,
+		"PM 2,5" : 11.25,
+		"PM 10" : 21.87,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180519",
+		"PM 1" : 9.39,
+		"PM 2,5" : 13.07,
+		"PM 10" : 19.28,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180520",
+		"PM 1" : 31.1,
+		"PM 2,5" : 36.32,
+		"PM 10" : 44.46,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180521",
+		"PM 1" : 24.22,
+		"PM 2,5" : 27.46,
+		"PM 10" : 36.05,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180522",
+		"PM 1" : 16.22,
+		"PM 2,5" : 19.06,
+		"PM 10" : 28.1,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180523",
+		"PM 1" : 20.63,
+		"PM 2,5" : 26.09,
+		"PM 10" : 38.43,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180524",
+		"PM 1" : 27.29,
+		"PM 2,5" : 29.77,
+		"PM 10" : 38.96,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180525",
+		"PM 1" : 52.33,
+		"PM 2,5" : 58.12,
+		"PM 10" : 64.74,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180526",
+		"PM 1" : 30.6,
+		"PM 2,5" : 32.85,
+		"PM 10" : 39.46,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180527",
+		"PM 1" : 17.51,
+		"PM 2,5" : 20.32,
+		"PM 10" : 30.82,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180528",
+		"PM 1" : 33.66,
+		"PM 2,5" : 38.1,
+		"PM 10" : 50,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180529",
+		"PM 1" : 45.43,
+		"PM 2,5" : 51.51,
+		"PM 10" : 62.97,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180530",
+		"PM 1" : 43.15,
+		"PM 2,5" : 49.45,
+		"PM 10" : 58.97,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180531",
+		"PM 1" : 26.2,
+		"PM 2,5" : 29.55,
+		"PM 10" : 37.42,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180601",
+		"PM 1" : 17.7,
+		"PM 2,5" : 20.22,
+		"PM 10" : 24.67,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180602",
+		"PM 1" : 12.08,
+		"PM 2,5" : 13.87,
+		"PM 10" : 17.91,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180603",
+		"PM 1" : 11.56,
+		"PM 2,5" : 13.13,
+		"PM 10" : 17.69,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180604",
+		"PM 1" : 16.05,
+		"PM 2,5" : 18.24,
+		"PM 10" : 22.93,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180605",
+		"PM 1" : 14.4,
+		"PM 2,5" : 19.03,
+		"PM 10" : 30.01,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180606",
+		"PM 1" : 13.23,
+		"PM 2,5" : 22.01,
+		"PM 10" : 37.49,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180607",
+		"PM 1" : 20.72,
+		"PM 2,5" : 27.98,
+		"PM 10" : 38.15,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180608",
+		"PM 1" : 17.69,
+		"PM 2,5" : 23.82,
+		"PM 10" : 34.44,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180610",
+		"PM 1" : 13.94,
+		"PM 2,5" : 18.06,
+		"PM 10" : 26.5,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180611",
+		"PM 1" : 9.83,
+		"PM 2,5" : 13.12,
+		"PM 10" : 22.74,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180612",
+		"PM 1" : 12.69,
+		"PM 2,5" : 15.34,
+		"PM 10" : 24.3,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180613",
+		"PM 1" : 3.6,
+		"PM 2,5" : 6.06,
+		"PM 10" : 14.81,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180614",
+		"PM 1" : 7.31,
+		"PM 2,5" : 9.45,
+		"PM 10" : 18,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180620",
+		"PM 1" : 3.89,
+		"PM 2,5" : 4.96,
+		"PM 10" : 10.16,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180621",
+		"PM 1" : 2.89,
+		"PM 2,5" : 6.37,
+		"PM 10" : 21.51,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180622",
+		"PM 1" : 3.45,
+		"PM 2,5" : 8.24,
+		"PM 10" : 24.14,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180623",
+		"PM 1" : 4.8,
+		"PM 2,5" : 8.3,
+		"PM 10" : 17.5,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180624",
+		"PM 1" : 5.07,
+		"PM 2,5" : 7.31,
+		"PM 10" : 12.8,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180625",
+		"PM 1" : 4.04,
+		"PM 2,5" : 6,
+		"PM 10" : 13.38,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180626",
+		"PM 1" : 8.21,
+		"PM 2,5" : 11.61,
+		"PM 10" : 20.91,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180627",
+		"PM 1" : 15.21,
+		"PM 2,5" : 20.78,
+		"PM 10" : 33.34,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180628",
+		"PM 1" : 11.95,
+		"PM 2,5" : 16.45,
+		"PM 10" : 30.82,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180629",
+		"PM 1" : 8.96,
+		"PM 2,5" : 13.12,
+		"PM 10" : 26.18,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180630",
+		"PM 1" : 13.18,
+		"PM 2,5" : 18.27,
+		"PM 10" : 32.77,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180701",
+		"PM 1" : 3.95,
+		"PM 2,5" : 7.07,
+		"PM 10" : 29.44,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180702",
+		"PM 1" : 4.16,
+		"PM 2,5" : 7.1,
+		"PM 10" : 25.66,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180703",
+		"PM 1" : 4.36,
+		"PM 2,5" : 7.77,
+		"PM 10" : 23.54,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180704",
+		"PM 1" : 8.54,
+		"PM 2,5" : 12.27,
+		"PM 10" : 24.48,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180705",
+		"PM 1" : 5.69,
+		"PM 2,5" : 7.88,
+		"PM 10" : 16.84,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180706",
+		"PM 1" : 13.83,
+		"PM 2,5" : 17.24,
+		"PM 10" : 31.48,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180707",
+		"PM 1" : 7.52,
+		"PM 2,5" : 10.54,
+		"PM 10" : 20.75,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180708",
+		"PM 1" : 5.28,
+		"PM 2,5" : 7.36,
+		"PM 10" : 16.42,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180709",
+		"PM 1" : 6.03,
+		"PM 2,5" : 8.17,
+		"PM 10" : 16.29,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180710",
+		"PM 1" : 4.48,
+		"PM 2,5" : 8.31,
+		"PM 10" : 21.25,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180711",
+		"PM 1" : 8.51,
+		"PM 2,5" : 13.49,
+		"PM 10" : 24.15,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180712",
+		"PM 1" : 9.21,
+		"PM 2,5" : 12.44,
+		"PM 10" : 22.43,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180713",
+		"PM 1" : 6.08,
+		"PM 2,5" : 9.16,
+		"PM 10" : 18.18,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180714",
+		"PM 1" : 8.41,
+		"PM 2,5" : 10.61,
+		"PM 10" : 20.29,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180715",
+		"PM 1" : 8.28,
+		"PM 2,5" : 10.77,
+		"PM 10" : 26.22,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180716",
+		"PM 1" : 13.49,
+		"PM 2,5" : 18.13,
+		"PM 10" : 47.49,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180717",
+		"PM 1" : 7.21,
+		"PM 2,5" : 9.85,
+		"PM 10" : 21.67,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180718",
+		"PM 1" : 4.86,
+		"PM 2,5" : 7.11,
+		"PM 10" : 15.81,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180719",
+		"PM 1" : 7.79,
+		"PM 2,5" : 9.99,
+		"PM 10" : 20.56,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180720",
+		"PM 1" : 10.38,
+		"PM 2,5" : 12.56,
+		"PM 10" : 21.22,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180721",
+		"PM 1" : 5.41,
+		"PM 2,5" : 6.78,
+		"PM 10" : 13.08,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180722",
+		"PM 1" : 18.48,
+		"PM 2,5" : 20.54,
+		"PM 10" : 28.1,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180723",
+		"PM 1" : 8.39,
+		"PM 2,5" : 10.69,
+		"PM 10" : 21.33,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180724",
+		"PM 1" : 5.55,
+		"PM 2,5" : 7.45,
+		"PM 10" : 17.85,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180725",
+		"PM 1" : 8.01,
+		"PM 2,5" : 10.34,
+		"PM 10" : 24.06,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180726",
+		"PM 1" : 19.12,
+		"PM 2,5" : 22.48,
+		"PM 10" : 40.77,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180727",
+		"PM 1" : 18.65,
+		"PM 2,5" : 22.17,
+		"PM 10" : 42.93,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180728",
+		"PM 1" : 9.37,
+		"PM 2,5" : 12.37,
+		"PM 10" : 22.05,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180731",
+		"PM 1" : 3.25,
+		"PM 2,5" : 5.9,
+		"PM 10" : 12.1,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180801",
+		"PM 1" : 4.6,
+		"PM 2,5" : 6.55,
+		"PM 10" : 12.21,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180802",
+		"PM 1" : 5.04,
+		"PM 2,5" : 7.06,
+		"PM 10" : 15.59,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180803",
+		"PM 1" : 10.15,
+		"PM 2,5" : 12.98,
+		"PM 10" : 25.26,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180804",
+		"PM 1" : 6.74,
+		"PM 2,5" : 8.83,
+		"PM 10" : 16.16,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180805",
+		"PM 1" : 3.78,
+		"PM 2,5" : 5.74,
+		"PM 10" : 12.66,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180806",
+		"PM 1" : 6.73,
+		"PM 2,5" : 8.94,
+		"PM 10" : 20.86,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180807",
+		"PM 1" : 14.04,
+		"PM 2,5" : 18.12,
+		"PM 10" : 41.33,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180808",
+		"PM 1" : 7.11,
+		"PM 2,5" : 10.03,
+		"PM 10" : 19.54,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180809",
+		"PM 1" : 7.18,
+		"PM 2,5" : 9.43,
+		"PM 10" : 17.17,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180810",
+		"PM 1" : 3.28,
+		"PM 2,5" : 5.23,
+		"PM 10" : 11.18,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180811",
+		"PM 1" : 4.54,
+		"PM 2,5" : 6.09,
+		"PM 10" : 11.27,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180812",
+		"PM 1" : 5.09,
+		"PM 2,5" : 6.36,
+		"PM 10" : 11.75,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180813",
+		"PM 1" : 6.81,
+		"PM 2,5" : 8.7,
+		"PM 10" : 13.56,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180814",
+		"PM 1" : 7.39,
+		"PM 2,5" : 9.91,
+		"PM 10" : 16.56,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180815",
+		"PM 1" : 7.45,
+		"PM 2,5" : 10.44,
+		"PM 10" : 16.12,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180816",
+		"PM 1" : 5.2,
+		"PM 2,5" : 6.51,
+		"PM 10" : 10.71,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180817",
+		"PM 1" : 2.49,
+		"PM 2,5" : 4.64,
+		"PM 10" : 10.4,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180818",
+		"PM 1" : 5.88,
+		"PM 2,5" : 9.53,
+		"PM 10" : 16.7,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180819",
+		"PM 1" : 7.31,
+		"PM 2,5" : 10.34,
+		"PM 10" : 16.33,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180820",
+		"PM 1" : 7.81,
+		"PM 2,5" : 9.78,
+		"PM 10" : 14.72,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180821",
+		"PM 1" : 13.89,
+		"PM 2,5" : 16.42,
+		"PM 10" : 22.74,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180822",
+		"PM 1" : 7.93,
+		"PM 2,5" : 9.35,
+		"PM 10" : 14.62,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180823",
+		"PM 1" : 8.54,
+		"PM 2,5" : 10.39,
+		"PM 10" : 16.49,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180824",
+		"PM 1" : 3.08,
+		"PM 2,5" : 5.67,
+		"PM 10" : 13.71,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180825",
+		"PM 1" : 2.17,
+		"PM 2,5" : 3.61,
+		"PM 10" : 7.67,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180826",
+		"PM 1" : 4.46,
+		"PM 2,5" : 5.87,
+		"PM 10" : 9.86,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180827",
+		"PM 1" : 4.04,
+		"PM 2,5" : 6.21,
+		"PM 10" : 11.66,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180828",
+		"PM 1" : 5.57,
+		"PM 2,5" : 8.89,
+		"PM 10" : 18.16,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180829",
+		"PM 1" : 16.85,
+		"PM 2,5" : 19.82,
+		"PM 10" : 27.33,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180830",
+		"PM 1" : 3.77,
+		"PM 2,5" : 6.44,
+		"PM 10" : 13.84,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180831",
+		"PM 1" : 4.18,
+		"PM 2,5" : 6.92,
+		"PM 10" : 13.88,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180901",
+		"PM 1" : 11.43,
+		"PM 2,5" : 14.13,
+		"PM 10" : 20.61,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180902",
+		"PM 1" : 18.58,
+		"PM 2,5" : 21.08,
+		"PM 10" : 27.09,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180903",
+		"PM 1" : 7.96,
+		"PM 2,5" : 10.76,
+		"PM 10" : 18.04,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180904",
+		"PM 1" : 16.24,
+		"PM 2,5" : 20.62,
+		"PM 10" : 29.52,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180905",
+		"PM 1" : 12.6,
+		"PM 2,5" : 15.67,
+		"PM 10" : 21.43,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180906",
+		"PM 1" : 8.97,
+		"PM 2,5" : 11.4,
+		"PM 10" : 17.15,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180907",
+		"PM 1" : 5.43,
+		"PM 2,5" : 7.32,
+		"PM 10" : 12.34,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180908",
+		"PM 1" : 4.82,
+		"PM 2,5" : 6.64,
+		"PM 10" : 11.96,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180909",
+		"PM 1" : 5.88,
+		"PM 2,5" : 7.78,
+		"PM 10" : 13.68,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180910",
+		"PM 1" : 5.39,
+		"PM 2,5" : 8.48,
+		"PM 10" : 15.61,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180911",
+		"PM 1" : 4.68,
+		"PM 2,5" : 6.84,
+		"PM 10" : 13.39,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180912",
+		"PM 1" : 3.26,
+		"PM 2,5" : 4.99,
+		"PM 10" : 10.64,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180913",
+		"PM 1" : 4.44,
+		"PM 2,5" : 6.3,
+		"PM 10" : 10.76,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180914",
+		"PM 1" : 6.89,
+		"PM 2,5" : 9,
+		"PM 10" : 16.4,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180915",
+		"PM 1" : 4.43,
+		"PM 2,5" : 6.69,
+		"PM 10" : 13.51,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180916",
+		"PM 1" : 6.41,
+		"PM 2,5" : 8.68,
+		"PM 10" : 16.15,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180917",
+		"PM 1" : 7.84,
+		"PM 2,5" : 10.58,
+		"PM 10" : 25.43,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180918",
+		"PM 1" : 6.1,
+		"PM 2,5" : 10.01,
+		"PM 10" : 25.22,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180919",
+		"PM 1" : 7.42,
+		"PM 2,5" : 12.02,
+		"PM 10" : 23.89,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180920",
+		"PM 1" : 6.82,
+		"PM 2,5" : 11.05,
+		"PM 10" : 23.11,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180921",
+		"PM 1" : 3.04,
+		"PM 2,5" : 6.46,
+		"PM 10" : 19.81,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180922",
+		"PM 1" : 3.63,
+		"PM 2,5" : 6.19,
+		"PM 10" : 11.96,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180923",
+		"PM 1" : 7.56,
+		"PM 2,5" : 8.87,
+		"PM 10" : 11.76,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180924",
+		"PM 1" : 2.42,
+		"PM 2,5" : 4.41,
+		"PM 10" : 10.3,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180925",
+		"PM 1" : 7.94,
+		"PM 2,5" : 10.58,
+		"PM 10" : 19.93,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180926",
+		"PM 1" : 10.18,
+		"PM 2,5" : 12.99,
+		"PM 10" : 22.7,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180927",
+		"PM 1" : 15.1,
+		"PM 2,5" : 18.51,
+		"PM 10" : 31.36,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180928",
+		"PM 1" : 5.67,
+		"PM 2,5" : 9.25,
+		"PM 10" : 18.19,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180929",
+		"PM 1" : 5.34,
+		"PM 2,5" : 9.19,
+		"PM 10" : 19.43,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	},
+	{
+		"json_featuretype" : "Daggemiddelde_Stationsplein",
+		"Datum" : "20180930",
+		"PM 1" : 9.25,
+		"PM 2,5" : 12.22,
+		"PM 10" : 19.24,
+		"Longitude" : 3.219727,
+		"Latitude" : 51.197827,
+		"Aangemaakt op" : "22/10/2018"
+	}
+]

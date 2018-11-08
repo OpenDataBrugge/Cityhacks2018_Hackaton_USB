@@ -1,0 +1,959 @@
+[
+{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1008"
+,"OPMERKINGEN":"aan ingang winkelcomplex/ bovengronds"
+,"NR":3
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2314222274636,51.1947901070608]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1029"
+,"OPMERKINGEN":"op parking Daverlopark / bovengronds"
+,"NR":6
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24933055738007,51.193368224257]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"367"
+,"OPMERKINGEN":"aan AC Walwein / bovengronds"
+,"NR":17
+,"AANTAL":3
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22695980681073,51.2216031255544]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Dudzele"
+,"LIGGING":"2004"
+,"OPMERKINGEN":"t.h.v. gemeentelijke basisschool / bovengronds"
+,"NR":21
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23292358804373,51.2756515897059]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Koolkerke"
+,"LIGGING":"3008"
+,"OPMERKINGEN":"op parking aan voetbalterrein"
+,"NR":24
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2480947275626,51.2318303757395]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Christus-Koning"
+,"LIGGING":"934"
+,"OPMERKINGEN":"bovengronds"
+,"NR":25
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21794082431649,51.2187860259594]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Lissewege"
+,"LIGGING":"4003"
+,"OPMERKINGEN":"op hoek met Zeebruggelaan / bovengronds"
+,"NR":27
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19199956619304,51.2923116040899]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5068"
+,"OPMERKINGEN":"nabij Expressweg / bovengronds"
+,"NR":38
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19495521326033,51.2056503887493]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5130"
+,"OPMERKINGEN":"op pleintje t.h.v. Gentiaanstraat"
+,"NR":40
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17916230238784,51.1842652165838]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6003"
+,"OPMERKINGEN":"in berm langs weide / bovengronds"
+,"NR":47
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24257833630335,51.2091906039471]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7060"
+,"OPMERKINGEN":"expresspark op parking Delhaize / bovengronds"
+,"NR":57
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20069039038864,51.186904972953]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7038"
+,"OPMERKINGEN":"bovengronds"
+,"NR":60
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22003049491777,51.1891814425462]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7091"
+,"OPMERKINGEN":"aan brughoofd Kerkebeek / bovengronds"
+,"NR":63
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20995466155602,51.1757698149683]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"585"
+,"OPMERKINGEN":"op containerpark / bovengronds"
+,"NR":70
+,"AANTAL":4
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20819520291751,51.2501340558649]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zwankendamme"
+,"LIGGING":"3605"
+,"OPMERKINGEN":"aan spoorwegovergang"
+,"NR":84
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19230667879359,51.3054496978345]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"260"
+,"OPMERKINGEN":"naast toegang ondergrondse parking / ondergronds"
+,"NR":87
+,"AANTAL":3
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23008444377713,51.2069511781392]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Dudzele"
+,"LIGGING":"2032"
+,"OPMERKINGEN":"tegenaan Herdersbruggestraat / bovengronds"
+,"NR":22
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22357266531739,51.2720281162503]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Koolkerke"
+,"LIGGING":"3001"
+,"OPMERKINGEN":"op gemeenteplein / bovengronds"
+,"NR":23
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24889019883761,51.2414160489343]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"316"
+,"OPMERKINGEN":"op parkeerplaats / bovengronds"
+,"NR":16
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21516811697858,51.2046129889884]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Christus-Koning"
+,"LIGGING":"940"
+,"OPMERKINGEN":"langs spoorwegberm / bovengronds"
+,"NR":19
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20295342374122,51.2127879300079]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Kruisabele"
+,"LIGGING":"2017"
+,"OPMERKINGEN":"op einde straat / bovengronds"
+,"NR":26
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22245264527583,51.2459814814656]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5020"
+,"OPMERKINGEN":"aan rondpunt / bovengronds"
+,"NR":31
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19313290352329,51.1934475880183]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5055"
+,"OPMERKINGEN":"aan pleintje t.h.v. nr. 58 / bovengronds"
+,"NR":36
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17937785575763,51.2071833269004]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5093"
+,"OPMERKINGEN":"aan ingang naar Koude Keuken / bovengronds"
+,"NR":42
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18454386256765,51.204117066621]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5094"
+,"OPMERKINGEN":"aan bejaardenlokaal en speelplein r.o. Nr. 2 / bovengronds"
+,"NR":43
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21003223847267,51.2069649409825]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6020"
+,"OPMERKINGEN":"op parking Gulden Kamer / bovengronds"
+,"NR":48
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24661713132621,51.2164859874351]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6025"
+,"OPMERKINGEN":"t.h.v. Marinekazerne / bovengronds"
+,"NR":50
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26110257317519,51.2129576242297]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6076"
+,"OPMERKINGEN":"t.h.v. Puyenbroeklaan / bovengronds"
+,"NR":52
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27209000495711,51.2073044203708]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6096"
+,"OPMERKINGEN":"tegenaan Moerkerkse Steenweg / bovengronds"
+,"NR":54
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28438102223341,51.224092603129]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7097"
+,"OPMERKINGEN":"tegenaan expressweg / bovengronds"
+,"NR":58
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20201535778136,51.1851961329236]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7109"
+,"OPMERKINGEN":"op containerpark / bovengronds"
+,"NR":59
+,"AANTAL":4
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22586601897501,51.1869464451603]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7121"
+,"OPMERKINGEN":"bovengronds"
+,"NR":61
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21945000135357,51.1792172990432]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7118"
+,"OPMERKINGEN":"parking Torhoutse Steenweg / bovengronds"
+,"NR":66
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18211647845412,51.1767001887528]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"502"
+,"OPMERKINGEN":"op hoek met Goudenregenstraat / bovengronds"
+,"NR":68
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21124349839761,51.2348592594135]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"575"
+,"OPMERKINGEN":"aan ingang wijk / bovengronds"
+,"NR":69
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20200101542371,51.236942025465]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"551"
+,"OPMERKINGEN":"tegenaan rondpunt / bovengronds"
+,"NR":72
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21374315768477,51.2233083638274]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"732"
+,"OPMERKINGEN":"tegenaan Kustlaan / bovengronds"
+,"NR":76
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17705747152006,51.3269181346594]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"735"
+,"OPMERKINGEN":"v??r gemeenschapshuis / bovengronds"
+,"NR":80
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21031286664223,51.3313243533369]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"749"
+,"OPMERKINGEN":"in begin kaai / ondergronds"
+,"NR":85
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20789272427633,51.3351266191071]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1076"
+,"OPMERKINGEN":"op hoek met Daverlostraat / bovengronds"
+,"NR":9
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23997783095721,51.198628207277]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1179"
+,"OPMERKINGEN":"tegenaan Baron Ruzettelaan / bovengronds"
+,"NR":10
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23354249721617,51.1889430942517]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1121"
+,"OPMERKINGEN":"op driehoekig graspleintje / bovengronds"
+,"NR":4
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27182134472187,51.1879700070278]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1008"
+,"OPMERKINGEN":"op hoek Tragelweg (aan randparking) / bovengronds"
+,"NR":5
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23405775016472,51.1796520521579]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1141"
+,"OPMERKINGEN":"op parking Daverlopark"
+,"NR":12
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24547123488559,51.1925452336175]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"88"
+,"OPMERKINGEN":"bovengronds"
+,"NR":15
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23153776473616,51.2013703062966]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Christus-Koning"
+,"LIGGING":"930"
+,"OPMERKINGEN":"op parking GB / bovengronds"
+,"NR":18
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21307821776661,51.2165698924292]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5020"
+,"OPMERKINGEN":"aan Mari?nhovedreef / bovengronds"
+,"NR":32
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.14784897354576,51.1791017732581]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5108"
+,"OPMERKINGEN":"op inrit naar parking Koude Keuken / bovengronds"
+,"NR":44
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18051098484412,51.2011339045428]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"179"
+,"OPMERKINGEN":"op hoek Witte Molenstraat / bovengronds"
+,"NR":62
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.207751324789,51.1855356547142]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7138"
+,"OPMERKINGEN":"tegenaan Torhoutse Steenweg / bovengronds"
+,"NR":67
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18874977102384,51.1831340908727]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"525"
+,"OPMERKINGEN":"tegenaan Sint-Pieterskerklaan / bovengronds"
+,"NR":71
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21159236839955,51.2309101148481]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"556"
+,"OPMERKINGEN":"t.h.v. Rustenburgstraat / bovengronds"
+,"NR":73
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2074898904402,51.2187555452118]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"557"
+,"OPMERKINGEN":"op parking aan sporthal / bovengronds"
+,"NR":74
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20439073756186,51.2274467060028]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"702"
+,"OPMERKINGEN":"op hoek met Brusselstraat / bovengronds"
+,"NR":75
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1819311446942,51.3290741128021]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"716"
+,"OPMERKINGEN":"op parking aan sporthal / bovengronds"
+,"NR":79
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21300810969526,51.3304764425334]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Christus-Koning"
+,"LIGGING":"914"
+,"OPMERKINGEN":"aan spoorwegbrug / bovengronds"
+,"NR":20
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20139944343248,51.2168781761283]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Lissewege"
+,"LIGGING":"4018"
+,"OPMERKINGEN":"op parking achterzijde station"
+,"NR":28
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19468929549702,51.2949284441095]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5004"
+,"OPMERKINGEN":"op parking achter gemeentehuis / bovengronds"
+,"NR":29
+,"AANTAL":3
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18094299759437,51.1981627924004]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Pieters"
+,"LIGGING":"578"
+,"OPMERKINGEN":"aan overkant van speelplein / bovengronds"
+,"NR":1
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19690152304323,51.228357245075]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"397"
+,"OPMERKINGEN":"aan mobilhomeparking / bovengronds"
+,"NR":14
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22612143604059,51.1964840846267]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5018"
+,"OPMERKINGEN":"nabij expressweg / bovengronds"
+,"NR":30
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19642933185811,51.197466382134]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5030"
+,"OPMERKINGEN":"t.h.v. Bosdreef / bovengronds"
+,"NR":34
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17402429722238,51.1959450493748]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5030"
+,"OPMERKINGEN":"op parking GB (nr. 344) / bovengronds"
+,"NR":35
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19105381346913,51.2005872580761]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"HOGE LANE"
+,"OPMERKINGEN":"aan garagecomplex op hoek met Legeweg / bovengronds"
+,"NR":37
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20717290603501,51.2056260664732]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"571"
+,"OPMERKINGEN":"verbindingsweg naar Steenkaai / bovengronds"
+,"NR":41
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19989873738749,51.2200893740624]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Jozef"
+,"LIGGING":"3337"
+,"OPMERKINGEN":"aan pompstation r.o. Ter Looigemweg / bovengronds"
+,"NR":46
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23183005865561,51.2270924618881]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6025"
+,"OPMERKINGEN":"op parking supermarkt Ronse nr. 225 / bovengronds"
+,"NR":49
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27837600576784,51.2123726067367]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6099"
+,"OPMERKINGEN":"tegenaan Moerkerkse Steenweg / bovengronds"
+,"NR":55
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25195327832224,51.2145486020811]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6122"
+,"OPMERKINGEN":"aan inrit naar zwembad / bovengronds"
+,"NR":56
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25742130098948,51.208169438873]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7109"
+,"OPMERKINGEN":"t.h.v. uitgang containerpark / bovengronds"
+,"NR":64
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22704475768206,51.1863064353707]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"760"
+,"OPMERKINGEN":"aan grasplein in begin straat / bovengronds"
+,"NR":77
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1906848749286,51.3272394531562]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"779"
+,"OPMERKINGEN":"Jozef Verschaveweg op containerpark / bovengronds"
+,"NR":78
+,"AANTAL":4
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20557070114944,51.3276384820537]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"791"
+,"OPMERKINGEN":"transportzone op 2e parking / bovengronds"
+,"NR":82
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1859789952991,51.3195057393439]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"729"
+,"OPMERKINGEN":"zijarm op hoek met Kielbankstraat / bovengronds"
+,"NR":83
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20139688275353,51.3291636730476]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"130"
+,"OPMERKINGEN":"tegenaan Kruisvest / ondergronds"
+,"NR":86
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23783321385169,51.2145435499223]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"23"
+,"OPMERKINGEN":"aan speelplein / ondergronds"
+,"NR":88
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23824040694807,51.2079886774042]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Brugge"
+,"LIGGING":"4"
+,"OPMERKINGEN":"aan speelplein / ondergronds"
+,"NR":89
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2244562960119,51.2156234564689]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1060"
+,"OPMERKINGEN":"tegenaan hoek met Pannenhuisstraat / bovengronds"
+,"NR":8
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27872531202714,51.1883031908495]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1093"
+,"OPMERKINGEN":"r.o. nr. 62 / bovengronds"
+,"NR":11
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27132580156221,51.2010156883351]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Assebroek"
+,"LIGGING":"1042"
+,"OPMERKINGEN":"aan begin Sint-Kristoffelstraat / bovengronds"
+,"NR":7
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24704772809088,51.2011398016012]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5070"
+,"OPMERKINGEN":"op parking Edgar De Smedtplantsoen / bovengronds"
+,"NR":33
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20788943520004,51.201021901036]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Andries"
+,"LIGGING":"5075"
+,"OPMERKINGEN":"op parking/pleintje / bovengronds"
+,"NR":39
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17235487029595,51.1918437141407]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Jozef"
+,"LIGGING":"3331"
+,"OPMERKINGEN":"op einde straat aan Gandhiplein / bovengronds"
+,"NR":45
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23304112066519,51.230665380187]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6049"
+,"OPMERKINGEN":"op 1e parking op einde straat / bovengronds"
+,"NR":51
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24745226656324,51.2189575874645]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Kruis"
+,"LIGGING":"6077"
+,"OPMERKINGEN":"t.h.v. speelterrein"
+,"NR":53
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27984728384764,51.2164559065587]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Sint-Michiels"
+,"LIGGING":"7113"
+,"OPMERKINGEN":"bovengronds"
+,"NR":65
+,"AANTAL":2
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21341052825054,51.1854177643767]}
+}
+,{
+"json_featuretype":"Glasbollen"
+,"DEELGEMEENTE":"Zeebrugge"
+,"LIGGING":"753"
+,"OPMERKINGEN":"tegenaan nieuwe zeesluizen / bovengronds"
+,"NR":81
+,"AANTAL":1
+,"Aangemaakt op":"30/10/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21372227012276,51.3357454130255]}
+}
+]
