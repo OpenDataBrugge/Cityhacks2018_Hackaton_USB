@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Lijst_leegstaande_bedrijfspanden</name>
+<visibility>1</visibility>
+<Schema name="Lijst_leegstaande_bedrijfspanden" id="kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleField type="xsd:string" name="Dossier_ID">
+<displayName>Dossier_ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Administratieve_ligging">
+<displayName>Administratieve_ligging</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Adres">
+<displayName>Adres</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Nr">
+<displayName>Nr</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Gemeente">
+<displayName>Gemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aard_van_het_gebouw">
+<displayName>Aard_van_het_gebouw</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Behandeld">
+<displayName>Behandeld</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Lijst_leegstaande_bedrijfspanden">
+<name>Lijst_leegstaande_bedrijfspanden</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0014</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Peterseliestraat +124 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Peterseliestraat 124</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>124</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Serres</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0014</SimpleData>
+<SimpleData name="Administratieve_ligging">Peterseliestraat +124 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Peterseliestraat 124</SimpleData>
+<SimpleData name="Nr">124</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Serres</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23269219812486,51.2189081978541,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0149</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Lege Moerstraat 3 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Lege Moerstraat 3</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0149</SimpleData>
+<SimpleData name="Administratieve_ligging">Lege Moerstraat 3 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Lege Moerstraat 3</SimpleData>
+<SimpleData name="Nr">3</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.16415905329979,51.2158568085753,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0231</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Weidestraat 245 ,8310 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Weidestraat 245</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>245</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0231</SimpleData>
+<SimpleData name="Administratieve_ligging">Weidestraat 245 ,8310 BRUGGE</SimpleData>
+<SimpleData name="Adres">Weidestraat 245</SimpleData>
+<SimpleData name="Nr">245</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25115665315782,51.1906911796408,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0341</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Brugse Steenweg 91 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Brugse Steenweg 91</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>91</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0341</SimpleData>
+<SimpleData name="Administratieve_ligging">Brugse Steenweg 91 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Brugse Steenweg 91</SimpleData>
+<SimpleData name="Nr">91</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24303458082225,51.2340684972137,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0356</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Canadezenstraat +29 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Canadezenstraat 29</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>29</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Landgebouw</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0356</SimpleData>
+<SimpleData name="Administratieve_ligging">Canadezenstraat +29 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Canadezenstraat 29</SimpleData>
+<SimpleData name="Nr">29</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Landgebouw</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18825674570254,51.2908414388953,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0404</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Tempelhof +41 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Tempelhof 41</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>41</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Drukkerij</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0404</SimpleData>
+<SimpleData name="Administratieve_ligging">Tempelhof +41 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Tempelhof 41</SimpleData>
+<SimpleData name="Nr">41</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Drukkerij</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20377817023074,51.2248998382713,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0487</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Dudzeelse Steenweg 307 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Dudzeelse Steenweg 307</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>307</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0487</SimpleData>
+<SimpleData name="Administratieve_ligging">Dudzeelse Steenweg 307 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Dudzeelse Steenweg 307</SimpleData>
+<SimpleData name="Nr">307</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23160297106489,51.23914267325,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0500</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Monnikenwerve 17-19 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Monnikenwerve 17</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>17</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Kantoorgebouw</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0500</SimpleData>
+<SimpleData name="Administratieve_ligging">Monnikenwerve 17-19 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Monnikenwerve 17</SimpleData>
+<SimpleData name="Nr">17</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Kantoorgebouw</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19547053296588,51.2490746951808,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0508</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Lisseweegs Vaartje 277 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Lisseweegs Vaartje 277</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>277</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0508</SimpleData>
+<SimpleData name="Administratieve_ligging">Lisseweegs Vaartje 277 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Lisseweegs Vaartje 277</SimpleData>
+<SimpleData name="Nr">277</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19408532507137,51.3039059367383,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0528</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Houtkaai 37 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Houtkaai 37</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>37</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Nijverheidsgebouw</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0528</SimpleData>
+<SimpleData name="Administratieve_ligging">Houtkaai 37 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Houtkaai 37</SimpleData>
+<SimpleData name="Nr">37</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Nijverheidsgebouw</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20500201737526,51.2171220904572,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0534</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Blankenbergse Steenweg +7 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Blankenbergse Steenweg 7</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Warenhuis</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0534</SimpleData>
+<SimpleData name="Administratieve_ligging">Blankenbergse Steenweg +7 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Blankenbergse Steenweg 7</SimpleData>
+<SimpleData name="Nr">7</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Warenhuis</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2085943174234,51.2197335030336,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0538</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Nijverheidsstraat +27 ,8310 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Nijverheidsstraat 27</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>27</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Magazijn</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0538</SimpleData>
+<SimpleData name="Administratieve_ligging">Nijverheidsstraat +27 ,8310 BRUGGE</SimpleData>
+<SimpleData name="Adres">Nijverheidsstraat 27</SimpleData>
+<SimpleData name="Nr">27</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Magazijn</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23709464591437,51.2034056197293,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0539</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Legeweg 160 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Legeweg 160</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>160</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Handelruimte</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0539</SimpleData>
+<SimpleData name="Administratieve_ligging">Legeweg 160 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Legeweg 160</SimpleData>
+<SimpleData name="Nr">160</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Handelruimte</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19276084878396,51.208187915069,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0541</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Schaakstraat 100 ,8310 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Schaakstraat 100</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>100</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Semi-industrieel complex</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0541</SimpleData>
+<SimpleData name="Administratieve_ligging">Schaakstraat 100 ,8310 BRUGGE</SimpleData>
+<SimpleData name="Adres">Schaakstraat 100</SimpleData>
+<SimpleData name="Nr">100</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Semi-industrieel complex</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25470865268721,51.2100820981974,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0542</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Kustlaan 184 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Kustlaan 184</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>184</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Magazijn</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0542</SimpleData>
+<SimpleData name="Administratieve_ligging">Kustlaan 184 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Kustlaan 184</SimpleData>
+<SimpleData name="Nr">184</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Magazijn</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19517436081164,51.3288392075078,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0544</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Monnikenwerve 53 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Monnikenwerve 53</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>53</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Schrijnwerkerij, werkplaats</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0544</SimpleData>
+<SimpleData name="Administratieve_ligging">Monnikenwerve 53 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Monnikenwerve 53</SimpleData>
+<SimpleData name="Nr">53</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Schrijnwerkerij, werkplaats</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19801862310879,51.2494452584224,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0545</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Gieterijstraat 1/3/5/7/9 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Gieterijstraat 1</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Tabaksfabriek, magazijnen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0545</SimpleData>
+<SimpleData name="Administratieve_ligging">Gieterijstraat 1/3/5/7/9 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Gieterijstraat 1</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Tabaksfabriek, magazijnen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21734290965011,51.2130084207859,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0548</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Lieven Bauwensstraat 32 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Lieven Bauwensstraat 32</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Werkplaats, magazijn</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0548</SimpleData>
+<SimpleData name="Administratieve_ligging">Lieven Bauwensstraat 32 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Lieven Bauwensstraat 32</SimpleData>
+<SimpleData name="Nr">32</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Werkplaats, magazijn</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19382750814793,51.2159420009075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0549</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Wittemolenstraat 25 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Wittemolenstraat 25</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Bakkerij</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0549</SimpleData>
+<SimpleData name="Administratieve_ligging">Wittemolenstraat 25 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Wittemolenstraat 25</SimpleData>
+<SimpleData name="Nr">25</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Bakkerij</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20690403546147,51.1852768037488,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0551</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Generaal Lemanlaan 180 ,8310 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Generaal Lemanlaan 180</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>180</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Horecazaak</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0551</SimpleData>
+<SimpleData name="Administratieve_ligging">Generaal Lemanlaan 180 ,8310 BRUGGE</SimpleData>
+<SimpleData name="Adres">Generaal Lemanlaan 180</SimpleData>
+<SimpleData name="Nr">180</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Horecazaak</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24369226549944,51.2008356658809,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0555</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Wittemolenstraat +25 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Wittemolenstraat 25</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>25</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Bakkerij</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0555</SimpleData>
+<SimpleData name="Administratieve_ligging">Wittemolenstraat +25 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Wittemolenstraat 25</SimpleData>
+<SimpleData name="Nr">25</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Bakkerij</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20690403546147,51.1852768037488,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0557</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Lieven Bauwensstraat 19b ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Lieven Bauwensstraat 19</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>19</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>magazijn</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0557</SimpleData>
+<SimpleData name="Administratieve_ligging">Lieven Bauwensstraat 19b ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Lieven Bauwensstraat 19</SimpleData>
+<SimpleData name="Nr">19</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">magazijn</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19328890925615,51.2130047433455,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0558</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Karveelstraat 8 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Karveelstraat 8</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Kantoorgebouw</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0558</SimpleData>
+<SimpleData name="Administratieve_ligging">Karveelstraat 8 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Karveelstraat 8</SimpleData>
+<SimpleData name="Nr">8</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Kantoorgebouw</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18397451871391,51.3216510007206,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0559</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Blankenbergse Steenweg 390 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Blankenbergse Steenweg 390</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>390</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Werkplaats, magazijn</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0559</SimpleData>
+<SimpleData name="Administratieve_ligging">Blankenbergse Steenweg 390 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Blankenbergse Steenweg 390</SimpleData>
+<SimpleData name="Nr">390</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Werkplaats, magazijn</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19730496295954,51.2453660333968,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0560</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Lieven Bauwensstraat 16 ,8200 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Lieven Bauwensstraat 16</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>16</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Administratieve bedrijfsruimte</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0560</SimpleData>
+<SimpleData name="Administratieve_ligging">Lieven Bauwensstraat 16 ,8200 BRUGGE</SimpleData>
+<SimpleData name="Adres">Lieven Bauwensstraat 16</SimpleData>
+<SimpleData name="Nr">16</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Administratieve bedrijfsruimte</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19701927622577,51.2144150018098,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0561</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Sint-Pieterskaai  32 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Sint-Pieterskaai 32</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>32</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Toonzaal, winkelruimte</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0561</SimpleData>
+<SimpleData name="Administratieve_ligging">Sint-Pieterskaai  32 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Sint-Pieterskaai 32</SimpleData>
+<SimpleData name="Nr">32</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Toonzaal, winkelruimte</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21504753016149,51.2206993584024,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0562</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Gemeneweidestraat 61 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Gemeneweidestraat 61</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>61</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Hoevegebouwen</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0562</SimpleData>
+<SimpleData name="Administratieve_ligging">Gemeneweidestraat 61 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Gemeneweidestraat 61</SimpleData>
+<SimpleData name="Nr">61</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Hoevegebouwen</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24990596185504,51.2347188757963,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0564</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Marcus Gerardstraat 1 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Marcus Gerardstraat 1</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Kantoorgebouw en loods</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0564</SimpleData>
+<SimpleData name="Administratieve_ligging">Marcus Gerardstraat 1 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Marcus Gerardstraat 1</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Kantoorgebouw en loods</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19314363489379,51.3194582680168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0565</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Marcus Gerardstraat  3 ,8380 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Marcus Gerardstraat 3</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Werkplaats</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0565</SimpleData>
+<SimpleData name="Administratieve_ligging">Marcus Gerardstraat  3 ,8380 BRUGGE</SimpleData>
+<SimpleData name="Adres">Marcus Gerardstraat 3</SimpleData>
+<SimpleData name="Nr">3</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Werkplaats</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19300571517737,51.3195739397731,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0567</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Diksmuidestraat 5 ,8000 BRUGGE</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Diksmuidestraat 5</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Loods</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0567</SimpleData>
+<SimpleData name="Administratieve_ligging">Diksmuidestraat 5 ,8000 BRUGGE</SimpleData>
+<SimpleData name="Adres">Diksmuidestraat 5</SimpleData>
+<SimpleData name="Nr">5</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Loods</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21963547042433,51.2203847707256,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0568</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Zandstraat 142 ,8200 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Zandstraat 142</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>142</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Groot warenhuis</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0568</SimpleData>
+<SimpleData name="Administratieve_ligging">Zandstraat 142 ,8200 Brugge</SimpleData>
+<SimpleData name="Adres">Zandstraat 142</SimpleData>
+<SimpleData name="Nr">142</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Groot warenhuis</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19460769393666,51.2027573054899,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0569</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Maalse Steenweg 54 ,8310 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Maalse Steenweg 54</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>54</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Garage Werkplaats</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0569</SimpleData>
+<SimpleData name="Administratieve_ligging">Maalse Steenweg 54 ,8310 Brugge</SimpleData>
+<SimpleData name="Adres">Maalse Steenweg 54</SimpleData>
+<SimpleData name="Nr">54</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Garage Werkplaats</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24425608995399,51.2110435250179,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0570</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Vaartstraat 6 ,8000 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Vaartstraat 6</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Building</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0570</SimpleData>
+<SimpleData name="Administratieve_ligging">Vaartstraat 6 ,8000 Brugge</SimpleData>
+<SimpleData name="Adres">Vaartstraat 6</SimpleData>
+<SimpleData name="Nr">6</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Building</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21619491681517,51.2213143024023,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0571</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Dudzeelse Steenweg  23 ,8000 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Dudzeelse Steenweg 23</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>23</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Groot warenhuis</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0571</SimpleData>
+<SimpleData name="Administratieve_ligging">Dudzeelse Steenweg  23 ,8000 Brugge</SimpleData>
+<SimpleData name="Adres">Dudzeelse Steenweg 23</SimpleData>
+<SimpleData name="Nr">23</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Groot warenhuis</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22872858551841,51.2241161552605,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0572</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Fort Lapin 3 ,8000 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Fort Lapin 3</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Groot warenhuis</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0572</SimpleData>
+<SimpleData name="Administratieve_ligging">Fort Lapin 3 ,8000 Brugge</SimpleData>
+<SimpleData name="Adres">Fort Lapin 3</SimpleData>
+<SimpleData name="Nr">3</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Groot warenhuis</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22836108272895,51.223673411732,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Dossier_ID</th>
+<td>31005_0573</td>
+</tr><tr bgcolor="">
+<th>Administratieve_ligging</th>
+<td>Marcus Gerardstraat  9 ,8380 Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Adres</th>
+<td>Marcus Gerardstraat 9</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aard_van_het_gebouw</th>
+<td>Nijverheidsgebouw</td>
+</tr><tr bgcolor="">
+<th>Behandeld</th>
+<td>Ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>07/07/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Lijst_leegstaande_bedrijfspanden">
+<SimpleData name="Dossier_ID">31005_0573</SimpleData>
+<SimpleData name="Administratieve_ligging">Marcus Gerardstraat  9 ,8380 Brugge</SimpleData>
+<SimpleData name="Adres">Marcus Gerardstraat 9</SimpleData>
+<SimpleData name="Nr">9</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="Aard_van_het_gebouw">Nijverheidsgebouw</SimpleData>
+<SimpleData name="Behandeld">Ja</SimpleData>
+<SimpleData name="Aangemaakt op">07/07/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19596900714889,51.3204260433548,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

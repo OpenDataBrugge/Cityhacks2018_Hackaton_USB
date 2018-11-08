@@ -1,0 +1,2422 @@
+[
+{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":0
+,"Paalnr":0
+,"Huisnummer":0
+,"Aantalpijl":0
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22119793608878,51.2150055003624]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":1
+,"Paalnr":1
+,"Straatnaam":"Hoefijzerlaan"
+,"Huisnummer":67
+,"Locatie":"hoek Guido-Gezellelaan Hoefijzerstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Interhotel"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front/Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07253.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21398152731411,51.209118988813]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":2
+,"Paalnr":2
+,"Straatnaam":"Hendrik Consciencelaan"
+,"Huisnummer":0
+,"Locatie":"Hoek Hendrik Consciencelaan-Smedenstraat"
+,"Inplanting":"Beplanting naast fietspad"
+,"Aantalpijl":3
+,"Hotelnaam1":"Boudewijn 1"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Park Hotel"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"Portinari"
+,"Aantster3":4
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Goed"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Foto":"foto/DSC07254.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21314059396973,51.2046352775343]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":6
+,"Paalnr":6
+,"Straatnaam":"'t Zand"
+,"Huisnummer":0
+,"Locatie":"Hoek 't Zand-Zuidzandstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":8
+,"Hotelnaam1":"Groenighe"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back/Rechts"
+,"Hotelnaam2":"Lybeer"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Geplooid"
+,"Richting2":"Back/Rechts"
+,"Hotelnaam3":"Portinari"
+,"Aantster3":4
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Parkhotel"
+,"Aanster4":4
+,"_2zijden4":"Nee"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Sablon"
+,"Aantster5":3
+,"_2zijden5":"Nee"
+,"Staatpijl5":"'a' is weg"
+,"Hotelnaam6":"'t putje"
+,"Aantster6":1
+,"_2zijden6":"Nee"
+,"Staatpijl6":"Goed"
+,"Richting3":"Front/Links"
+,"Richting4":"Front/Links"
+,"Richting5":"Front/Links"
+,"Richting6":"Back/Rechts"
+,"Foto":"foto/DSC07257.JPG"
+,"Hotelnaam7":"Salvators"
+,"Aantster7":2
+,"_2zijden7":0
+,"Staatpijl7":"Goed"
+,"Richting7":"Front/Rechts"
+,"Hotelnaam8":"Castillion"
+,"Aantster8":4
+,"_2zijden8":0
+,"Staatpijl8":"Letters half weg"
+,"Richting8":"Back/Rechts"
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21799942132569,51.2050917341213]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":12
+,"Paalnr":12
+,"Straatnaam":"Zuidzandstraat"
+,"Huisnummer":0
+,"Locatie":"Zuidzandstraat/Zilverstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":11
+,"Hotelnaam1":"LybeerL"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Scheef"
+,"Richting1":"Back/Rechts"
+,"Hotelnaam2":"Castillion"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Back/Rechts"
+,"Hotelnaam3":"Salvators"
+,"Aantster3":2
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Bonobo"
+,"Aanster4":2
+,"_2zijden4":"Ja"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Hotel Bla Bla"
+,"Aantster5":2
+,"_2zijden5":"Ja"
+,"Staatpijl5":"GoedL"
+,"Hotelnaam6":"Hotel Dukes' palace"
+,"Aantster6":4
+,"_2zijden6":"Ja"
+,"Staatpijl6":"Goed"
+,"Richting3":"Back/Rechts"
+,"Richting4":"Rechts"
+,"Richting5":"Back/Links"
+,"Richting6":"Links"
+,"Foto":"foto/DSC07261.JPG"
+,"Hotelnaam7":"Acacia"
+,"Aantster7":4
+,"_2zijden7":0
+,"Staatpijl7":"Goed"
+,"Richting7":"Links"
+,"Hotelnaam8":"Van Eyck"
+,"Aantster8":2
+,"_2zijden8":0
+,"Staatpijl8":"Goed"
+,"Richting8":"Links"
+,"Hotelnaam9":"Du Sablon"
+,"Aanster9":3
+,"_2zijden9":0
+,"Richting":"Front/Links"
+,"Staatpijl9":"Goed"
+,"Hotelnm10":"Prinsenhof"
+,"Aantster10":4
+,"_2zijden10":0
+,"Richting10":"Links"
+,"Hotelnm11":"Azalea"
+,"Aantster11":4
+,"_2zijden11":0
+,"Staat11":"Groen"
+,"Richting11":"Rechts"
+,"Staat10":"Geplooid + groen"
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22089723550875,51.2057781256668]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":13
+,"Paalnr":13
+,"Straatnaam":"Sint-Salvatorskerkhof"
+,"Huisnummer":15
+,"Locatie":"St-SalvatorKerkhof- Kleine Vuldersstraat"
+,"Inplanting":"Naast parkeerplaats"
+,"Aantalpijl":3
+,"Hotelnaam1":"Groeninghe"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back"
+,"Hotelnaam2":"Lybeer"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Back"
+,"Hotelnaam3":"? (ruilluik hangt er voor)"
+,"Aantster3":2
+,"_2zijden3":"Nee"
+,"Staatpijl3":"?"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Foto":"foto/DSC07266.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22114487912466,51.2050098914606]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":14
+,"Paalnr":14
+,"Straatnaam":"Mariastraat"
+,"Huisnummer":0
+,"Locatie":"MariaStraat-Guido Gezelleplein (over St-Salvator"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":7
+,"Hotelnaam1":"Koffieboontje"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Letters half weg"
+,"Richting1":"Front/Links"
+,"Hotelnaam2":"Relais Bourg. Cruyce"
+,"Aantster2":4
+,"_2zijden2":"Ja"
+,"Staatpijl2":"'o' uit bourg weg"
+,"Richting2":"Front/Links"
+,"Hotelnaam3":"Martin's Brugge"
+,"Aantster3":3
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Letters weg"
+,"Hotelnaam4":"Bourgoensch Hof"
+,"Aanster4":3
+,"_2zijden4":"Ja"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"De orangerie"
+,"Aantster5":4
+,"_2zijden5":"Ja"
+,"Staatpijl5":"Goed"
+,"Hotelnaam6":"Romantik Pandhotel"
+,"Aantster6":4
+,"_2zijden6":"Nee"
+,"Staatpijl6":"Goed"
+,"Richting3":"Front/Links"
+,"Richting4":"Front/Links"
+,"Richting5":"Front/Links"
+,"Richting6":"Back/Rechts"
+,"Foto":"foto/DSC07307.JPG"
+,"Hotelnaam7":"De Tuilerieën"
+,"Aantster7":4
+,"_2zijden7":0
+,"Staatpijl7":"'T' is weg"
+,"Richting7":"Rechts/Back"
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2237039526264,51.2049176535012]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":16
+,"Paalnr":16
+,"Straatnaam":"Walstraat"
+,"Huisnummer":0
+,"Locatie":"Walstraat - Wijnaardplein"
+,"Inplanting":"Voetpad (op plein)"
+,"Aantalpijl":1
+,"Hotelnaam1":"Academie"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Mos + krom (verkeersbord hangt er voor)"
+,"Richting1":"Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07304.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2242162322883,51.2027590330677]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":19
+,"Paalnr":19
+,"Straatnaam":"Katelijnestraat"
+,"Huisnummer":0
+,"Locatie":"Katelijnestraat/Arsenaalstraat"
+,"Inplanting":"voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Egmand"
+,"Aantster1":3
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed, sticker op de tekst"
+,"Richting1":"Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07297.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22741916166965,51.2014515141708]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":20
+,"Paalnr":20
+,"Straatnaam":"Visspaanstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek met Katelijnestraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"Montanus"
+,"Aantster1":2
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Hotelnaam2":"Manoir Red"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Rechts"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07298.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22907878098861,51.2000374955047]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":21
+,"Paalnr":21
+,"Straatnaam":"Katelijnestraat"
+,"Huisnummer":143
+,"Locatie":"Kruispunt Katelijnestraat-Gentpoortvest"
+,"Inplanting":"Beplanting"
+,"Aantalpijl":2
+,"Hotelnaam1":"IBIS"
+,"Aantster1":0
+,"_2zijden1":"Ja"
+,"Staatpijl1":"'I' half weg"
+,"Richting1":"Front"
+,"Hotelnaam2":"Novotel"
+,"Aantster2":3
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07300.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22941745723656,51.1998402774924]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":24
+,"Paalnr":24
+,"Straatnaam":"Gentpoortstraat"
+,"Huisnummer":65
+,"Locatie":"Hoek Boninvest"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"IBIS"
+,"Aantster1":0
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Hotelnaam2":"Novotel"
+,"Aantster2":0
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Rechts"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07328.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23430782739587,51.2032340616284]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":25
+,"Paalnr":25
+,"Straatnaam":"Waalsestraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Jozef Suveestraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Botaniek"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07327.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22913611408121,51.2072078681445]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":28
+,"Paalnr":28
+,"Straatnaam":"Dijver"
+,"Huisnummer":1
+,"Locatie":"Kruispunt Wollestraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":9
+,"Hotelnaam1":"Oud huis de Peellaert"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Alle letters weg"
+,"Richting1":"Front"
+,"Hotelnaam2":"Crowne Plaza"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"Botaniek"
+,"Aantster3":3
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Romantik Pandhotel"
+,"Aanster4":4
+,"_2zijden4":"Nee"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Malleberg"
+,"Aantster5":3
+,"_2zijden5":"Nee"
+,"Staatpijl5":"Goed"
+,"Hotelnaam6":"Patritius"
+,"Aantster6":3
+,"_2zijden6":"Nee"
+,"Staatpijl6":"Goed"
+,"Richting3":"Front"
+,"Richting4":"Front"
+,"Richting5":"Front"
+,"Richting6":"Front"
+,"Foto":"foto/DSC07322.JPG"
+,"Hotelnaam7":"Jan Brito"
+,"Aantster7":3
+,"_2zijden7":0
+,"Staatpijl7":"Sterren zijn weg"
+,"Richting7":"Front"
+,"Hotelnaam8":"Koffieboontje"
+,"Aantster8":4
+,"_2zijden8":0
+,"Staatpijl8":"Goed"
+,"Richting8":"Back"
+,"Hotelnaam9":"De Tuilerieën"
+,"Aanster9":4
+,"_2zijden9":0
+,"Richting":"Back"
+,"Staatpijl9":"Goed"
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22717574553447,51.2068783892526]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":29
+,"Paalnr":29
+,"Straatnaam":"Dijver"
+,"Huisnummer":0
+,"Locatie":"Aan het water, hoek Pandreitje"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Romantik Pandhotel"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back/Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07326.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22774113485548,51.2072952376935]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":30
+,"Paalnr":30
+,"Straatnaam":"Kartuizerinnenstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Wollestraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":3
+,"Hotelnaam1":"Relais Bourg Cruyce"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Links"
+,"Hotelnaam2":"Martin's Brugge"
+,"Aantster2":3
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Rechts"
+,"Hotelnaam3":"De Orangerie"
+,"Aantster3":4
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Goed"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Rechts"
+,"Foto":"foto/DSC07321.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22653200687625,51.2072511180451]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":32
+,"Paalnr":32
+,"Straatnaam":"Peerdenstraat"
+,"Huisnummer":31
+,"Locatie":"Tegen gevel, hoek Predikherenstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"Die Swaene"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Duc de Bourgogne"
+,"Aantster2":3
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07332.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23055359896697,51.208617933238]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":34
+,"Paalnr":34
+,"Straatnaam":"Langestraat"
+,"Huisnummer":19
+,"Locatie":"Rechtover Predikherenstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":6
+,"Hotelnaam1":"Relais Ravestein"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Alle letters weg"
+,"Richting1":"Front"
+,"Hotelnaam2":"Oud huis de Peelaert"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Veel letters los of weg"
+,"Richting2":"Front"
+,"Hotelnaam3":"Crowne Plaza"
+,"Aantster3":4
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Malleberg"
+,"Aanster4":3
+,"_2zijden4":"Nee"
+,"Staatpijl4":"Letters los"
+,"Hotelnaam5":"Patritius"
+,"Aantster5":3
+,"_2zijden5":"Nee"
+,"Staatpijl5":"Redelijk"
+,"Hotelnaam6":"Rosenburg"
+,"Aantster6":4
+,"_2zijden6":"Ja"
+,"Staatpijl6":"Goed"
+,"Richting3":"Front"
+,"Richting4":"Front"
+,"Richting5":"Front"
+,"Richting6":"Links"
+,"Foto":"foto/DSC07335.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23236979410492,51.2097200809618]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":35
+,"Paalnr":35
+,"Straatnaam":"Boomgaardstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Hoogstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"1"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front/Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07269.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23017986768303,51.2099470130011]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":37
+,"Paalnr":37
+,"Straatnaam":"Markt"
+,"Huisnummer":0
+,"Locatie":"Hoek Breidelstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":6
+,"Hotelnaam1":"Duc de Bourgogne"
+,"Aantster1":3
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Hotelnaam2":"Bourgoensch Hof"
+,"Aantster2":3
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Kleinde beschadeging aan de sterren"
+,"Richting2":"Rechts"
+,"Hotelnaam3":"Relais Bourg Cruyce"
+,"Aantster3":4
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"De uilerieën"
+,"Aanster4":4
+,"_2zijden4":"Ja"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Malleberg?"
+,"Aantster5":3
+,"_2zijden5":"Ja"
+,"Staatpijl5":"Helft van de letters zijn weg"
+,"Hotelnaam6":"De orangerie"
+,"Aantster6":4
+,"_2zijden6":"Ja"
+,"Staatpijl6":"Goed"
+,"Richting3":"Rechts"
+,"Richting4":"Rechts"
+,"Richting5":"Rechts"
+,"Richting6":"Rechts"
+,"Foto":"foto/DSC07275.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22510840079398,51.2085063023878]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":38
+,"Paalnr":38
+,"Straatnaam":"Philipstockstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Vlamingstraat, over Historium"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":8
+,"Hotelnaam1":"Nicolas"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front/Links"
+,"Hotelnaam2":"Martin's Relais"
+,"Aantster2":4
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Back/Links"
+,"Hotelnaam3":"Oud huis Amsterdam"
+,"Aantster3":4
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Heritage"
+,"Aanster4":4
+,"_2zijden4":"Ja"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Hans Memling"
+,"Aantster5":4
+,"_2zijden5":"Ja"
+,"Staatpijl5":"Goed"
+,"Hotelnaam6":"Ter Brughe"
+,"Aantster6":4
+,"_2zijden6":"Nee"
+,"Staatpijl6":"Goed"
+,"Richting3":"Links"
+,"Richting4":"Links"
+,"Richting5":"Rechts"
+,"Richting6":"Links"
+,"Foto":"foto/DSC07282.JPG"
+,"Hotelnaam7":"Europ Hotel"
+,"Aantster7":0
+,"_2zijden7":0
+,"Staatpijl7":"'Hotel' volledig weg (langs 1 kant)"
+,"Richting7":"Links"
+,"Hotelnaam8":"Biskajer"
+,"Aantster8":4
+,"_2zijden8":0
+,"Staatpijl8":"Krom"
+,"Richting8":"Links"
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22482056306115,51.2094108990499]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":39
+,"Paalnr":39
+,"Straatnaam":"Cordoeaniersstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Philipstockstraat"
+,"Inplanting":"Voetpad, naast parkeerplaats"
+,"Aantalpijl":1
+,"Hotelnaam1":"De cordoanier"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07278.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2254323892649,51.2095141586485]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":40
+,"Paalnr":40
+,"Straatnaam":"Geldmuntstraat"
+,"Huisnummer":0
+,"Locatie":"Schuinover nr4, hoek St.-Jakobsstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":5
+,"Hotelnaam1":"Hotel Dukes' Palace"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Azalea"
+,"Aantster2":4
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"Acacia"
+,"Aantster3":4
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Hotel Marcel"
+,"Aanster4":3
+,"_2zijden4":"Ja"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Heritage"
+,"Aantster5":3
+,"_2zijden5":"Nee"
+,"Staatpijl5":"\"bedje\" hangt los + beschadegingen"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Richting4":"Back"
+,"Richting5":"Back"
+,"Foto":"foto/DSC07287.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22282303912072,51.209164426777]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":56
+,"Paalnr":56
+,"Straatnaam":"Ontvangersstraat"
+,"Huisnummer":0
+,"Locatie":"Naast Noordzandstraat 26"
+,"Inplanting":"Rijbaan"
+,"Aantalpijl":1
+,"Hotelnaam1":"Prinsenhof"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07293.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22052975393677,51.2078176162441]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":43
+,"Paalnr":43
+,"Straatnaam":"Moerstraat"
+,"Huisnummer":50
+,"Locatie":"Kruispunt Gheerwijnstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Walwyck"
+,"Aantster1":3
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Krom"
+,"Richting1":"Back"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07285.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21978827455747,51.2097596046817]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":44
+,"Paalnr":44
+,"Straatnaam":"Sint-Jakobsstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Moerstraat, voor de kerk"
+,"Inplanting":"voetpad"
+,"Aantalpijl":6
+,"Hotelnaam1":"Aragon"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Navarra"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"Lucca"
+,"Aantster3":2
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Goed"
+,"Hotelnaam4":"Karel de Stoute"
+,"Aanster4":3
+,"_2zijden4":"Nee"
+,"Staatpijl4":"Goed"
+,"Hotelnaam5":"Walwyck"
+,"Aantster5":3
+,"_2zijden5":"Ja"
+,"Staatpijl5":"Goed"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Richting4":"Back/Rechts"
+,"Richting5":"Back/Rechts"
+,"Foto":"foto/st jakobsstraat.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22078114234573,51.2108724725326]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":48
+,"Paalnr":48
+,"Straatnaam":"Vlamingstraat"
+,"Huisnummer":0
+,"Locatie":"tussen bushalte en stadsschouwburg"
+,"Inplanting":"Voetpad naast omheining"
+,"Aantalpijl":2
+,"Hotelnaam1":"Hans Memling"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"redelijk"
+,"Richting1":"Links"
+,"Hotelnaam2":"Cavalier"
+,"Aantster2":2
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Redelijk"
+,"Richting2":"Links"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07309.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22413110279064,51.210818026312]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":50
+,"Paalnr":50
+,"Straatnaam":"Academiestraat"
+,"Huisnummer":18
+,"Locatie":"Voor Rijksarchief"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"Europ"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Ter Brughe"
+,"Aantster2":4
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Top staat scheef"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07320.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22527240655361,51.2114502096664]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":52
+,"Paalnr":52
+,"Straatnaam":"Jan van Eyckplein"
+,"Huisnummer":0
+,"Locatie":"Voor Tolhuis"
+,"Inplanting":"voetpad"
+,"Aantalpijl":3
+,"Hotelnaam1":"Central"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Redelijk"
+,"Richting1":"Front"
+,"Hotelnaam2":"Cordoeanier"
+,"Aantster2":2
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Redelijk"
+,"Richting2":"Links"
+,"Hotelnaam3":"Biskajer"
+,"Aantster3":4
+,"_2zijden3":"Ja"
+,"Staatpijl3":"redelijk"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Links"
+,"Foto":"foto/DSC07344.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22552993391848,51.211632320865]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":54
+,"Paalnr":54
+,"Straatnaam":"Genthof"
+,"Huisnummer":8
+,"Locatie":"op woensdagmarkt (plein)"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Brughia"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07346.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22636924690833,51.212317198501]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":55
+,"Paalnr":55
+,"Straatnaam":"Genthof"
+,"Huisnummer":48
+,"Locatie":"hoek Langerei"
+,"Inplanting":"voetpad"
+,"Aantalpijl":3
+,"Hotelnaam1":"Martin's Relais"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Brughia"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"Oud huis Amsterdam"
+,"Aantster3":4
+,"_2zijden3":"Nee"
+,"Staatpijl3":"Goed"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Foto":"foto/DSC07347.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22864348133434,51.2131758309186]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":59
+,"Paalnr":59
+,"Straatnaam":"Langerei"
+,"Huisnummer":0
+,"Locatie":"Kruispunt Julius en Maurits sabbestraat"
+,"Inplanting":"naast water"
+,"Aantalpijl":3
+,"Hotelnaam1":"Fevery"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"'F' half weg"
+,"Richting1":"Back"
+,"Hotelnaam2":"de' Medici"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Back"
+,"Hotelnaam3":"St.-Fr. Xav Ziekenhuis"
+,"Aantster3":0
+,"_2zijden3":"Ja"
+,"Staatpijl3":"Goed"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Back/Links"
+,"Foto":"foto/DSC07314.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22864586262859,51.2173824696213]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":60
+,"Paalnr":60
+,"Straatnaam":"Komvest"
+,"Huisnummer":56
+,"Locatie":"Hoek Walwijnstraat"
+,"Inplanting":"Beplanting"
+,"Aantalpijl":2
+,"Hotelnaam1":"St. Fr. Xav. Ziekenhuis"
+,"Aantster1":0
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Redelijk"
+,"Richting1":"Rechts"
+,"Hotelnaam2":"Ter Duinen"
+,"Aantster2":3
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/komvest 56.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22656448237647,51.2209988494605]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":62
+,"Paalnr":62
+,"Straatnaam":"Komvest"
+,"Huisnummer":0
+,"Locatie":"Tussenstuk zebrapad"
+,"Inplanting":"Middenberm, beplanting"
+,"Aantalpijl":1
+,"Hotelnaam1":"Gulden Vlies"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07348.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22039066632236,51.2184174280935]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":64
+,"Paalnr":64
+,"Straatnaam":"Heilige-Geeststraat"
+,"Huisnummer":9
+,"Locatie":"over Goezeputstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"Bonobo"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Hotelnaam2":"De Goezeput"
+,"Aantster2":1
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Back/Rechts"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07268.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22303653525262,51.2050525693648]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":65
+,"Paalnr":65
+,"Straatnaam":"Hoogstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Mallebergplaats"
+,"Inplanting":"voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"cordoeanier"
+,"Aantster1":2
+,"_2zijden1":"Nee"
+,"Staatpijl1":"goed"
+,"Richting1":"Front/Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/hoogstraat.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2279277543691,51.2090944154502]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":66
+,"Paalnr":66
+,"Straatnaam":"Jozef Suvéestraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Braambergstraat"
+,"Inplanting":"Rijbaan"
+,"Aantalpijl":1
+,"Hotelnaam1":"Botaniek"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07324.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22854933664225,51.207590427445]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":67
+,"Paalnr":67
+,"Straatnaam":"Jan van Eyckplein"
+,"Huisnummer":0
+,"Locatie":"Voor standbeeld, hoek Spiegelrei"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":3
+,"Hotelnaam1":"Oud Huis Amsterdam"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Adrones"
+,"Aantster2":3
+,"_2zijden2":"Ja"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Hotelnaam3":"de' Medici"
+,"Aantster3":4
+,"_2zijden3":"Ja"
+,"Staatpijl3":"'M' is weg"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Richting3":"Front"
+,"Foto":"foto/DSC07318.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22600004278548,51.2117226187567]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":69
+,"Paalnr":69
+,"Straatnaam":"Naaldenstraat"
+,"Huisnummer":19
+,"Locatie":"Hoek Kuiperstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Hans Memling"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Krom"
+,"Richting1":"Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07341.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22253646206623,51.2112174515464]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":70
+,"Paalnr":70
+,"Straatnaam":"Prinsenhof"
+,"Huisnummer":8
+,"Locatie":"Pleintje, achter boom"
+,"Inplanting":"Boom"
+,"Aantalpijl":1
+,"Hotelnaam1":"Prinsenhof"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed, maar zit verborgen achter boom"
+,"Richting1":"Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07352.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22033901340747,51.2082966880308]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":71
+,"Paalnr":71
+,"Straatnaam":"Werkhuisstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Oude Gentweg"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"montanus"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Manoir Red"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Goed"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07353.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22886778997683,51.2027100956634]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":72
+,"Paalnr":72
+,"Straatnaam":"Meestraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Hoogstraat"
+,"Inplanting":"Rijbaan"
+,"Aantalpijl":2
+,"Hotelnaam1":"Die Swaene"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Hotelnaam2":"Jan Brito"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"helft vd letters zijn weg"
+,"Richting2":"Front"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07270.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22874887154875,51.2093908867494]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":73
+,"Paalnr":73
+,"Straatnaam":"Freren Fonteinstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Predikherenstraat"
+,"Inplanting":"voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Jan Brito"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07330.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22984870514462,51.2082461095314]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":74
+,"Paalnr":74
+,"Straatnaam":"Bargeweg"
+,"Huisnummer":0
+,"Locatie":"hoek Katelijnestraat (nr160)"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"De Barge"
+,"Aantster1":2
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07302.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22950246605198,51.1996070080227]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":75
+,"Paalnr":75
+,"Straatnaam":"Bargeweg"
+,"Huisnummer":0
+,"Locatie":"Hoek Buiten de Katelijnevest"
+,"Inplanting":"Berm met gras"
+,"Aantalpijl":1
+,"Hotelnaam1":"De Barge"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07355.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22447686886634,51.1967181250295]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":76
+,"Paalnr":76
+,"Straatnaam":"Predikherenrei"
+,"Huisnummer":0
+,"Locatie":"hoek Predikherenstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":2
+,"Hotelnaam1":"Rosenburg"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front/Links"
+,"Hotelnaam2":"Relais Ravestein"
+,"Aantster2":4
+,"_2zijden2":"Nee"
+,"Staatpijl2":"Letters half weg"
+,"Richting2":"Links"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07334.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2320970208936,51.2091785949233]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":77
+,"Paalnr":77
+,"Straatnaam":"Baliestraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Lange Raamstraat, naast kerk"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"De Pauw"
+,"Aantster1":2
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed, maar verkeersbord hang er voor"
+,"Richting1":"Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07312.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2264432592126,51.2146448814255]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":79
+,"Paalnr":79
+,"Straatnaam":"Molenmeers"
+,"Huisnummer":0
+,"Locatie":"Hoek Langestraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Relais Ravestein"
+,"Aantster1":4
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07338.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23176560099019,51.2097571515722]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":108
+,"Paalnr":108
+,"Straatnaam":"Jagersstraat"
+,"Huisnummer":20
+,"Locatie":"Afslag rondpunt Koning Albert 1 Laan"
+,"Inplanting":"Middenberm"
+,"Aantalpijl":1
+,"Hotelnaam1":"Value Stay Bruges"
+,"Aantster1":0
+,"_2zijden1":"Ja"
+,"Staatpijl1":"GoedL"
+,"Richting1":"Front/Links"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/jagersstraat.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20591405702425,51.1816398152913]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":100
+,"Paalnr":100
+,"Straatnaam":"Chartreuseweg"
+,"Huisnummer":0
+,"Locatie":"Hoek Koning Albert 1 laan"
+,"Inplanting":"Beplanting"
+,"Aantalpijl":1
+,"Hotelnaam1":"Leonardo hotel"
+,"Aantster1":3
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/chartreuseweg.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19809521639368,51.1699878166033]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":104
+,"Paalnr":104
+,"Straatnaam":"Joseph Wautersstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Expressweg"
+,"Inplanting":"Beplanting"
+,"Aantalpijl":1
+,"Hotelnaam1":"Brugotel"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/joseph wautersstraat.PNG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19834448373916,51.1924793142223]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":102
+,"Paalnr":102
+,"Straatnaam":"Barrièrestraat"
+,"Huisnummer":1
+,"Locatie":"Naast rondpunt (over tankstation), bij ander verkeersbord"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Brugotel"
+,"Aantster1":3
+,"_2zijden1":"Nee"
+,"Staatpijl1":"redelijk"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07356.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21354154587249,51.1953683323997]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":105
+,"Paalnr":105
+,"Straatnaam":"Sint-Pietersgroenestraat"
+,"Huisnummer":0
+,"Locatie":"hoek Vaartstraat, tussen 2 fietspaden"
+,"Inplanting":"Gras"
+,"Aantalpijl":1
+,"Hotelnaam1":"Hotel Velotel"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07349.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2146342741976,51.2239771834896]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":106
+,"Paalnr":106
+,"Straatnaam":"Vaartstraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Handboogstraat"
+,"Inplanting":"Voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Hotel Velotel"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Back/Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07350.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21394460419872,51.2271607570855]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":105
+,"Paalnr":105
+,"Straatnaam":"Laconiastraat"
+,"Huisnummer":0
+,"Locatie":"Over uitleendienst Stad Brugge, hoek St-Pieters Kerklaan"
+,"Inplanting":"gras naast voetpad"
+,"Aantalpijl":1
+,"Hotelnaam1":"Hotel Velotel"
+,"Aantster1":4
+,"_2zijden1":"Ja"
+,"Staatpijl1":"Goed"
+,"Richting1":"Front"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07351.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21080734559619,51.2313865329866]}
+}
+,{
+"json_featuretype":"hotelaanwijsbordenOK"
+,"Id":109
+,"Paalnr":109
+,"Straatnaam":"Neststraat"
+,"Huisnummer":0
+,"Locatie":"Hoek Hoefijzerlaan"
+,"Inplanting":"Rijbaan"
+,"Aantalpijl":1
+,"Hotelnaam1":"Ensor"
+,"Aantster1":0
+,"_2zijden1":"Nee"
+,"Staatpijl1":"Goed"
+,"Richting1":"Rechts"
+,"Aantster2":0
+,"_2zijden2":"Nee"
+,"Aantster3":0
+,"_2zijden3":"Nee"
+,"Aanster4":0
+,"_2zijden4":"Nee"
+,"Aantster5":0
+,"_2zijden5":"Nee"
+,"Aantster6":0
+,"_2zijden6":"Nee"
+,"Foto":"foto/DSC07259.JPG"
+,"Aantster7":0
+,"_2zijden7":0
+,"Aantster8":0
+,"_2zijden8":0
+,"Aanster9":0
+,"_2zijden9":0
+,"Aantster10":0
+,"_2zijden10":0
+,"Aantster11":0
+,"_2zijden11":0
+,"Aangemaakt op":"15/09/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21652676054066,51.207206210124]}
+}
+]
