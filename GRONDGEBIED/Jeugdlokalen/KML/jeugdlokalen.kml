@@ -1,0 +1,3692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Jeugdlokalen</name>
+<visibility>1</visibility>
+<Schema name="Jeugdlokalen" id="kml_schema_ft_Jeugdlokalen">
+<SimpleField type="xsd:string" name="Nr">
+<displayName>Nr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Ligging">
+<displayName>Ligging</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Huisnr">
+<displayName>Huisnr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Eigenaar">
+<displayName>Eigenaar</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Terrein">
+<displayName>Terrein</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Deelgemeente">
+<displayName>Deelgemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Vereniging">
+<displayName>Vereniging</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Aantal_geb">
+<displayName>Aantal_geb</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Jeugdlokalen">
+<name>Jeugdlokalen</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Zandberg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Gewest KSA, KSA Assebroek meisjes, Uitgezonderd, Europascouts, Kwibus</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Ligging">Zandberg</SimpleData>
+<SimpleData name="Huisnr">8</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">Gewest KSA, KSA Assebroek meisjes, Uitgezonderd, Europascouts, Kwibus</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24716494341624,51.192572438982,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Daverlostraat</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>140</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>209e Fos De Vrijbuiters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Daverlostraat</SimpleData>
+<SimpleData name="Huisnr">140</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">209e Fos De Vrijbuiters</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24775287294845,51.1945851475351,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Daverlostraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>140</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>209e Fos De Vrijbuiters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>209e Fos De Vrijbuiters</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">8</SimpleData>
+<SimpleData name="Ligging">Daverlostraat</SimpleData>
+<SimpleData name="Huisnr">140</SimpleData>
+<SimpleData name="Eigenaar">209e Fos De Vrijbuiters</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">209e Fos De Vrijbuiters</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24775287294845,51.1945851475351,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Prinses Maria Christinalaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Akabe Twiest</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">10</SimpleData>
+<SimpleData name="Ligging">Prinses Maria Christinalaan</SimpleData>
+<SimpleData name="Huisnr">11</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">Scouts Akabe Twiest</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24884407306475,51.1955341582273,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Prinses Maria Christinalaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>11</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Scouts Karel de Goede</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Scouts en Gidsen Karel de Goede</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Prinses Maria Christinalaan</SimpleData>
+<SimpleData name="Huisnr">11</SimpleData>
+<SimpleData name="Eigenaar">Scouts Karel de Goede</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">Scouts en Gidsen Karel de Goede</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24884407306475,51.1955341582273,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Antonis De Rooverestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>K.S.A. Sint-Trudo</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">11</SimpleData>
+<SimpleData name="Ligging">Antonis De Rooverestraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">K.S.A. Sint-Trudo</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2595347124372,51.2027977690233,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Peterseliestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>100</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Oranje vzw, Jeugdbond voor Natuur en Milieu, Vlaams Nationaal Jeugdverbond, Scouts A. De Pauw</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">12</SimpleData>
+<SimpleData name="Ligging">Peterseliestraat</SimpleData>
+<SimpleData name="Huisnr">100</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">Oranje vzw, Jeugdbond voor Natuur en Milieu, Vlaams Nationaal Jeugdverbond, Scouts A. De Pauw</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23367920721661,51.2183104380325,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Mortierstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>39e Fos De Menapiërs, KAJ Brugge, Jeugdwerkgroep Ruimtevaart, KSA Spiko, Brugse Socioculturele Jongeren, Punt Andere Lijn</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">17</SimpleData>
+<SimpleData name="Ligging">Mortierstraat</SimpleData>
+<SimpleData name="Huisnr">31</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">39e Fos De Menapiërs, KAJ Brugge, Jeugdwerkgroep Ruimtevaart, KSA Spiko, Brugse Socioculturele Jongeren, Punt Andere Lijn</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2163212397809,51.2087304177479,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Jakobinessenstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Sint-Leo Landscouts, Scoutsharmonie Sint-Leo</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">23</SimpleData>
+<SimpleData name="Ligging">Jakobinessenstraat</SimpleData>
+<SimpleData name="Huisnr">47</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">Sint-Leo Landscouts, Scoutsharmonie Sint-Leo</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23077643662334,51.2037923047741,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Binnenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Jeugdhuis Comma, vzw Entrepot, Woesh, Bazart, Techniekacademie en diverse anderen</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">24</SimpleData>
+<SimpleData name="Ligging">Binnenweg</SimpleData>
+<SimpleData name="Huisnr">4</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Vereniging">Jeugdhuis Comma, vzw Entrepot, Woesh, Bazart, Techniekacademie en diverse anderen</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22487481388003,51.2274430797987,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Amaat Vynckestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>K.S.A. Sint-Lenaert</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">25</SimpleData>
+<SimpleData name="Ligging">Amaat Vynckestraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Dudzele</SimpleData>
+<SimpleData name="Vereniging">K.S.A. Sint-Lenaert</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22895003022983,51.2757789886025,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Vaartbekeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>K.S.A. De Blauwvoet</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">27</SimpleData>
+<SimpleData name="Ligging">Vaartbekeweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Koolkerke</SimpleData>
+<SimpleData name="Vereniging">K.S.A. De Blauwvoet</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24618082434675,51.2317320442126,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Stationsstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Lissewege</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">28</SimpleData>
+<SimpleData name="Ligging">Stationsstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Lissewege</SimpleData>
+<SimpleData name="Vereniging">KSA Lissewege</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19603626119832,51.293899180439,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Paul Gilsonstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Kristus Koning</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">29</SimpleData>
+<SimpleData name="Ligging">Paul Gilsonstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">KSA Kristus Koning</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19978322833185,51.2073466731624,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Paul Gilsonstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>vzw Oranje</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>vzw Oranje</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">30</SimpleData>
+<SimpleData name="Ligging">Paul Gilsonstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">vzw Oranje</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">vzw Oranje</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19978685905682,51.2073490267661,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Fazantenlaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>K.S.A. Ter Straeten</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">31</SimpleData>
+<SimpleData name="Ligging">Fazantenlaan</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">K.S.A. Ter Straeten</SimpleData>
+<SimpleData name="Aantal_geb">5</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18197994361827,51.202869971647,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Landjuwelenstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Sint-Jozef</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">35</SimpleData>
+<SimpleData name="Ligging">Landjuwelenstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Jozef</SimpleData>
+<SimpleData name="Vereniging">Chiro Sint-Jozef</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23566874909733,51.2299967289992,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Blauwkasteelweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>11e Fos De Boekaniers</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">36</SimpleData>
+<SimpleData name="Ligging">Blauwkasteelweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">11e Fos De Boekaniers</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24731582507111,51.217536603659,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>39</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Blauwkasteelweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Don Bosco</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">39</SimpleData>
+<SimpleData name="Ligging">Blauwkasteelweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">Scouts Don Bosco</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24731582507111,51.217536603659,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Blauwkasteelweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Scouts Don Bosco</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Don Bosco</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">40</SimpleData>
+<SimpleData name="Ligging">Blauwkasteelweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Scouts Don Bosco</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">Scouts Don Bosco</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24731582507111,51.217536603659,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Dekenstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Beukenhof</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">42</SimpleData>
+<SimpleData name="Ligging">Dekenstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">Chiro Beukenhof</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27828863457809,51.2166348912174,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>44</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Sint-Arnolduslaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Wilgenland</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">44</SimpleData>
+<SimpleData name="Ligging">Sint-Arnolduslaan</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Chiro Wilgenland</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22029871496686,51.18159851613,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Sint-Arnolduslaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>26</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Chiro Wilgenhart</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Chiro Wilgenhart</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Sint-Arnolduslaan</SimpleData>
+<SimpleData name="Huisnr">26</SimpleData>
+<SimpleData name="Eigenaar">Chiro Wilgenhart</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Chiro Wilgenhart</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22029865797228,51.181600833305,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>45</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Sint-Arnolduslaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Wilgenhart</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">45</SimpleData>
+<SimpleData name="Ligging">Sint-Arnolduslaan</SimpleData>
+<SimpleData name="Huisnr">26</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Chiro Wilgenhart</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22029871496686,51.18159851613,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Sint-Arnolduslaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>28</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Chiro Wilgenhart</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Sint-Arnolduslaan</SimpleData>
+<SimpleData name="Huisnr">28</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Chiro Wilgenhart</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22029871496686,51.18159851613,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Sint-Arnolduslaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>28</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Jeugdhuis Thope</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Sint-Arnolduslaan</SimpleData>
+<SimpleData name="Huisnr">28</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Jeugdhuis Thope</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22030240171755,51.1815985519519,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Sint-Michielslaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>69</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Scouts Tilleghem</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Scouts Tilleghem</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Sint-Michielslaan</SimpleData>
+<SimpleData name="Huisnr">69</SimpleData>
+<SimpleData name="Eigenaar">Scouts Tilleghem</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Scouts Tilleghem</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20938903606128,51.1794373374002,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Sint-Michielslaan</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>69</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>Scouts Tilleghem</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Sint-Michielslaan</SimpleData>
+<SimpleData name="Huisnr">69</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">Scouts Tilleghem</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20938534948973,51.1794373012378,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>46</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Sint-Michielslaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>K.S.A. Ten Briel</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">46</SimpleData>
+<SimpleData name="Ligging">Sint-Michielslaan</SimpleData>
+<SimpleData name="Huisnr">75</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Vereniging">K.S.A. Ten Briel</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20938350620396,51.1794372831565,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Tempelhof</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro op den Dijk, Rode Valken Brugge Noord, KSA Kristus Koning, KSA Spiko</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">47</SimpleData>
+<SimpleData name="Ligging">Tempelhof</SimpleData>
+<SimpleData name="Huisnr">75</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Vereniging">Chiro op den Dijk, Rode Valken Brugge Noord, KSA Kristus Koning, KSA Spiko</SimpleData>
+<SimpleData name="Aantal_geb">4</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20252647216966,51.2286815759564,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Paalbos</td>
+</tr><tr bgcolor="">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Vereniging</th>
+<td>KSA Rooyghem, KSA St Kruis en Male</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Ligging">Paalbos</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">KSA Rooyghem, KSA St Kruis en Male</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26886331391436,51.2020818229888,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>61</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Paalbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>KSA St Kruis en Male</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA St Kruis en Male</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">61</SimpleData>
+<SimpleData name="Ligging">Paalbos</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">KSA St Kruis en Male</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">KSA St Kruis en Male</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26886325930717,51.2020841401685,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>62</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Ter Pannestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Jeugdwerkinitiatief Stad</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Kerlinga</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">62</SimpleData>
+<SimpleData name="Ligging">Ter Pannestraat</SimpleData>
+<SimpleData name="Huisnr">6</SimpleData>
+<SimpleData name="Eigenaar">Jeugdwerkinitiatief Stad</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge Centrum</SimpleData>
+<SimpleData name="Vereniging">Scouts Kerlinga</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22234408850461,51.2214505356914,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>63</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Legeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>vzw Hudo</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Grimmeringe, Scouts St-Hubertus</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">63</SimpleData>
+<SimpleData name="Ligging">Legeweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">vzw Hudo</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">Scouts Grimmeringe, Scouts St-Hubertus</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20548589484521,51.2043018019315,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>65</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Legeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Chiro Waww</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro W.A.W.W.</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">65</SimpleData>
+<SimpleData name="Ligging">Legeweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Chiro Waww</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">Chiro W.A.W.W.</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20548589484521,51.2043018019315,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>66</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Legeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Scouts Savio</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Scouts Savio</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">66</SimpleData>
+<SimpleData name="Ligging">Legeweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Scouts Savio</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">Scouts Savio</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20548589484521,51.2043018019315,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Sint-Jansdreef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>39e Fos De Menapiers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>39e Fos De Menapiërs</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">67</SimpleData>
+<SimpleData name="Ligging">Sint-Jansdreef</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">39e Fos De Menapiers</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">39e Fos De Menapiërs</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20858003378236,51.2093257086257,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>73</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Brieversweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>373</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>KSA Rooyghem</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Rooyghem</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">73</SimpleData>
+<SimpleData name="Ligging">Brieversweg</SimpleData>
+<SimpleData name="Huisnr">373</SimpleData>
+<SimpleData name="Eigenaar">KSA Rooyghem</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">KSA Rooyghem</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28884658760572,51.212017611176,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Sint-Trudostraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Steenbrugge, Jin Brugse Vrije</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">75</SimpleData>
+<SimpleData name="Ligging">Sint-Trudostraat</SimpleData>
+<SimpleData name="Huisnr">1</SimpleData>
+<SimpleData name="Eigenaar">Stad Brugge</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">Chiro Steenbrugge, Jin Brugse Vrije</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23806750751004,51.1819042554627,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>77</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Lodewijk Coiseaukaai</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>11e Fos De Boekaniers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>11e Fos De Boekaniers</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">77</SimpleData>
+<SimpleData name="Ligging">Lodewijk Coiseaukaai</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">11e Fos De Boekaniers</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Vereniging">11e Fos De Boekaniers</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22318711155183,51.2330367043729,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>78</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Lodewijk Coiseaukaai</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Sint-Leo Zeescouts</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Sint-Leo Zeescouts</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">78</SimpleData>
+<SimpleData name="Ligging">Lodewijk Coiseaukaai</SimpleData>
+<SimpleData name="Huisnr">11</SimpleData>
+<SimpleData name="Eigenaar">Sint-Leo Zeescouts</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Vereniging">Sint-Leo Zeescouts</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22318711155183,51.2330367043729,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>79</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Jagerspad (Lisseweegse steenweg)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Zeescouts Stella Maris</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Zwankendamme</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Zeescouts Stella Maris</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">79</SimpleData>
+<SimpleData name="Ligging">Jagerspad (Lisseweegse steenweg)</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Zeescouts Stella Maris</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Zwankendamme</SimpleData>
+<SimpleData name="Vereniging">Zeescouts Stella Maris</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20145725923332,51.3110081218948,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>81</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Kerklaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>37</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>kerkfabriek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro Sint-Joris 't Leitje</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">81</SimpleData>
+<SimpleData name="Ligging">Kerklaan</SimpleData>
+<SimpleData name="Huisnr">37</SimpleData>
+<SimpleData name="Eigenaar">kerkfabriek</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Vereniging">Chiro Sint-Joris 't Leitje</SimpleData>
+<SimpleData name="Aantal_geb">3</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27413489757201,51.1905330145433,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>82</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Legeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>parochie St-Baafs</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Chiro W.A.W.W.</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">82</SimpleData>
+<SimpleData name="Ligging">Legeweg</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">parochie St-Baafs</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">Chiro W.A.W.W.</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20548589484521,51.2043018019315,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>83</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Keurvorst Karel Theodoorstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>parochie/kerkfabriek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Willibrord</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">83</SimpleData>
+<SimpleData name="Ligging">Keurvorst Karel Theodoorstraat</SimpleData>
+<SimpleData name="Huisnr">2</SimpleData>
+<SimpleData name="Eigenaar">parochie/kerkfabriek</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">KSA Willibrord</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19476682478046,51.1927648473099,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>94</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Venkelstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>parochie St-Anna</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Frassati</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">94</SimpleData>
+<SimpleData name="Ligging">Venkelstraat</SimpleData>
+<SimpleData name="Huisnr">6</SimpleData>
+<SimpleData name="Eigenaar">parochie St-Anna</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">KSA Frassati</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23266061438015,51.2129305665352,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>99</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Naaldenstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>kloosterzusters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Sint-Michielsbeweging</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">99</SimpleData>
+<SimpleData name="Ligging">Naaldenstraat</SimpleData>
+<SimpleData name="Huisnr">18</SimpleData>
+<SimpleData name="Eigenaar">kloosterzusters</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">Sint-Michielsbeweging</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22229216252223,51.21042242976,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>107</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Beenhouwersstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Wegwijzer v.z.w. Reisinfocentrum</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">107</SimpleData>
+<SimpleData name="Ligging">Beenhouwersstraat</SimpleData>
+<SimpleData name="Huisnr">9</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">Wegwijzer v.z.w. Reisinfocentrum</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2175575529656,51.2079729798131,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>111</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Verversdijk</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Brugge-centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Speel-o-theek De Piepbal</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">111</SimpleData>
+<SimpleData name="Ligging">Verversdijk</SimpleData>
+<SimpleData name="Huisnr">17</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-centrum</SimpleData>
+<SimpleData name="Vereniging">Speel-o-theek De Piepbal</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23001790474355,51.2116698210287,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>123</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Zeeweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>96</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Jongerenvereniging Voor Sterrenkunde Vigilia</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">123</SimpleData>
+<SimpleData name="Ligging">Zeeweg</SimpleData>
+<SimpleData name="Huisnr">96</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Vereniging">Jongerenvereniging Voor Sterrenkunde Vigilia</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.15324738329988,51.1768012021015,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>128</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Engelendalelaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>KSA Rooyghem</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Rooyghem</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">128</SimpleData>
+<SimpleData name="Ligging">Engelendalelaan</SimpleData>
+<SimpleData name="Huisnr">18</SimpleData>
+<SimpleData name="Eigenaar">KSA Rooyghem</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">KSA Rooyghem</SimpleData>
+<SimpleData name="Aantal_geb">2</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2706960505505,51.2054873108963,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>129</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Kanunnik Decoeneplein</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>parochie</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA St Kruis en Male</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">129</SimpleData>
+<SimpleData name="Ligging">Kanunnik Decoeneplein</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">parochie</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Vereniging">KSA St Kruis en Male</SimpleData>
+<SimpleData name="Aantal_geb">1</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28726622413454,51.2124609117833,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>138</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Duivenslagstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Jongerenwerking De Wissel</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">138</SimpleData>
+<SimpleData name="Ligging">Duivenslagstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Vereniging">Jongerenwerking De Wissel</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20470473723558,51.2344358360967,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>142</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Stationsstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>KSA Lissewege</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">142</SimpleData>
+<SimpleData name="Ligging">Stationsstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Lissewege</SimpleData>
+<SimpleData name="Vereniging">KSA Lissewege</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19633182631287,51.2941257573823,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nr</th>
+<td>144</td>
+</tr><tr bgcolor="">
+<th>Ligging</th>
+<td>Ploegstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Eigenaar</th>
+<td>Privé</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Terrein</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Vereniging</th>
+<td>Zeescouts Stella Maris</td>
+</tr><tr bgcolor="">
+<th>Aantal_geb</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Jeugdlokalen">
+<SimpleData name="Nr">144</SimpleData>
+<SimpleData name="Ligging">Ploegstraat</SimpleData>
+<SimpleData name="Huisnr">0</SimpleData>
+<SimpleData name="Eigenaar">Privé</SimpleData>
+<SimpleData name="Terrein">0</SimpleData>
+<SimpleData name="Deelgemeente">Zeebrugge</SimpleData>
+<SimpleData name="Vereniging">Zeescouts Stella Maris</SimpleData>
+<SimpleData name="Aantal_geb">0</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2089452344543,51.3310593772061,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

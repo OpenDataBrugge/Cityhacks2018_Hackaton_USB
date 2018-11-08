@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Zwembaden</name>
+<visibility>1</visibility>
+<Schema name="Zwembaden" id="kml_schema_ft_Zwembaden">
+<SimpleField type="xsd:string" name="Zwembad">
+<displayName>Zwembad</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Straatnaam">
+<displayName>Straatnaam</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Huisnr">
+<displayName>Huisnr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Deelgemeente">
+<displayName>Deelgemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Omschrijving">
+<displayName>Omschrijving</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Zwembaden">
+<name>Zwembaden</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Zwembad</th>
+<td>Jan Guilini</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Keizer Karelstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>41</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Christus-Koning</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Overdekt 25-meterbad, met minimumdiepte van 1m en maximumdiepte van 3m</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zwembaden">
+<SimpleData name="Zwembad">Jan Guilini</SimpleData>
+<SimpleData name="Straatnaam">Keizer Karelstraat</SimpleData>
+<SimpleData name="Huisnr">41</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Christus-Koning</SimpleData>
+<SimpleData name="Omschrijving">Overdekt 25-meterbad, met minimumdiepte van 1m en maximumdiepte van 3m</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21194068964863,51.2135247045684,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Zwembad</th>
+<td>S & R Olympia</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Doornstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>110</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Olympisch topsportbad van 50 meter lang en 25 meter breed (bevat 10 banen), subtropisch zwemparadijs</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zwembaden">
+<SimpleData name="Zwembad">S &amp; R Olympia</SimpleData>
+<SimpleData name="Straatnaam">Doornstraat</SimpleData>
+<SimpleData name="Huisnr">110</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Olympisch topsportbad van 50 meter lang en 25 meter breed (bevat 10 banen), subtropisch zwemparadijs</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18257471889769,51.1911540019654,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Zwembad</th>
+<td>Interbad</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Veltemweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Recreatiebad, waterglijbaan van 60 meter, peuterbad, instructiebad</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Zwembaden">
+<SimpleData name="Zwembad">Interbad</SimpleData>
+<SimpleData name="Straatnaam">Veltemweg</SimpleData>
+<SimpleData name="Huisnr">35</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Omschrijving">Recreatiebad, waterglijbaan van 60 meter, peuterbad, instructiebad</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25759614457321,51.2068204627988,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

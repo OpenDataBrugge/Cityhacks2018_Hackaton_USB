@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Sportinfrastrctuur</name>
+<visibility>1</visibility>
+<Schema name="Sportinfrastrctuur" id="kml_schema_ft_Sportinfrastrctuur">
+<SimpleField type="xsd:string" name="Sportinfrastructuur">
+<displayName>Sportinfrastructuur</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Straatnaam">
+<displayName>Straatnaam</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Huisnr">
+<displayName>Huisnr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Deelgemeente">
+<displayName>Deelgemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Omschrijving">
+<displayName>Omschrijving</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Sportinfrastrctuur">
+<name>Sportinfrastrctuur</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportcomplex Gulden Kamer</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Geralaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Omschrijving</th>
+<td>Sporthal Albert Plovier, skatepark, speelplein, speelbos en buitenterreinen</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportcomplex Gulden Kamer</SimpleData>
+<SimpleData name="Straatnaam">Geralaan</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Omschrijving">Sporthal Albert Plovier, skatepark, speelplein, speelbos en buitenterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24819822040348,51.218750160676,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Wielerpiste Patrick Sercu</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Nijverheidsstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>112</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Wielerpiste van 333,33 meter in open lucht, op het binnenplein een skeelerpiste van 250 meter, 2 basket-  en 2 volleterreinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Wielerpiste Patrick Sercu</SimpleData>
+<SimpleData name="Straatnaam">Nijverheidsstraat</SimpleData>
+<SimpleData name="Huisnr">112</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Omschrijving">Wielerpiste van 333,33 meter in open lucht, op het binnenplein een skeelerpiste van 250 meter, 2 basket-  en 2 volleterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24412166426509,51.2058274366693,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportcomplex Daverlo</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Dries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Omvat een gloednieuwe sporthal, cultuurzaal, repetitieruimtes, speelplein, skatepark, basketbalveld en buitenterreinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportcomplex Daverlo</SimpleData>
+<SimpleData name="Straatnaam">Dries</SimpleData>
+<SimpleData name="Huisnr">2</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Omschrijving">Omvat een gloednieuwe sporthal, cultuurzaal, repetitieruimtes, speelplein, skatepark, basketbalveld en buitenterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24800666311843,51.1935399510971,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sporthal De Landdijk</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Evendijk-Oost</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>246</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Beschikt over een sporthal, speelplein, dierenpark en kinderdagverblijf</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sporthal De Landdijk</SimpleData>
+<SimpleData name="Straatnaam">Evendijk-Oost</SimpleData>
+<SimpleData name="Huisnr">246</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Deelgemeente">Zeebrugge</SimpleData>
+<SimpleData name="Omschrijving">Beschikt over een sporthal, speelplein, dierenpark en kinderdagverblijf</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21342295660187,51.3301111571037,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportcomplex Jan Breydelstadion</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Koning Leopold III-laan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Thuisbasis van Club Brugge en Cercle Brugge. Omvat ook een sport-en judozaal, skeelerpiste buitenterreinen en het zwembad S&R Olympia</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportcomplex Jan Breydelstadion</SimpleData>
+<SimpleData name="Straatnaam">Koning Leopold III-laan</SimpleData>
+<SimpleData name="Huisnr">50</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Thuisbasis van Club Brugge en Cercle Brugge. Omvat ook een sport-en judozaal, skeelerpiste buitenterreinen en het zwembad S&amp;R Olympia</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18162497996319,51.1932559283606,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sporthal VTI</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Zandstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>138</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Beschikt over een sporthal en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastructuur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sporthal VTI</SimpleData>
+<SimpleData name="Straatnaam">Zandstraat</SimpleData>
+<SimpleData name="Huisnr">138</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Beschikt over een sporthal en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastructuur</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1952372898521,51.2031749509191,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sporthal Sint-Lodewijkscollege</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Magdalenstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Beschikt over verschillende schoolsportzalen en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastr.</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sporthal Sint-Lodewijkscollege</SimpleData>
+<SimpleData name="Straatnaam">Magdalenstraat</SimpleData>
+<SimpleData name="Huisnr">30</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Beschikt over verschillende schoolsportzalen en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastr.</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21066022038211,51.2002919514475,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportpark de Watertoren</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Koning Leopold III-laan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>109</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Omvat verschillende buitenterreinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportpark de Watertoren</SimpleData>
+<SimpleData name="Straatnaam">Koning Leopold III-laan</SimpleData>
+<SimpleData name="Huisnr">109</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Omvat verschillende buitenterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18618677860361,51.1932216846747,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sport Vlaanderen-centrum Julien Saelens</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Nijverheidsstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>112</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Biedt een brede waaier aan sportfaciliteiten, zowel indoor als outdoor</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sport Vlaanderen-centrum Julien Saelens</SimpleData>
+<SimpleData name="Straatnaam">Nijverheidsstraat</SimpleData>
+<SimpleData name="Huisnr">112</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Omschrijving">Biedt een brede waaier aan sportfaciliteiten, zowel indoor als outdoor</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24346088244298,51.2051536544509,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportcomplex Koude Keuken</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Zandstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>284</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Omvat een sporthal, parkdomein en verschillende buitenterreinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportcomplex Koude Keuken</SimpleData>
+<SimpleData name="Straatnaam">Zandstraat</SimpleData>
+<SimpleData name="Huisnr">284</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Omschrijving">Omvat een sporthal, parkdomein en verschillende buitenterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17983654938096,51.2015621004379,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportcomplex Tempelhof</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Tempelhof</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>57</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Omvat een sporthal, gloednieuwe judozaal en een aantal buitenterreinen. Vaak het toneel voor spektakelrijke boks- en worstelkampen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportcomplex Tempelhof</SimpleData>
+<SimpleData name="Straatnaam">Tempelhof</SimpleData>
+<SimpleData name="Huisnr">57</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Omschrijving">Omvat een sporthal, gloednieuwe judozaal en een aantal buitenterreinen. Vaak het toneel voor spektakelrijke boks- en worstelkampen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20400380693725,51.228058762371,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportzaal Koolkerke De Arend</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Arendstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Mini-basketbal, gymnastiek, dansen, badminton, yoga, gevechtssporten</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportzaal Koolkerke De Arend</SimpleData>
+<SimpleData name="Straatnaam">Arendstraat</SimpleData>
+<SimpleData name="Huisnr">16</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Koolkerke</SimpleData>
+<SimpleData name="Omschrijving">Mini-basketbal, gymnastiek, dansen, badminton, yoga, gevechtssporten</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24740108145922,51.2417814262618,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sporthal De Polder</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Stokerij</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Beschikt over een sporthal, skatepark, speelplein en een aantal buitenterreinen. Men kan ook gebruik maken van de bar, keuken en vergaderzal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sporthal De Polder</SimpleData>
+<SimpleData name="Straatnaam">Stokerij</SimpleData>
+<SimpleData name="Huisnr">10</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Deelgemeente">Dudzele</SimpleData>
+<SimpleData name="Omschrijving">Beschikt over een sporthal, skatepark, speelplein en een aantal buitenterreinen. Men kan ook gebruik maken van de bar, keuken en vergaderzal</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22960009379305,51.2708023155165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sporthal KTA</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Rijselstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Beschikt over een sporthal en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastructuur</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sporthal KTA</SimpleData>
+<SimpleData name="Straatnaam">Rijselstraat</SimpleData>
+<SimpleData name="Huisnr">7</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Omschrijving">Beschikt over een sporthal en een buitenterrein. De Stad staat in voor het naschools verhuur van deze schoolsportinfrastructuur</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21426545300112,51.1906333449727,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Sportinfrastructuur</th>
+<td>Sportpark Rust Roest</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Zuidervaartje</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Omschrijving</th>
+<td>Omvat twee buitenterreinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Sportinfrastrctuur">
+<SimpleData name="Sportinfrastructuur">Sportpark Rust Roest</SimpleData>
+<SimpleData name="Straatnaam">Zuidervaartje</SimpleData>
+<SimpleData name="Huisnr">3</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Omschrijving">Omvat twee buitenterreinen</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23899643185394,51.2209351293449,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

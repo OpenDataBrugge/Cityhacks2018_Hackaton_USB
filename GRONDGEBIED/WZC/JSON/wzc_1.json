@@ -1,0 +1,227 @@
+[
+{
+"json_featuretype":"WZC"
+,"Nummer":1
+,"Woonzorgcentra":"WZC Ter Potterie"
+,"Straat":"Peterseliestraat"
+,"Nr":21
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":6
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23126457589884,51.2195648123514]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":2
+,"Woonzorgcentra":"WZC Hallenhuis"
+,"Straat":"Pastoriestraat"
+,"Nr":1
+,"Postcode":8200
+,"Gemeente":"Sint-Andries"
+,"RVT":0
+,"ROB":0
+,"Totaal":108
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17913859511462,51.1975378122948]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":4
+,"Woonzorgcentra":"WZC Zeven Torentjes"
+,"Straat":"Sint-Lucaslaan"
+,"Nr":50
+,"Postcode":8310
+,"Gemeente":"Assebroek"
+,"RVT":0
+,"ROB":0
+,"Totaal":126
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24674126607274,51.1855706172407]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":5
+,"Woonzorgcentra":"WZC Ten Boomgaarde"
+,"Straat":"Ter Beke"
+,"Nr":7
+,"Postcode":8200
+,"Gemeente":"Sint-Michiels"
+,"RVT":0
+,"ROB":0
+,"Totaal":104
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21433379333434,51.1863050231181]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":6
+,"Woonzorgcentra":"WZC Minnewater"
+,"Straat":"Prof. Dr. J. Sebrechtstraat"
+,"Nr":1
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":145
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22207926157362,51.1999425347128]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":7
+,"Woonzorgcentra":"WZC Van Zuylen"
+,"Straat":"Geralaan"
+,"Nr":50
+,"Postcode":8310
+,"Gemeente":"Sint-Kruis"
+,"RVT":0
+,"ROB":0
+,"Totaal":173
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24632296635502,51.2194606559979]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":8
+,"Woonzorgcentra":"WZC Herdershove"
+,"Straat":"Oude Oostendse Steenweg"
+,"Nr":95
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":90
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19138036732508,51.2256850094635]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":9
+,"Woonzorgcentra":"WZC Regina Coeli"
+,"Straat":"Koning Leopold III-laan"
+,"Nr":4
+,"Postcode":8200
+,"Gemeente":"Sint-Michiels"
+,"RVT":0
+,"ROB":0
+,"Totaal":82
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18091901529296,51.1964304523405]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":10
+,"Woonzorgcentra":"WZC Jeruzalem"
+,"Straat":"Stijn Streuvelsstraat"
+,"Nr":1
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":70
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2346223776453,51.2123809207044]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":11
+,"Woonzorgcentra":"WZC Sint Jozef"
+,"Straat":"Spoorwegstraat"
+,"Nr":250
+,"Postcode":8200
+,"Gemeente":"Sint-Michiels"
+,"RVT":0
+,"ROB":0
+,"Totaal":91
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22420540061638,51.1828931401616]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":12
+,"Woonzorgcentra":"WZC Westerrivier"
+,"Straat":"Speelpleinlaan"
+,"Nr":44
+,"Postcode":8310
+,"Gemeente":"Assebroek"
+,"RVT":0
+,"ROB":0
+,"Totaal":40
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24479494943885,51.207362878635]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":13
+,"Woonzorgcentra":"WZC De Vliedberg"
+,"Straat":"Ruddershove"
+,"Nr":1
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":96
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19911734252782,51.2216965039253]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":14
+,"Woonzorgcentra":"WZC Engelendale vzw"
+,"Straat":"Vlamingdam"
+,"Nr":34
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":96
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22064623124596,51.2164318463792]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":16
+,"Woonzorgcentra":"WZC Prinsenhof"
+,"Straat":"Gebroeders Marreytstraat"
+,"Nr":50
+,"Postcode":8000
+,"Gemeente":"Sint-Pieters"
+,"RVT":0
+,"ROB":0
+,"Totaal":117
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1992355160908,51.2247118432502]}
+}
+,{
+"json_featuretype":"WZC"
+,"Nummer":17
+,"Woonzorgcentra":"Militza"
+,"Straat":"Noorweegse Kaai"
+,"Nr":24
+,"Postcode":8000
+,"Gemeente":"Brugge"
+,"RVT":0
+,"ROB":0
+,"Totaal":131
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2383950274212,51.2245084083653]}
+}
+]

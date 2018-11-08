@@ -1,0 +1,6355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Speelruimte</name>
+<visibility>1</visibility>
+<Schema name="Speelruimte" id="kml_schema_ft_Speelruimte">
+<SimpleField type="xsd:double" name="ID">
+<displayName>ID</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="X">
+<displayName>X</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Y">
+<displayName>Y</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TOESTELLEN">
+<displayName>TOESTELLEN</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="PUBLIEK">
+<displayName>PUBLIEK</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Speelruimte">
+<name>Speelruimte</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>30</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70466.905</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>218974.592</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">30</SimpleData>
+<SimpleData name="X">70466.905</SimpleData>
+<SimpleData name="Y">218974.592</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22888794590563,51.2755992936774,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>31</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70256.491</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>218720.427</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">31</SimpleData>
+<SimpleData name="X">70256.491</SimpleData>
+<SimpleData name="Y">218720.427</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22570176651719,51.2730052760439,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>32</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68230.792</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>221046.304</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">32</SimpleData>
+<SimpleData name="X">68230.792</SimpleData>
+<SimpleData name="Y">221046.304</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19629463230742,51.2937689922647,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>33</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67775.601</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>221082.549</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">33</SimpleData>
+<SimpleData name="X">67775.601</SimpleData>
+<SimpleData name="Y">221082.549</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18961945223362,51.2938846857139,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>38</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68400.632</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>222790.736</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">38</SimpleData>
+<SimpleData name="X">68400.632</SimpleData>
+<SimpleData name="Y">222790.736</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19804796314999,51.3090907911013,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69520.669</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>225137.96</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">36</SimpleData>
+<SimpleData name="X">69520.669</SimpleData>
+<SimpleData name="Y">225137.96</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21372957587818,51.3305770218517,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69320.843</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>225617.285</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">35</SimpleData>
+<SimpleData name="X">69320.843</SimpleData>
+<SimpleData name="Y">225617.285</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21045144964246,51.3349786006706,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>37</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67004.143</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>225026.485</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">37</SimpleData>
+<SimpleData name="X">67004.143</SimpleData>
+<SimpleData name="Y">225026.485</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17754553666527,51.3294055740122,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>43</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71891.199</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>214233.231</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">43</SimpleData>
+<SimpleData name="X">71891.199</SimpleData>
+<SimpleData name="Y">214233.231</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25008989412303,51.2329006075647,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>44</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71582.544</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>214077.839</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">44</SimpleData>
+<SimpleData name="X">71582.544</SimpleData>
+<SimpleData name="Y">214077.839</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24570559006058,51.2314626821609,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>47</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71614.825</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>215101.31</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">47</SimpleData>
+<SimpleData name="X">71614.825</SimpleData>
+<SimpleData name="Y">215101.31</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24594550766644,51.2406649396123,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>45</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71655.147</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>215234.342</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">45</SimpleData>
+<SimpleData name="X">71655.147</SimpleData>
+<SimpleData name="Y">215234.342</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24649444398782,51.241866059857,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>46</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70492.865</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>215732.331</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">46</SimpleData>
+<SimpleData name="X">70492.865</SimpleData>
+<SimpleData name="Y">215732.331</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22974372831146,51.2461826166186,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>39</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70595.788</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213649.39</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">39</SimpleData>
+<SimpleData name="X">70595.788</SimpleData>
+<SimpleData name="Y">213649.39</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23167515696785,51.2274767029799,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70690.503</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213990.82</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">40</SimpleData>
+<SimpleData name="X">70690.503</SimpleData>
+<SimpleData name="Y">213990.82</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23384966702422,51.2304201749835,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>42</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71118.868</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213687.871</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">42</SimpleData>
+<SimpleData name="X">71118.868</SimpleData>
+<SimpleData name="Y">213687.871</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23915272997384,51.2278948220837,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>41</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71054.46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213496.3</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">41</SimpleData>
+<SimpleData name="X">71054.46</SimpleData>
+<SimpleData name="Y">213496.3</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23827369407546,51.2261643908551,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>25</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68665.335</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213703.477</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">25</SimpleData>
+<SimpleData name="X">68665.335</SimpleData>
+<SimpleData name="Y">213703.477</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20368647797049,51.227759493943,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>24</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68752.706</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212892.155</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">24</SimpleData>
+<SimpleData name="X">68752.706</SimpleData>
+<SimpleData name="Y">212892.155</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20546244576615,51.2204148017414,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>29</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69099.905</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213614.126</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">29</SimpleData>
+<SimpleData name="X">69099.905</SimpleData>
+<SimpleData name="Y">213614.126</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21146043257091,51.2273838393988,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>27</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69271.8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>214483.286</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">27</SimpleData>
+<SimpleData name="X">69271.8</SimpleData>
+<SimpleData name="Y">214483.286</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21253747060537,51.234787794013,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>26</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68977.761</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>214385.694</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">26</SimpleData>
+<SimpleData name="X">68977.761</SimpleData>
+<SimpleData name="Y">214385.694</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20834976615217,51.2338695583097,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>28</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68136.069</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>213858.644</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">28</SimpleData>
+<SimpleData name="X">68136.069</SimpleData>
+<SimpleData name="Y">213858.644</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19641998736114,51.2290145989594,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70763.549</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211681.378</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">16</SimpleData>
+<SimpleData name="X">70763.549</SimpleData>
+<SimpleData name="Y">211681.378</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23450583307253,51.2098129553305,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70908.325</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211927.567</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">14</SimpleData>
+<SimpleData name="X">70908.325</SimpleData>
+<SimpleData name="Y">211927.567</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23621756185599,51.2120323277166,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70880.091</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212124.67</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">15</SimpleData>
+<SimpleData name="X">70880.091</SimpleData>
+<SimpleData name="Y">212124.67</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23607654430581,51.213813283382,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70098.611</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212785.605</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">13</SimpleData>
+<SimpleData name="X">70098.611</SimpleData>
+<SimpleData name="Y">212785.605</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22474863413441,51.219645675165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70053.401</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212355.658</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">12</SimpleData>
+<SimpleData name="X">70053.401</SimpleData>
+<SimpleData name="Y">212355.658</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22419587399119,51.2157755727289,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69574.297</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211704.011</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">20</SimpleData>
+<SimpleData name="X">69574.297</SimpleData>
+<SimpleData name="Y">211704.011</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21702781102304,51.2097043053478,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69184.262</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211934.063</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">21</SimpleData>
+<SimpleData name="X">69184.262</SimpleData>
+<SimpleData name="Y">211934.063</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21185272065295,51.2118648886792,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69646.473</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212684.394</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">22</SimpleData>
+<SimpleData name="X">69646.473</SimpleData>
+<SimpleData name="Y">212684.394</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21830107242247,51.2186734513054,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70597.562</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211245.684</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">17</SimpleData>
+<SimpleData name="X">70597.562</SimpleData>
+<SimpleData name="Y">211245.684</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23211732408441,51.2057711337097,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70519.843</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210986.578</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">23</SimpleData>
+<SimpleData name="X">70519.843</SimpleData>
+<SimpleData name="Y">210986.578</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23117013146911,51.2035347136908,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69204.024</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210860.426</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">19</SimpleData>
+<SimpleData name="X">69204.024</SimpleData>
+<SimpleData name="Y">210860.426</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21237405852169,51.2022190431907,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>90</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69250.818</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209193.023</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">90</SimpleData>
+<SimpleData name="X">69250.818</SimpleData>
+<SimpleData name="Y">209193.023</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21352145159414,51.1873134105184,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>88</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69567.175</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208732.948</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">88</SimpleData>
+<SimpleData name="X">69567.175</SimpleData>
+<SimpleData name="Y">208732.948</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21804059251069,51.1831484962456,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>92</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69786.114</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208802.945</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">92</SimpleData>
+<SimpleData name="X">69786.114</SimpleData>
+<SimpleData name="Y">208802.945</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22115712874106,51.1838080579132,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>87</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69519.203</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208155.151</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">87</SimpleData>
+<SimpleData name="X">69519.203</SimpleData>
+<SimpleData name="Y">208155.151</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21748287695678,51.1779490304614,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>89</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68971.642</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208097.174</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">89</SimpleData>
+<SimpleData name="X">68971.642</SimpleData>
+<SimpleData name="Y">208097.174</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20966760443965,51.1773523111815,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>91</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68656.637</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209615.562</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">91</SimpleData>
+<SimpleData name="X">68656.637</SimpleData>
+<SimpleData name="Y">209615.562</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20485195810845,51.1908892230741,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>52</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71615.781</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209820.043</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">52</SimpleData>
+<SimpleData name="X">71615.781</SimpleData>
+<SimpleData name="Y">209820.043</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24696941248568,51.1933429018325,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>51</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71176.264</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210350.551</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">51</SimpleData>
+<SimpleData name="X">71176.264</SimpleData>
+<SimpleData name="Y">210350.551</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24069919580245,51.1979093848168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>55</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71020.848</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210044.567</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">55</SimpleData>
+<SimpleData name="X">71020.848</SimpleData>
+<SimpleData name="Y">210044.567</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23854374410498,51.195137683726,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>kml_44</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>57</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71415.209</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209363.13</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">57</SimpleData>
+<SimpleData name="X">71415.209</SimpleData>
+<SimpleData name="Y">209363.13</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2443318190133,51.1890671688003,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>kml_45</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>59</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71432.441</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209120.123</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">59</SimpleData>
+<SimpleData name="X">71432.441</SimpleData>
+<SimpleData name="Y">209120.123</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24462553541837,51.186825258572,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>kml_46</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>56</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70710.464</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209477.776</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">56</SimpleData>
+<SimpleData name="X">70710.464</SimpleData>
+<SimpleData name="Y">209477.776</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23422741348242,51.1900008542468,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>kml_47</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>54</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73313.868</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209246.875</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">54</SimpleData>
+<SimpleData name="X">73313.868</SimpleData>
+<SimpleData name="Y">209246.875</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27151024113346,51.1882772634644,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>kml_48</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>53</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73478.886</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209483.685</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">53</SimpleData>
+<SimpleData name="X">73478.886</SimpleData>
+<SimpleData name="Y">209483.685</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27382020912959,51.190427484997,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>kml_49</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>50</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73178.839</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209897.89</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">50</SimpleData>
+<SimpleData name="X">73178.839</SimpleData>
+<SimpleData name="Y">209897.89</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26944216186106,51.1941102353804,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>kml_50</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>49</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73290.87</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210671.429</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">49</SimpleData>
+<SimpleData name="X">73290.87</SimpleData>
+<SimpleData name="Y">210671.429</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27088098087942,51.2010778349936,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>kml_51</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>48</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>72247.385</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210250.14</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">48</SimpleData>
+<SimpleData name="X">72247.385</SimpleData>
+<SimpleData name="Y">210250.14</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25604278419006,51.1971520270863,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>kml_52</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>60</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>71633.288</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212495.033</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">60</SimpleData>
+<SimpleData name="X">71633.288</SimpleData>
+<SimpleData name="Y">212495.033</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2467748455986,51.2172446021909,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>kml_53</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>65</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>72359.733</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211928.899</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">65</SimpleData>
+<SimpleData name="X">72359.733</SimpleData>
+<SimpleData name="Y">211928.899</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25694850818239,51.2124016804786,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>kml_54</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>66</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>72753.443</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211282.895</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">66</SimpleData>
+<SimpleData name="X">72753.443</SimpleData>
+<SimpleData name="Y">211282.895</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26306249156491,51.2065013867486,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>kml_55</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>61</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73283.711</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212363.117</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">61</SimpleData>
+<SimpleData name="X">73283.711</SimpleData>
+<SimpleData name="Y">212363.117</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27072899368934,51.2160845658559,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>kml_56</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>64</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>74014.742</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212932.922</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">64</SimpleData>
+<SimpleData name="X">74014.742</SimpleData>
+<SimpleData name="Y">212932.922</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28076219009835,51.2214986355949,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>kml_57</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>67</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68840.433</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210884.281</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">67</SimpleData>
+<SimpleData name="X">68840.433</SimpleData>
+<SimpleData name="Y">210884.281</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20765651673859,51.2022516181296,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>kml_58</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>68</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68322.392</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210540.565</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">68</SimpleData>
+<SimpleData name="X">68322.392</SimpleData>
+<SimpleData name="Y">210540.565</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2002703061695,51.1990209664383,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>kml_59</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>75</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68842.854</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211673.07</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">75</SimpleData>
+<SimpleData name="X">68842.854</SimpleData>
+<SimpleData name="Y">211673.07</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20728534941749,51.2095313872787,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>kml_60</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>74</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>69009.128</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211390.47</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">74</SimpleData>
+<SimpleData name="X">69009.128</SimpleData>
+<SimpleData name="Y">211390.47</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20946733926139,51.2069546424338,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>kml_61</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>76</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68494.024</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211390.364</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">76</SimpleData>
+<SimpleData name="X">68494.024</SimpleData>
+<SimpleData name="Y">211390.364</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20209907967496,51.2068821840722,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>kml_62</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>77</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68259.38</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211485.842</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">77</SimpleData>
+<SimpleData name="X">68259.38</SimpleData>
+<SimpleData name="Y">211485.842</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19934844170629,51.2077658792928,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>kml_63</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>82</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67502.541</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211036.026</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">82</SimpleData>
+<SimpleData name="X">67502.541</SimpleData>
+<SimpleData name="Y">211036.026</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18799283487674,51.2035564723816,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>kml_64</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>81</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67398.032</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210653.72</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">81</SimpleData>
+<SimpleData name="X">67398.032</SimpleData>
+<SimpleData name="Y">210653.72</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18658605495164,51.2001052276922,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>kml_65</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>79</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66719.867</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211488.6</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">79</SimpleData>
+<SimpleData name="X">66719.867</SimpleData>
+<SimpleData name="Y">211488.6</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17669263518087,51.2075118710027,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>kml_66</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>78</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67075.709</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211008.755</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">78</SimpleData>
+<SimpleData name="X">67075.709</SimpleData>
+<SimpleData name="Y">211008.755</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18189007801355,51.2035034899935,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>kml_67</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>80</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66979.554</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>211681.912</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">80</SimpleData>
+<SimpleData name="X">66979.554</SimpleData>
+<SimpleData name="Y">211681.912</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18053513567263,51.2093363470425,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>kml_68</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>70</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67896.393</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209772.943</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">70</SimpleData>
+<SimpleData name="X">67896.393</SimpleData>
+<SimpleData name="Y">209772.943</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19391457897723,51.1922609085737,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>kml_69</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>69</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67594.024</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210254.479</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">69</SimpleData>
+<SimpleData name="X">67594.024</SimpleData>
+<SimpleData name="Y">210254.479</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18792565247023,51.1961506596349,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>kml_70</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>83</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>67588.46</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209933.428</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">83</SimpleData>
+<SimpleData name="X">67588.46</SimpleData>
+<SimpleData name="Y">209933.428</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18947333744775,51.1936594796181,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>kml_71</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>86</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66663.345</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210421.894</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">86</SimpleData>
+<SimpleData name="X">66663.345</SimpleData>
+<SimpleData name="Y">210421.894</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17612982071718,51.1979165819703,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>kml_72</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>85</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66280.9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210342.936</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">85</SimpleData>
+<SimpleData name="X">66280.9</SimpleData>
+<SimpleData name="Y">210342.936</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17067687150117,51.1971522253562,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>kml_73</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>84</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>68313.971</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>210023.48</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">84</SimpleData>
+<SimpleData name="X">68313.971</SimpleData>
+<SimpleData name="Y">210023.48</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1998302398936,51.1945712199619,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>kml_74</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>71</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>65899.35</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>207458.531</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">71</SimpleData>
+<SimpleData name="X">65899.35</SimpleData>
+<SimpleData name="Y">207458.531</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.16588682890929,51.1711725666917,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>kml_75</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>72</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66637.578</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208888.276</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">72</SimpleData>
+<SimpleData name="X">66637.578</SimpleData>
+<SimpleData name="Y">208888.276</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17611322593657,51.1841293260152,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>kml_76</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>73</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>66563.936</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>208998.201</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">73</SimpleData>
+<SimpleData name="X">66563.936</SimpleData>
+<SimpleData name="Y">208998.201</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17503350009597,51.1851069463466,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>kml_77</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>58</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>70921.536</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>209110.503</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">58</SimpleData>
+<SimpleData name="X">70921.536</SimpleData>
+<SimpleData name="Y">209110.503</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23732557172145,51.1867289614071,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>kml_78</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>62</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>73794.602</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212375.329</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">62</SimpleData>
+<SimpleData name="X">73794.602</SimpleData>
+<SimpleData name="Y">212375.329</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27773003056506,51.2164575952564,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>kml_79</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>63</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>74064.566</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>212390.175</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">63</SimpleData>
+<SimpleData name="X">74064.566</SimpleData>
+<SimpleData name="Y">212390.175</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28158988731031,51.2166263980835,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>kml_80</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>96</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">96</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2569242865517,51.2050555435781,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>kml_81</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>95</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">95</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23853984595966,51.2080194350832,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>kml_82</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>97</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">97</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2389622924981,51.2093920706441,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>kml_83</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>94</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">94</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18738271551205,51.1942829376795,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>kml_84</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>93</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">93</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21846279503566,51.1885390004199,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>kml_85</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>98</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">98</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22570784395913,51.2248570018849,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>kml_86</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>101</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">101</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21954034262854,51.2065685546508,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>kml_87</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>100</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">100</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.241524952544,51.2293984412581,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_88">
+<name>kml_88</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>99</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">99</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22648701186005,51.177737409422,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_89">
+<name>kml_89</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>102</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">102</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18747002718254,51.2973779763806,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_90">
+<name>kml_90</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>103</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">103</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20957367213946,51.3312282715184,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_91">
+<name>kml_91</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">11</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24235203859111,51.2287017444309,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_92">
+<name>kml_92</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>117</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">117</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23827426161923,51.2311671037976,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_93">
+<name>kml_93</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>104</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">104</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24634294134067,51.2119573378865,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_94">
+<name>kml_94</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>105</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">105</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.25214613904777,51.2109275878985,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_95">
+<name>kml_95</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>106</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">106</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24551084778999,51.199464014897,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_96">
+<name>kml_96</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>107</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">107</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20104978338719,51.1917521666796,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_97">
+<name>kml_97</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>108</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>N</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">108</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">N</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18949925476941,51.2320550179443,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_98">
+<name>kml_98</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>109</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">109</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20163727654344,51.2376648125616,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_99">
+<name>kml_99</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>110</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">110</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23554247673906,51.2082259992236,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_100">
+<name>kml_100</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>111</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">111</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23240774847645,51.2050565960337,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_101">
+<name>kml_101</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>112</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">112</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19232484069193,51.1795276686324,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_102">
+<name>kml_102</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>113</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">113</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23515930815478,51.2330366385667,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_103">
+<name>kml_103</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>114</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">114</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21306787052046,51.224706393074,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_104">
+<name>kml_104</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>115</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">115</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19167883666557,51.2270218171403,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_105">
+<name>kml_105</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>116</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">116</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2262267274403,51.1993012749866,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_106">
+<name>kml_106</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">1</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19486174948167,51.2084990233627,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_107">
+<name>kml_107</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">2</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18070896401319,51.2011321806766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_108">
+<name>kml_108</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">3</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23072052859261,51.1934529905587,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_109">
+<name>kml_109</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">4</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22748181227267,51.2446786805513,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_110">
+<name>kml_110</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">5</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23702463004865,51.1885698231722,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_111">
+<name>kml_111</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">6</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18276941255055,51.1925656619175,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_112">
+<name>kml_112</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">7</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20332994464638,51.2045035966835,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_113">
+<name>kml_113</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">8</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27833411916148,51.1877667721252,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_114">
+<name>kml_114</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">9</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23292354440134,51.1963701551166,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_115">
+<name>kml_115</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>ID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>X</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Y</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>TOESTELLEN</th>
+<td>J</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>PUBLIEK</th>
+<td>J</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelruimte">
+<SimpleData name="ID">10</SimpleData>
+<SimpleData name="X">0</SimpleData>
+<SimpleData name="Y">0</SimpleData>
+<SimpleData name="TOESTELLEN">J</SimpleData>
+<SimpleData name="PUBLIEK">J</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22987786950876,51.2728925430693,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

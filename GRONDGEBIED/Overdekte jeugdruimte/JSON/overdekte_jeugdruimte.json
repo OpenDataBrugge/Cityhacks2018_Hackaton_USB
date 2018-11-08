@@ -1,0 +1,362 @@
+[
+{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Antonis De Rooverestraat"
+,"Plaats":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26010429480161,51.2029716644387]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Daverlostraat 140"
+,"Plaats":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24721884984491,51.1944751494059]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"P.M. Christinalaan 11"
+,"Plaats":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24894356293233,51.1958473533314]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Weidestraat 85"
+,"Plaats":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24551892193925,51.1923070218192]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Zandberg 8"
+,"Plaats":"Assebroek"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2469325910123,51.1926495584108]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Trudostraat 1"
+,"Plaats":"Assebroek (Steenbrugge)"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23889586166134,51.1815047800324]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Kerklaan 37"
+,"Plaats":"Assebroek (ver-A)"
+,"Opm":"achter een parochiaal centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27366794798652,51.1902360236866]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Jakobinessestraat 45"
+,"Plaats":"Centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23086742476174,51.2033150960041]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Mortierstraat 31"
+,"Plaats":"Centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21613370016998,51.2085564424487]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"PC H. Magdalena, Violierstraat 7"
+,"Plaats":"Centrum"
+,"Opm":"onderdeel van een paroch centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23356884120649,51.2059357262341]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Peterseliestraat 100"
+,"Plaats":"Centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2323410904173,51.2194604331457]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Ter Pannestraat 6"
+,"Plaats":"Centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2222578611501,51.2216564957161]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Venkelstraat"
+,"Plaats":"Centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2330382886968,51.212879090194]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Amaat Vynckestraat"
+,"Plaats":"Dudzele"
+,"Opm":"officieel adres 'Westkapelse stwg 58',\nonderdeel van een sportpark"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22875901272686,51.2755076648613]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Vaartbekeweg / Over de Vaartbeek"
+,"Plaats":"Koolkerke"
+,"Opm":"onderdeel van een sportpark"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24534277768172,51.2319656494323]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Scharphoutstraat"
+,"Plaats":"Lissewege"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18836487999372,51.2971504948116]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Stationsstraat"
+,"Plaats":"Lissewege"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19592312687059,51.2941361374501]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Beisbroek, sterrenwacht"
+,"Plaats":"St.-Andries"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.16449862698651,51.1713195121607]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"K.K. Theodoorstraat 2"
+,"Plaats":"St.-Andries"
+,"Opm":"achter een parochiaal centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1950099557408,51.1927052045232]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Legeweg 269 (Prangeweide)"
+,"Plaats":"St.-Andries"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17677674090764,51.2044359343327]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Legeweg 83"
+,"Plaats":"St.-Andries"
+,"Opm":"zolderverdiep van een paroch centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2053310693447,51.2045198245052]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Paul Gilsonstraat"
+,"Plaats":"St.-Andries"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1975978979251,51.207903843736]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Jansdreef"
+,"Plaats":"St.-Andries"
+,"Opm":"hoek met P. Benoitlaan"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20805625314726,51.209394098624]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Zandstraat 268 (Fazantenlaan)"
+,"Plaats":"St.-Andries"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18205747246166,51.2030868200484]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Binnenweg 4"
+,"Plaats":"St.-Jozef"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22604592468647,51.2257467829205]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"L. Coiseaukaai 11"
+,"Plaats":"St.-Jozef"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22291710280235,51.2339605242854]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"L. Coiseaukaai 11d"
+,"Plaats":"St.-Jozef"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22268942537145,51.2348877091051]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Landjuwelenstraat 43"
+,"Plaats":"St.-Jozef"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23526176099871,51.2300362288017]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Blauwkasteelweg"
+,"Plaats":"St.-Kruis"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24542581379716,51.2164090208999]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Engelendalelaan 18"
+,"Plaats":"St.-Kruis"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.270447935753,51.2056060480075]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Gulden Kamer"
+,"Plaats":"St.-Kruis"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24611494248894,51.2168327464569]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Paalbos"
+,"Plaats":"St.-Kruis"
+,"Opm":"grens Assebroek/St.-Kruis"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26917448005715,51.2019508125073]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Brieversweg 373 (Maleveld)"
+,"Plaats":"St.-Kruis (Male)"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28913673401576,51.2121575236757]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Dekenstraat"
+,"Plaats":"St.-Kruis (Male)"
+,"SPwerking":"ja"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27804917969401,51.2165393391656]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Kanunnik Decoeneplein 2"
+,"Plaats":"St.-Kruis (Male)"
+,"Opm":"onderdeel van een paroch centrum"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28754430756206,51.2126435947626]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Arnolduslaan 26"
+,"Plaats":"St.-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22055898297761,51.1816629867126]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Arnolduslaan 28"
+,"Plaats":"St.-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22031491445266,51.1814659263293]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Michielslaan 69"
+,"Plaats":"St.-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21101304770833,51.1794514610429]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"St.-Michielslaan 75 a+b"
+,"Plaats":"St.-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21003512508367,51.1794071117525]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Tempelhof"
+,"Plaats":"St.-Pieters"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20420229379267,51.2260239825291]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Ploegstraat 26"
+,"Plaats":"Zeebrugge"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20929457816583,51.3304027969033]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Lisseweegse steenweg"
+,"Plaats":"Zwankendamme"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20129764443259,51.3114022222608]}
+}
+,{
+"json_featuretype":"Overdekte_jeugdruimte"
+,"Locatie":"Steenkaai 34R"
+,"Plaats":"Christus-koning"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20224238602928,51.2190828613162]}
+}
+]

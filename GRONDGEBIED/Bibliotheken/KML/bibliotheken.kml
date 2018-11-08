@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Bibliotheken</name>
+<visibility>1</visibility>
+<Schema name="Bibliotheken" id="kml_schema_ft_Bibliotheken">
+<SimpleField type="xsd:string" name="NaamBibliotheek">
+<displayName>NaamBibliotheek</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Straatnaam">
+<displayName>Straatnaam</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Huisnr">
+<displayName>Huisnr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Deelgemeente">
+<displayName>Deelgemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Telefoonnr">
+<displayName>Telefoonnr</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Bibliotheken">
+<name>Bibliotheken</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Daverlo</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Dries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/831683</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Daverlo</SimpleData>
+<SimpleData name="Straatnaam">Dries</SimpleData>
+<SimpleData name="Huisnr">2</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Assebroek</SimpleData>
+<SimpleData name="Telefoonnr">050/831683</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24800666311843,51.1935399510971,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Arend</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Arendstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>36</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/334757</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Arend</SimpleData>
+<SimpleData name="Straatnaam">Arendstraat</SimpleData>
+<SimpleData name="Huisnr">36</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Koolkerke</SimpleData>
+<SimpleData name="Telefoonnr">050/334757</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24635640450493,51.242153938097,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Dijk</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Blankenbergse Steenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>221</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/446686</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Dijk</SimpleData>
+<SimpleData name="Straatnaam">Blankenbergse Steenweg</SimpleData>
+<SimpleData name="Huisnr">221</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Telefoonnr">050/446686</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20517041930265,51.2288663690563,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Garve</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Pannebekestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>33</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/333295</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Garve</SimpleData>
+<SimpleData name="Straatnaam">Pannebekestraat</SimpleData>
+<SimpleData name="Huisnr">33</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Pieters</SimpleData>
+<SimpleData name="Telefoonnr">050/333295</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2324913874791,51.2272290785911,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Schorre</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Westkapelse Steenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>58</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/815696</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Schorre</SimpleData>
+<SimpleData name="Straatnaam">Westkapelse Steenweg</SimpleData>
+<SimpleData name="Huisnr">58</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Deelgemeente">Dudzele</SimpleData>
+<SimpleData name="Telefoonnr">050/815696</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22873386210702,51.2757792257903,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Zorge</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Moerkerkse Steenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>190</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/833760</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Zorge</SimpleData>
+<SimpleData name="Straatnaam">Moerkerkse Steenweg</SimpleData>
+<SimpleData name="Huisnr">190</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Telefoonnr">050/833760</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24923573843303,51.2143471142415,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>J.F. Willems</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Marktplein</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/799940</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">J.F. Willems</SimpleData>
+<SimpleData name="Straatnaam">Marktplein</SimpleData>
+<SimpleData name="Huisnr">12</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Deelgemeente">Zeebrugge</SimpleData>
+<SimpleData name="Telefoonnr">050/799940</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21080170892088,51.3313092792393,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Oude Pastoriestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8380</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/550171</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Lissewege</SimpleData>
+<SimpleData name="Straatnaam">Oude Pastoriestraat</SimpleData>
+<SimpleData name="Huisnr">5</SimpleData>
+<SimpleData name="Postcode">8380</SimpleData>
+<SimpleData name="Deelgemeente">Lissewege</SimpleData>
+<SimpleData name="Telefoonnr">050/550171</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19983771204385,51.2940642141271,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Lode Zielens</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Westmeers</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>35</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Brugge-Centrum</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/334014</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Lode Zielens</SimpleData>
+<SimpleData name="Straatnaam">Westmeers</SimpleData>
+<SimpleData name="Huisnr">35</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-Centrum</SimpleData>
+<SimpleData name="Telefoonnr">050/334014</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22003928438623,51.2032353808921,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Gistelse Steenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>524</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/727050</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Sint-Andries</SimpleData>
+<SimpleData name="Straatnaam">Gistelse Steenweg</SimpleData>
+<SimpleData name="Huisnr">524</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Andries</SimpleData>
+<SimpleData name="Telefoonnr">050/727050</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18120475817193,51.1975221360612,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Rijselstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>98</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/727030</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Sint-Michiels</SimpleData>
+<SimpleData name="Straatnaam">Rijselstraat</SimpleData>
+<SimpleData name="Huisnr">98</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Michiels</SimpleData>
+<SimpleData name="Telefoonnr">050/727030</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21078129660261,51.1882004220431,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>Sint-Thomas</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Brieversweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>334</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/356390</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">Sint-Thomas</SimpleData>
+<SimpleData name="Straatnaam">Brieversweg</SimpleData>
+<SimpleData name="Huisnr">334</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Deelgemeente">Sint-Kruis</SimpleData>
+<SimpleData name="Telefoonnr">050/356390</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28191253097748,51.2125172944899,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>NaamBibliotheek</th>
+<td>De Biekorf</td>
+</tr><tr bgcolor="">
+<th>Straatnaam</th>
+<td>Kuipersstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Huisnr</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Deelgemeente</th>
+<td>Brugge-Centrum</td>
+</tr><tr bgcolor="">
+<th>Telefoonnr</th>
+<td>050/472400</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>04/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Bibliotheken">
+<SimpleData name="NaamBibliotheek">De Biekorf</SimpleData>
+<SimpleData name="Straatnaam">Kuipersstraat</SimpleData>
+<SimpleData name="Huisnr">3</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Deelgemeente">Brugge-Centrum</SimpleData>
+<SimpleData name="Telefoonnr">050/472400</SimpleData>
+<SimpleData name="Aangemaakt op">04/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22272852272307,51.2099329882302,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

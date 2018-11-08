@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Speelbossen</name>
+<visibility>1</visibility>
+<Schema name="Speelbossen" id="kml_schema_ft_Speelbossen">
+<SimpleField type="xsd:string" name="DATUM">
+<displayName>DATUM</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SECTIE">
+<displayName>SECTIE</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="GEMEENTEAFDELING">
+<displayName>GEMEENTEAFDELING</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="STRAAT">
+<displayName>STRAAT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="GROENOBJECT">
+<displayName>GROENOBJECT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="BEHEERSOBJECT">
+<displayName>BEHEERSOBJECT</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="OPPERVLAK">
+<displayName>OPPERVLAK</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="BEREKEND_OPP">
+<displayName>BEREKEND_OPP</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="EIGENAAR">
+<displayName>EIGENAAR</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="MI_PRINX">
+<displayName>MI_PRINX</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Speelbossen">
+<name>Speelbossen</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>4.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Beukenlaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>5246</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>5415</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">4.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Kruis</SimpleData>
+<SimpleData name="STRAAT">Beukenlaan</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">5246</SimpleData>
+<SimpleData name="BEREKEND_OPP">5415</SimpleData>
+<SimpleData name="MI_PRINX">16</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.27757150449386,51.2095077469243,0.0 3.27763463829474,51.209016981708,0.0 3.28009177735846,51.2092644397584,0.0 3.28008833629304,51.2093327792701,0.0 3.27757150449386,51.2095077469243,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Veltemweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>10295</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EIGENAAR</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>MI_PRINX</th>
+<td>746</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="GEMEENTEAFDELING">Assebroek</SimpleData>
+<SimpleData name="STRAAT">Veltemweg</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">10295</SimpleData>
+<SimpleData name="EIGENAAR">Stad Brugge</SimpleData>
+<SimpleData name="MI_PRINX">746</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.25755231170754,51.2051761720517,0.0 3.25757185929912,51.2051300018006,0.0 3.25757794196956,51.2051068819922,0.0 3.25773660279938,51.2046413584431,0.0 3.25825557174502,51.2045384601234,0.0 3.25825408650504,51.2045233812944,0.0 3.25845987783163,51.2044801189194,0.0 3.25891965930863,51.2043836148065,0.0 3.25949053725855,51.2042696097676,0.0 3.25947043295854,51.2051930201356,0.0 3.25867371473433,51.205184386468,0.0 3.25860178682355,51.2051837112841,0.0 3.25841363799223,51.205183102774,0.0 3.25755231170754,51.2051761720517,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>4.1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Veltemweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>86506</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EIGENAAR</th>
+<td>Stad Brugge-</td>
+</tr><tr bgcolor="">
+<th>MI_PRINX</th>
+<td>744</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">4.1</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Assebroek</SimpleData>
+<SimpleData name="STRAAT">Veltemweg</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">86506</SimpleData>
+<SimpleData name="EIGENAAR">Stad Brugge-</SimpleData>
+<SimpleData name="MI_PRINX">744</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.25730268683093,51.2072921945315,0.0 3.25726163517075,51.207389150736,0.0 3.25745794292557,51.2073573893683,0.0 3.25751536746195,51.2073474997514,0.0 3.25825255793467,51.2072234745402,0.0 3.25837400538779,51.2066162222998,0.0 3.25699095183805,51.2064386716511,0.0 3.25719603651929,51.205960837622,0.0 3.25720522987517,51.2059620833092,0.0 3.25728786744074,51.2059779248604,0.0 3.2579785593426,51.2061014581433,0.0 3.25804836922276,51.2061137022759,0.0 3.25807579035641,51.2060467460749,0.0 3.2580817074608,51.2060305774925,0.0 3.25815639746347,51.2058377526733,0.0 3.25816237218253,51.2058192675073,0.0 3.25818591008621,51.2057603868865,0.0 3.25841363799223,51.205183102774,0.0 3.25860178682355,51.2051837112841,0.0 3.25867371473433,51.205184386468,0.0 3.25947043295854,51.2051930201356,0.0 3.25958109288786,51.2051940580633,0.0 3.26080024600998,51.205203169051,0.0 3.26139819915829,51.2054254726578,0.0 3.26213883399892,51.2056989400627,0.0 3.26204904323794,51.2057514064986,0.0 3.26212692073597,51.2058123947007,0.0 3.26184105370922,51.2059650051585,0.0 3.26123933478303,51.2062896423284,0.0 3.2610917043005,51.2063693789872,0.0 3.26121852956053,51.2064667494442,0.0 3.26130923569219,51.2065313361385,0.0 3.26169182912884,51.2068118820062,0.0 3.26178251166814,51.2068776259349,0.0 3.26241890535637,51.2073471178326,0.0 3.26240406794978,51.2073504554288,0.0 3.26220903041182,51.2074065730599,0.0 3.26195087257817,51.2074794816514,0.0 3.26186916765955,51.2075018939117,0.0 3.26176891016485,51.2075287681374,0.0 3.26169843754763,51.207544332626,0.0 3.26162804737387,51.2075564200122,0.0 3.26131188215056,51.2075859081806,0.0 3.26072395339426,51.2076395016008,0.0 3.26030794114935,51.2076784807905,0.0 3.26007315015594,51.2076994569499,0.0 3.25997333163964,51.2077077925259,0.0 3.25963062567061,51.2077671571075,0.0 3.25953245794669,51.2077836184246,0.0 3.259267437075,51.2078344391855,0.0 3.25892844690364,51.2078926773258,0.0 3.25889323741705,51.2078992997082,0.0 3.25849500501636,51.2079662520034,0.0 3.25833368452175,51.20800066072,0.0 3.25824652836223,51.2080195429191,0.0 3.25808892258584,51.2080528283445,0.0 3.25806150408473,51.2080421416659,0.0 3.25759370024111,51.2081640613397,0.0 3.25738392584647,51.2082188733436,0.0 3.25736864629025,51.2082407488556,0.0 3.25733343631944,51.2082473707725,0.0 3.25705891298785,51.2083096857891,0.0 3.25689759024593,51.2083440925412,0.0 3.25636161780888,51.2084618901123,0.0 3.25610751927839,51.2085186015273,0.0 3.25638875221324,51.2078653412979,0.0 3.25665414554433,51.2072571259777,0.0 3.25668528440247,51.2071890472223,0.0 3.25679553489204,51.2072074672916,0.0 3.25730268683093,51.2072921945315,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>GEMEENTEAFDELING</th>
+<td>(Bergjesbos)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>STRAAT</th>
+<td>Weidestraat</td>
+</tr><tr bgcolor="">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>BEREKEND_OPP</th>
+<td>8444</td>
+</tr><tr bgcolor="">
+<th>MI_PRINX</th>
+<td>719</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">(Bergjesbos)</SimpleData>
+<SimpleData name="STRAAT">Weidestraat</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">8444</SimpleData>
+<SimpleData name="MI_PRINX">719</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.25283164144769,51.1918292930777,0.0 3.25190962996563,51.1910545857378,0.0 3.25209107859783,51.1909473669906,0.0 3.25230431486207,51.1908219067564,0.0 3.25274578288893,51.1905606974342,0.0 3.25348747938057,51.1912409905383,0.0 3.25364451123344,51.1913838515292,0.0 3.25283164144769,51.1918292930777,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>5.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>t' Speelhof</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>10500</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>721</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">5.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Michiels</SimpleData>
+<SimpleData name="STRAAT">t' Speelhof</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">10500</SimpleData>
+<SimpleData name="MI_PRINX">721</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.20059635007555,51.1918160605717,0.0 3.20071147561104,51.1914162301369,0.0 3.20072776243104,51.1909864520772,0.0 3.2007348570159,51.1909239444516,0.0 3.20075125438639,51.1907108744502,0.0 3.20086340283732,51.1907247303955,0.0 3.20107666548004,51.1907511736784,0.0 3.2012274467826,51.1907688858742,0.0 3.20138004224373,51.1907877765282,0.0 3.20152160334452,51.1908053987384,0.0 3.20177715918384,51.1908368926386,0.0 3.20177833595688,51.1910849007966,0.0 3.20185483604607,51.1914182510534,0.0 3.20190637388262,51.1916435788752,0.0 3.20217121049916,51.1916728463061,0.0 3.20209711249335,51.1919073650192,0.0 3.20207129129872,51.1919812765568,0.0 3.20198299164388,51.1919722943645,0.0 3.20169790060257,51.1919416672891,0.0 3.20110392551418,51.1918732231517,0.0 3.20059635007555,51.1918160605717,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>5.3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Andries (Coppieter</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Doornstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>33681</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>722</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">5.3</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Andries (Coppieter</SimpleData>
+<SimpleData name="STRAAT">Doornstraat</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">33681</SimpleData>
+<SimpleData name="MI_PRINX">722</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.1914667234138,51.1912584733964,0.0 3.1914667234138,51.1912584733964,0.0 3.1914667234138,51.1912584733964,0.0 3.19162681583157,51.1914188328939,0.0 3.19169164140834,51.1914808983108,0.0 3.19180748053917,51.1915678082628,0.0 3.19185091209448,51.1916006881294,0.0 3.19256029572819,51.1921385093745,0.0 3.19263624572344,51.1921983663075,0.0 3.19231690007287,51.1923562713548,0.0 3.19247096709191,51.1924632619143,0.0 3.19256026633809,51.192578878005,0.0 3.19292038095793,51.1924132655667,0.0 3.19296018364531,51.192443791744,0.0 3.19312432165957,51.1925902834293,0.0 3.19326572281602,51.1927608826054,0.0 3.19280677103494,51.1928965420193,0.0 3.19264308566524,51.1929516979306,0.0 3.1934942002162,51.1933553350655,0.0 3.19214896419744,51.1933118243961,0.0 3.19215866303367,51.1930001855594,0.0 3.19193117065438,51.1929527258289,0.0 3.1917156484462,51.1929424680732,0.0 3.1917129712733,51.1932680826717,0.0 3.19171227012149,51.1932958888389,0.0 3.19014042095166,51.1932431459861,0.0 3.1898465800345,51.1931208528295,0.0 3.18938899193605,51.1929100110337,0.0 3.18941161488076,51.1928905357773,0.0 3.18946435543996,51.192847024244,0.0 3.18996042368569,51.1924104430631,0.0 3.19023201402066,51.1921721066591,0.0 3.19054506910554,51.1918982574806,0.0 3.19065075240591,51.1919491419477,0.0 3.1914667234138,51.1912584733964,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>5.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Assebroek(Paalbos</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Rijkeveldestraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>51573</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>723</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">5.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Assebroek(Paalbos</SimpleData>
+<SimpleData name="STRAAT">Rijkeveldestraat</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">51573</SimpleData>
+<SimpleData name="MI_PRINX">723</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.27375881113025,51.199885415599,0.0 3.27140199783924,51.2009633102845,0.0 3.2704920603786,51.2014578011086,0.0 3.26951112358869,51.2019898668491,0.0 3.26887017898279,51.2023396718104,0.0 3.2688496193216,51.2023510690512,0.0 3.2681638875678,51.2027224713053,0.0 3.26810410826364,51.2027543632158,0.0 3.26807058358475,51.2027679567701,0.0 3.26804831658134,51.2027735444676,0.0 3.26802431277701,51.2027744803206,0.0 3.26798940903907,51.2027683604785,0.0 3.26796386481395,51.2027565342353,0.0 3.26794029824163,51.2027389328816,0.0 3.26788080429606,51.202680436717,0.0 3.26764112818938,51.2024406423846,0.0 3.26747713164035,51.2022768766687,0.0 3.26722779689779,51.2020555327401,0.0 3.26803085882341,51.2016365555875,0.0 3.26853845966978,51.2013874922541,0.0 3.26871534942089,51.2013172899459,0.0 3.26985339476142,51.2009280695945,0.0 3.26958554608292,51.2006312341597,0.0 3.26953012172828,51.2005565524498,0.0 3.27063274887565,51.2001820617783,0.0 3.27064023429929,51.2001774956146,0.0 3.27070425314503,51.2000436641096,0.0 3.27029629774359,51.199586766825,0.0 3.27059132711228,51.1995906663904,0.0 3.27108367802632,51.1995963970731,0.0 3.27156124672488,51.1996031463849,0.0 3.27171246200566,51.1996045493726,0.0 3.27226566700415,51.199610839683,0.0 3.27235415789608,51.1996128180448,0.0 3.2726344350079,51.1996165757228,0.0 3.2727229777864,51.1996162371705,0.0 3.27277279560643,51.1996155410756,0.0 3.2728134481174,51.1996124414579,0.0 3.27286896203245,51.199604843882,0.0 3.27291338304077,51.1995983013197,0.0 3.27339670781168,51.1995170259192,0.0 3.27375881113025,51.199885415599,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>5.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Rijselstraat</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>16729</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>725</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">5.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Michiels</SimpleData>
+<SimpleData name="STRAAT">Rijselstraat</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">16729</SimpleData>
+<SimpleData name="MI_PRINX">725</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.21148301138831,51.1776737243016,0.0 3.21105841993976,51.1769522264208,0.0 3.21094937928217,51.1768885803303,0.0 3.21050468815447,51.175937427356,0.0 3.2103920750056,51.1757949403544,0.0 3.21028347165191,51.1757139140675,0.0 3.21014111409617,51.1756557342131,0.0 3.21024066593101,51.175507216031,0.0 3.21180964234514,51.1760243760254,0.0 3.21243480785154,51.1762402506002,0.0 3.21233822547715,51.1763436025946,0.0 3.21241186390195,51.1766456297085,0.0 3.21148301138831,51.1776737243016,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>5.3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Diksmuidse Heerweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>groenzone/speelbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>4973</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>727</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">5.3</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Andries</SimpleData>
+<SimpleData name="STRAAT">Diksmuidse Heerweg</SimpleData>
+<SimpleData name="GROENOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">groenzone/speelbos</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">4973</SimpleData>
+<SimpleData name="MI_PRINX">727</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.19026120731206,51.1892624816219,0.0 3.19026120731206,51.1892624816219,0.0 3.19059851648987,51.1895613552167,0.0 3.19054446658167,51.1895839939586,0.0 3.19095702104151,51.1898975222356,0.0 3.19044234475568,51.1901960169944,0.0 3.19041612266579,51.1902119801076,0.0 3.19024052876723,51.1900815946364,0.0 3.18982794826075,51.1897692214527,0.0 3.18973380468483,51.1896999095877,0.0 3.18955637157279,51.189569506131,0.0 3.18995246883921,51.1893660189825,0.0 3.19026120731206,51.1892624816219,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>3.1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Pieters (Ooievaarsb</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Blankenbergse Steenweg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>bos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>grote domeinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>67330</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EIGENAAR</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>MI_PRINX</th>
+<td>741</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">3.1</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Pieters (Ooievaarsb</SimpleData>
+<SimpleData name="STRAAT">Blankenbergse Steenweg</SimpleData>
+<SimpleData name="GROENOBJECT">bos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">grote domeinen</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">67330</SimpleData>
+<SimpleData name="EIGENAAR">Stad Brugge</SimpleData>
+<SimpleData name="MI_PRINX">741</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.20342396328994,51.2387103138136,0.0 3.20342396328994,51.2387103138136,0.0 3.20342396328994,51.2387103138136,0.0 3.20340013694153,51.2387772913827,0.0 3.20336260891028,51.2388754244352,0.0 3.2033806004127,51.2388941428473,0.0 3.20323283088204,51.2394883330894,0.0 3.20352813083717,51.2395654059091,0.0 3.20353014952088,51.2395584730006,0.0 3.20406209193485,51.2396958178859,0.0 3.20441057026223,51.2397873188076,0.0 3.20473517294053,51.239873948189,0.0 3.20514608656538,51.2399788087077,0.0 3.20517746961411,51.2399049509153,0.0 3.20529583931358,51.2396001807792,0.0 3.20535623884892,51.2393991352495,0.0 3.20547565375619,51.2389784906634,0.0 3.20542052027981,51.2388945124378,0.0 3.20548768914936,51.2387920359039,0.0 3.20633327550563,51.2388629224892,0.0 3.20682408996492,51.2403545354295,0.0 3.20693661022233,51.2407287872862,0.0 3.2071010082891,51.2414662646518,0.0 3.20713010306831,51.2417064295314,0.0 3.20529522497165,51.2412526823676,0.0 3.2052147268656,51.2413712517931,0.0 3.20458773774726,51.2411947357895,0.0 3.20445943466086,51.2411575504865,0.0 3.20307174992552,51.2407626312298,0.0 3.20283720742459,51.2406919494486,0.0 3.20285111266196,51.2406526854188,0.0 3.20287142451965,51.2405787191504,0.0 3.20224967374438,51.2404149898394,0.0 3.20134185380305,51.2401742707314,0.0 3.20166425112997,51.2399062817961,0.0 3.20207715066424,51.2395626992465,0.0 3.20224114328818,51.2394275728764,0.0 3.20263240594525,51.239062916772,0.0 3.20293512318081,51.2387692350102,0.0 3.20299912012055,51.2387200352063,0.0 3.20308839777665,51.2387672684396,0.0 3.20342396328994,51.2387103138136,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>3.1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Duivekeetbos</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>bos</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>grote domeinen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>79470</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>EIGENAAR</th>
+<td>Stad Brugge</td>
+</tr><tr bgcolor="">
+<th>MI_PRINX</th>
+<td>743</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">3.1</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Pieters</SimpleData>
+<SimpleData name="STRAAT">Duivekeetbos</SimpleData>
+<SimpleData name="GROENOBJECT">bos</SimpleData>
+<SimpleData name="BEHEERSOBJECT">grote domeinen</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">79470</SimpleData>
+<SimpleData name="EIGENAAR">Stad Brugge</SimpleData>
+<SimpleData name="MI_PRINX">743</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.20756708139024,51.238837951017,0.0 3.20756708139024,51.238837951017,0.0 3.20723280659871,51.237879785011,0.0 3.20720639223732,51.2378285362762,0.0 3.20700517679401,51.2372355514255,0.0 3.20675042361048,51.2364948682172,0.0 3.20672444357044,51.236426241628,0.0 3.20738234582005,51.2366192732649,0.0 3.20776538279908,51.2367308042466,0.0 3.20777233225296,51.2367482543898,0.0 3.20775119444174,51.2367816545411,0.0 3.20823282621509,51.2370111936047,0.0 3.2082801481623,51.2370383109645,0.0 3.20858054659928,51.2373553024029,0.0 3.20864168235535,51.237420796777,0.0 3.20876522181493,51.2374266434531,0.0 3.20893282388906,51.2374421931859,0.0 3.20897742695218,51.2370590536137,0.0 3.20895400856002,51.2369614808214,0.0 3.2088778775124,51.2368309445774,0.0 3.2091299935211,51.2367140544473,0.0 3.21040684977776,51.2365886575356,0.0 3.21071800789506,51.2367701638205,0.0 3.21093279570091,51.2369669519684,0.0 3.21114700584889,51.2371127431554,0.0 3.21128107494609,51.2372148741615,0.0 3.21164347959402,51.2373400961727,0.0 3.21194125137314,51.2373175133393,0.0 3.21197755306381,51.2372680380308,0.0 3.21197755306381,51.2372680380308,0.0 3.21201855602142,51.2372522147177,0.0 3.21168934543069,51.2378724522567,0.0 3.21141064037428,51.2383912053404,0.0 3.21127249781337,51.2386760888803,0.0 3.21116186140828,51.2388940277851,0.0 3.21073314256237,51.2396546674514,0.0 3.21045787049283,51.239514071646,0.0 3.21031511337966,51.2393898372051,0.0 3.21001261221088,51.2390079351095,0.0 3.20989368452928,51.2390392188133,0.0 3.20975009323302,51.2388744152069,0.0 3.20859649240772,51.2394599159304,0.0 3.20841530011168,51.2393967209528,0.0 3.20769076569544,51.2393571667324,0.0 3.20756708139024,51.238837951017,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">0</SimpleData>
+<SimpleData name="MI_PRINX">0</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.18588379849079,51.1806523851577,0.0 3.18658465423996,51.1804983138853,0.0 3.18664916988536,51.1804989591581,0.0 3.18715605252269,51.1805051869797,0.0 3.18752424850718,51.1805274090742,0.0 3.18768110568666,51.1805220236514,0.0 3.18793214948298,51.18051062464,0.0 3.18895001485496,51.1804338744599,0.0 3.18943152879788,51.1804224554372,0.0 3.18943413227496,51.1803923509412,0.0 3.19071903887269,51.1803275199362,0.0 3.19118990191059,51.1802997645022,0.0 3.19128663350364,51.1803389709432,0.0 3.19148488704043,51.1808856155695,0.0 3.19133695487011,51.18097569267,0.0 3.19165374993966,51.1817205248538,0.0 3.19160519178353,51.1820375730886,0.0 3.19206521141336,51.1819285834,0.0 3.19235233672678,51.1818758163961,0.0 3.19312285578954,51.1817374649907,0.0 3.19323957261325,51.1817154483728,0.0 3.19328027314906,51.1817100580629,0.0 3.19371881285375,51.181648364067,0.0 3.19424381635392,51.181594479191,0.0 3.19456364965304,51.1815605735566,0.0 3.19472264604941,51.1815436112754,0.0 3.19524770289778,51.1814874053175,0.0 3.1957256482822,51.1813982804588,0.0 3.19617868601725,51.1812729825159,0.0 3.19594957735438,51.1809983748279,0.0 3.19572406939858,51.1807272788534,0.0 3.1957006576444,51.1807050283282,0.0 3.19563508487591,51.1806730877746,0.0 3.19605470252803,51.1805567287534,0.0 3.19625249072555,51.1805366728503,0.0 3.19619726832684,51.1804596396419,0.0 3.19611342645862,51.1803475562475,0.0 3.19636292217871,51.1801773595765,0.0 3.19705473298847,51.1797206718061,0.0 3.19726104163621,51.1795813348548,0.0 3.19742357024494,51.1795701976631,0.0 3.19775974837224,51.1793985399459,0.0 3.19822969673557,51.1795538472538,0.0 3.19844425857444,51.1793056570325,0.0 3.19923569443117,51.1795811898696,0.0 3.20006927440854,51.1798675634393,0.0 3.20007204497607,51.1798305074726,0.0 3.20014940529192,51.1793178931645,0.0 3.20025076229438,51.1789515337388,0.0 3.20039350791095,51.178551975009,0.0 3.20054777926564,51.1782811654019,0.0 3.2005764978671,51.1782385707947,0.0 3.20071717112925,51.1779954398053,0.0 3.20082794378936,51.1777682362467,0.0 3.20101942491251,51.17726254388,0.0 3.20106887581964,51.1770544351547,0.0 3.20107914814948,51.1769386492414,0.0 3.20109743689766,51.1767232810743,0.0 3.20111809785161,51.1762657305876,0.0 3.20110622092707,51.1761508851104,0.0 3.18796262303869,51.1750039607461,0.0 3.18788108852723,51.1750205285107,0.0 3.18730084463713,51.1765316971007,0.0 3.18737333143232,51.1768001214348,0.0 3.18731817410462,51.1769397932294,0.0 3.18720803938779,51.1772121869898,0.0 3.18719422783676,51.1772479745381,0.0 3.18718234677252,51.1772803034584,0.0 3.18588379849079,51.1806523851577,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>4.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Geralaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>sportveld</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>sportveld</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>51009</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>49696</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>68</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">4.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Kruis</SimpleData>
+<SimpleData name="STRAAT">Geralaan</SimpleData>
+<SimpleData name="GROENOBJECT">sportveld</SimpleData>
+<SimpleData name="BEHEERSOBJECT">sportveld</SimpleData>
+<SimpleData name="OPPERVLAK">51009</SimpleData>
+<SimpleData name="BEREKEND_OPP">49696</SimpleData>
+<SimpleData name="MI_PRINX">68</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.25068261205036,51.2206491919213,0.0 3.25105305592434,51.2216701536998,0.0 3.25127774913731,51.2223050022803,0.0 3.25146603519256,51.2228421634258,0.0 3.24898232601706,51.2225243364357,0.0 3.2485685914936,51.2224624775687,0.0 3.24863790623351,51.2221120061997,0.0 3.24840655824524,51.2199114959506,0.0 3.24853190051615,51.2199173185976,0.0 3.24998088260528,51.2199773844633,0.0 3.25002114827492,51.2200681541531,0.0 3.25009094918431,51.2200815619302,0.0 3.25045746280062,51.2200340378093,0.0 3.25068261205036,51.2206491919213,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>DATUM</th>
+<td>2008</td>
+</tr><tr bgcolor="">
+<th>SECTIE</th>
+<td>4.2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GEMEENTEAFDELING</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="">
+<th>STRAAT</th>
+<td>Geralaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>GROENOBJECT</th>
+<td>kwekerijen</td>
+</tr><tr bgcolor="">
+<th>BEHEERSOBJECT</th>
+<td>kwekerijen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>OPPERVLAK</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>BEREKEND_OPP</th>
+<td>20589</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>MI_PRINX</th>
+<td>2061</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b000d491</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Speelbossen">
+<SimpleData name="DATUM">2008</SimpleData>
+<SimpleData name="SECTIE">4.2</SimpleData>
+<SimpleData name="GEMEENTEAFDELING">Sint-Kruis</SimpleData>
+<SimpleData name="STRAAT">Geralaan</SimpleData>
+<SimpleData name="GROENOBJECT">kwekerijen</SimpleData>
+<SimpleData name="BEHEERSOBJECT">kwekerijen</SimpleData>
+<SimpleData name="OPPERVLAK">0</SimpleData>
+<SimpleData name="BEREKEND_OPP">20589</SimpleData>
+<SimpleData name="MI_PRINX">2061</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.24754242146948,51.2223136970617,0.0 3.24732975675838,51.2199522826276,0.0 3.24841400132174,51.2199857327117,0.0 3.24863790623351,51.2221120061997,0.0 3.2485685914936,51.2224624775687,0.0 3.24754242146948,51.2223136970617,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder>
+</Document></kml>

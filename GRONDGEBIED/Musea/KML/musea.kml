@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Musea</name>
+<visibility>1</visibility>
+<Schema name="Musea" id="kml_schema_ft_Musea">
+<SimpleField type="xsd:int" name="Id">
+<displayName>Id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Gebouw">
+<displayName>Gebouw</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Ligging">
+<displayName>Ligging</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Functie">
+<displayName>Functie</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Musea">
+<name>Musea</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Steenmuseum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Dijver 17</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">1</SimpleData>
+<SimpleData name="Gebouw">Steenmuseum</SimpleData>
+<SimpleData name="Ligging">Dijver 17</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22476298757555,51.2052888277539,0.0 3.2247650022937,51.2052818941272,0.0 3.22476341358843,51.2052714490842,0.0 3.22475799425471,51.2052667612488,0.0 3.22475070220875,51.2052632141498,0.0 3.22474150904905,51.2052619663649,0.0 3.22473228748822,51.2052618771572,0.0 3.22467954091219,51.2052312367113,0.0 3.22454303559942,51.2051557494585,0.0 3.2245469230583,51.2051476751017,0.0 3.22454524918788,51.2051407057892,0.0 3.22454173101093,51.2051337186322,0.0 3.22452720380786,51.2051243072507,0.0 3.22455540812026,51.2051025619375,0.0 3.22448992215379,51.2050648450256,0.0 3.22436036389257,51.2051574584401,0.0 3.22447692238988,51.2052188466688,0.0 3.22467885736287,51.205334367992,0.0 3.22471880744949,51.2053602492333,0.0 3.22483513973204,51.2054309057272,0.0 3.22491932526953,51.2054583736293,0.0 3.22495561678212,51.205407735129,0.0 3.22487676547865,51.2053884308161,0.0 3.22489390388959,51.2053665783876,0.0 3.22479388649918,51.2053076682966,0.0 3.22476298757555,51.2052888277539,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Gruuthusemuseum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Dijver 17</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">2</SimpleData>
+<SimpleData name="Gebouw">Gruuthusemuseum</SimpleData>
+<SimpleData name="Ligging">Dijver 17</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22507218042017,51.2052431465419,0.0 3.22520378157428,51.2050671147226,0.0 3.22519464522113,51.2050635498165,0.0 3.22525976458828,51.2049656770206,0.0 3.2252396476142,51.2049585293823,0.0 3.22510212007391,51.2049247515847,0.0 3.22508302405218,51.2049512205238,0.0 3.22500423025704,51.204929599136,0.0 3.22497299075381,51.2049246615839,0.0 3.22499220040686,51.2048935583495,0.0 3.22493721223218,51.2048791202717,0.0 3.22491618664692,51.2049090470804,0.0 3.22489238115393,51.2049018637053,0.0 3.22488880614799,51.2048971937143,0.0 3.22488157094522,51.2048913294665,0.0 3.22487059035371,51.2048877466958,0.0 3.22485770867007,51.2048864632408,0.0 3.22484845878475,51.2048875326203,0.0 3.22483918050028,51.2048897605774,0.0 3.22483168971466,51.2048943235301,0.0 3.22482601482634,51.2049000629006,0.0 3.22482397173463,51.2049081551076,0.0 3.22477601998163,51.2049076912533,0.0 3.22472435123172,51.2049083502743,0.0 3.22471325704079,51.2049094018015,0.0 3.22465693398036,51.2049494167654,0.0 3.22480175327651,51.2049867421773,0.0 3.22503087124954,51.2050469009258,0.0 3.22503072927918,51.2050526938166,0.0 3.22503237482494,51.2050608217005,0.0 3.22492744530174,51.2052023457309,0.0 3.22507218042017,51.2052431465419,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Archeologisch Museum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Mariastraat 36 a</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">3</SimpleData>
+<SimpleData name="Gebouw">Archeologisch Museum</SimpleData>
+<SimpleData name="Ligging">Mariastraat 36 a</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22412469519923,51.2042362070989,0.0 3.22379951315006,51.2041067441199,0.0 3.22372017785439,51.2041824602993,0.0 3.22377136259239,51.204201497547,0.0 3.22370723609619,51.2042588193157,0.0 3.22363743447817,51.204321880363,0.0 3.22352041692967,51.2044296794089,0.0 3.22351477036789,51.2044342601394,0.0 3.22349286647551,51.2044247771856,0.0 3.22345521321769,51.2044557015681,0.0 3.22334047381369,51.2043954887551,0.0 3.2232295570086,51.2044801695399,0.0 3.22317504903605,51.2045213602473,0.0 3.22314831898792,51.2045581846153,0.0 3.22302233427003,51.2046554666255,0.0 3.22306781572175,51.2046814020363,0.0 3.22292245356796,51.2047414129006,0.0 3.2228251946527,51.2046454445092,0.0 3.22267807336634,51.2047019614691,0.0 3.22278478115977,51.2047887507181,0.0 3.22299561407945,51.2049924340695,0.0 3.22334762770154,51.2048556228269,0.0 3.22350817048634,51.2047783756605,0.0 3.2236806312988,51.2046664780829,0.0 3.22391625478976,51.204461324631,0.0 3.22411297599441,51.2042627472924,0.0 3.22410381146556,51.2042603408791,0.0 3.22412469519923,51.2042362070989,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Arendshuis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Dijver 16</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">4</SimpleData>
+<SimpleData name="Gebouw">Arendshuis</SimpleData>
+<SimpleData name="Ligging">Dijver 16</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22495561678212,51.205407735129,0.0 3.22491932526953,51.2054583736293,0.0 3.22527226989388,51.2055846252266,0.0 3.22540869248678,51.2056635873586,0.0 3.22564757636954,51.2054758448674,0.0 3.22557281063692,51.2054403565802,0.0 3.22556370256353,51.205435633125,0.0 3.22535810158849,51.2056202206934,0.0 3.22533446598571,51.2056060859415,0.0 3.22533826818481,51.205601487294,0.0 3.22528367650208,51.2055708292895,0.0 3.22530087156473,51.2055466596477,0.0 3.22532283312578,51.2055538251063,0.0 3.22536862974386,51.2054916898625,0.0 3.22534663981854,51.2054856829902,0.0 3.22542302405226,51.2053798070654,0.0 3.22533319186507,51.205356920337,0.0 3.22534476871828,51.2053361729242,0.0 3.22530992543839,51.2053277240635,0.0 3.22527539352509,51.2053818562415,0.0 3.22523507405174,51.2053710367033,0.0 3.22518927842907,51.2053578464918,0.0 3.22518351835696,51.2053670616126,0.0 3.2250167645572,51.2053214125839,0.0 3.22495561678212,51.205407735129,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Groeningemuseum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Dijver 12</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">5</SimpleData>
+<SimpleData name="Gebouw">Groeningemuseum</SimpleData>
+<SimpleData name="Ligging">Dijver 12</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22620629751594,51.2061638080827,0.0 3.2267571549719,51.2058168377529,0.0 3.22665702084634,51.2057625635616,0.0 3.22675394533779,51.2056464555092,0.0 3.22679945818116,51.2056712308959,0.0 3.22682981794047,51.2056367584925,0.0 3.22685912874212,51.2056451534791,0.0 3.22718564685117,51.2051928769481,0.0 3.22741793733183,51.204972619428,0.0 3.22669689499402,51.2046608801158,0.0 3.22662706846206,51.2047251014975,0.0 3.22666534493486,51.2047440128029,0.0 3.22640473524582,51.2049906489399,0.0 3.2261551881662,51.2051620659836,0.0 3.2259244512435,51.2053185992034,0.0 3.22599530145352,51.205363320252,0.0 3.22601958963688,51.2053508075735,0.0 3.22636862174357,51.2055616142875,0.0 3.22600075082652,51.2058188018564,0.0 3.2258526933399,51.205913555816,0.0 3.22620629751594,51.2061638080827,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Memlingmuseum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Mariastraat 38</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">6</SimpleData>
+<SimpleData name="Gebouw">Memlingmuseum</SimpleData>
+<SimpleData name="Ligging">Mariastraat 38</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22359117158026,51.2040270835877,0.0 3.22379951315006,51.2041067441199,0.0 3.22412469519923,51.2042362070989,0.0 3.22420079336808,51.2042172431381,0.0 3.22422922459188,51.2041862292684,0.0 3.22423016223517,51.2041479961828,0.0 3.22445046070264,51.203890544948,0.0 3.22436786683924,51.2038735217492,0.0 3.22437572683142,51.2038538973033,0.0 3.22429313306019,51.203836874052,0.0 3.22430096466619,51.2038184081893,0.0 3.22410479446665,51.2037689965338,0.0 3.22413146647623,51.2037344890952,0.0 3.22408575802257,51.2037178227123,0.0 3.22397527047483,51.2037851255418,0.0 3.22387471761792,51.2037482276281,0.0 3.22376703703685,51.203851481903,0.0 3.22359117158026,51.2040270835877,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Stadhuis -Gotische Zaal-</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Burg 12</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">7</SimpleData>
+<SimpleData name="Gebouw">Stadhuis -Gotische Zaal-</SimpleData>
+<SimpleData name="Ligging">Burg 12</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22710361501036,51.2082444999348,0.0 3.2272129727233,51.2081482120626,0.0 3.22711813958465,51.2081032603379,0.0 3.22700875343447,51.2082007067014,0.0 3.22710361501036,51.2082444999348,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Brugse Vrije -Provinciaalmuseum-</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Burg 11a</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">8</SimpleData>
+<SimpleData name="Gebouw">Brugse Vrije -Provinciaalmuseum-</SimpleData>
+<SimpleData name="Ligging">Burg 11a</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2274626635503,51.2084994359386,0.0 3.22761430152202,51.2084093499597,0.0 3.22753598238728,51.208368034475,0.0 3.22738230159491,51.208466212595,0.0 3.22740605261631,51.2084757126131,0.0 3.2274626635503,51.2084994359386,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>De Gouden Boom -Brouwerijmuseum-</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Verbrand Nieuwland 10</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">9</SimpleData>
+<SimpleData name="Gebouw">De Gouden Boom -Brouwerijmuseum-</SimpleData>
+<SimpleData name="Ligging">Verbrand Nieuwland 10</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23409189929577,51.2104475103164,0.0 3.23428357409355,51.2105316272198,0.0 3.23445153880859,51.2103767937154,0.0 3.23439685105222,51.210349615711,0.0 3.23452810751216,51.210262802062,0.0 3.23431698876082,51.2101437335937,0.0 3.23418562078386,51.2100833722129,0.0 3.23425743027293,51.210013371302,0.0 3.234323621545,51.2099467930046,0.0 3.23424333671328,51.2099100986097,0.0 3.23424716655289,51.2099043411051,0.0 3.23412828825417,51.2098614821789,0.0 3.23407651475824,51.2099421048736,0.0 3.2339953698921,51.210016651504,0.0 3.23390952351518,51.2099810623702,0.0 3.2338530460907,51.2101033583747,0.0 3.23370789366702,51.2100787884847,0.0 3.23362936298519,51.2103492053284,0.0 3.2338004803551,51.2103682302269,0.0 3.23409189929577,51.2104475103164,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Guido Gezellemuseum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Rolweg 64</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">10</SimpleData>
+<SimpleData name="Gebouw">Guido Gezellemuseum</SimpleData>
+<SimpleData name="Ligging">Rolweg 64</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2379129341553,51.2150094003329,0.0 3.23813701828763,51.2146708419341,0.0 3.23692603612979,51.2142385996307,0.0 3.236813511152,51.2142375228493,0.0 3.23653480990877,51.2145454260961,0.0 3.2379129341553,51.2150094003329,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>O.L.-Vrouwekerk -praalgraven, madon</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Mariastraat 19</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">11</SimpleData>
+<SimpleData name="Gebouw">O.L.-Vrouwekerk -praalgraven, madon</SimpleData>
+<SimpleData name="Ligging">Mariastraat 19</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22408486862198,51.2047318107884,0.0 3.22407905157393,51.2047433430137,0.0 3.22412487469573,51.2047553750803,0.0 3.22412677582032,51.2047530757753,0.0 3.22417991930315,51.2047674963807,0.0 3.22418953857233,51.2047513655384,0.0 3.22423170155973,51.2047622032853,0.0 3.22423527648953,51.2047668732964,0.0 3.22424254000522,51.204771579006,0.0 3.22425357734757,51.204772844679,0.0 3.22426285563676,51.2047706167679,0.0 3.22428589634449,51.2047337564537,0.0 3.22410796628475,51.2046926333522,0.0 3.22408486862198,51.2047318107884,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Schuttersgilde Sint-Joris</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Stijn Streuvelsstraat 59</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">12</SimpleData>
+<SimpleData name="Gebouw">Schuttersgilde Sint-Joris</SimpleData>
+<SimpleData name="Ligging">Stijn Streuvelsstraat 59</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23682090322865,51.2139328171258,0.0 3.23703521095269,51.2139974454783,0.0 3.2370928252265,51.2141324228272,0.0 3.23711275127825,51.2141476784611,0.0 3.23714209737864,51.2141549122929,0.0 3.23815777541489,51.2144995312302,0.0 3.23824338874831,51.2144690606938,0.0 3.23840661413204,51.2142052450317,0.0 3.23852938788311,51.214011732191,0.0 3.23858384474223,51.2138963679776,0.0 3.23851705171331,51.213835469793,0.0 3.23813189172774,51.213740239993,0.0 3.23784038918157,51.2136632871194,0.0 3.23741625101844,51.2135016280497,0.0 3.2371862704905,51.2133986085011,0.0 3.23682090322865,51.2139328171258,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Sint-Salvatorskathedraal</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td> Zuidzandstraat</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">13</SimpleData>
+<SimpleData name="Gebouw">Sint-Salvatorskathedraal</SimpleData>
+<SimpleData name="Ligging"> Zuidzandstraat</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22154882898248,51.2053133165569,0.0 3.22157474169651,51.2052347658904,0.0 3.22160044811742,51.2052396506687,0.0 3.22162984996727,51.2051692458097,0.0 3.22126791734717,51.2051089506358,0.0 3.22121360633018,51.2051420303881,0.0 3.22115928767327,51.2052504355268,0.0 3.22154882898248,51.2053133165569,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Museum van Volkskunde</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Rolweg / Balstraat</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">14</SimpleData>
+<SimpleData name="Gebouw">Museum van Volkskunde</SimpleData>
+<SimpleData name="Ligging">Rolweg / Balstraat</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23349798598612,51.2131708973885,0.0 3.23321266073059,51.2131438226974,0.0 3.23305819332667,51.2135015822462,0.0 3.23299319121324,51.2135948247086,0.0 3.23324941145964,51.2136807216869,0.0 3.23336841145518,51.2137189471281,0.0 3.23343655805743,51.2134206187452,0.0 3.23346718753549,51.2132992338033,0.0 3.23348388964961,51.2132194336676,0.0 3.23349798598612,51.2131708973885,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Schuttersgilde Sint-Sebastiaan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Carmerstraat 174</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">15</SimpleData>
+<SimpleData name="Gebouw">Schuttersgilde Sint-Sebastiaan</SimpleData>
+<SimpleData name="Ligging">Carmerstraat 174</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23654030473458,51.2156116165406,0.0 3.23659515122169,51.2155565169338,0.0 3.2366746817396,51.2154726824148,0.0 3.23722756308623,51.2157282830982,0.0 3.23784855744558,51.2150771567224,0.0 3.23667898325055,51.2146870263656,0.0 3.23642748198659,51.2149384062272,0.0 3.23621153368976,51.2151692667478,0.0 3.23617192298802,51.2152048116943,0.0 3.23617105116005,51.2152407275573,0.0 3.2360481916489,51.2153612298955,0.0 3.23611560238893,51.2153966407639,0.0 3.23610813914422,51.2154000458364,0.0 3.23654030473458,51.2156116165406,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Belfort</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Markt 7</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">16</SimpleData>
+<SimpleData name="Gebouw">Belfort</SimpleData>
+<SimpleData name="Ligging">Markt 7</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22465665281389,51.2081965178061,0.0 3.22472228533058,51.2082284416965,0.0 3.22477109257084,51.208194148272,0.0 3.22470179961947,51.2081610301475,0.0 3.22465302076828,51.2081941649672,0.0 3.22465665281389,51.2081965178061,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Kantcentrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Peperstraat 3</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">17</SimpleData>
+<SimpleData name="Gebouw">Kantcentrum</SimpleData>
+<SimpleData name="Ligging">Peperstraat 3</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23385137945299,51.2122958825692,0.0 3.2338534342409,51.2123631154327,0.0 3.23416324195143,51.2123695642286,0.0 3.23416862143629,51.212300084994,0.0 3.23385137945299,51.2122958825692,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Begijnenhuisje</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Begijnhof 1</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">18</SimpleData>
+<SimpleData name="Gebouw">Begijnenhuisje</SimpleData>
+<SimpleData name="Ligging">Begijnhof 1</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2237253402453,51.2017164689464,0.0 3.22376937967249,51.201575515118,0.0 3.22377483024004,51.2015037189074,0.0 3.22372866931174,51.201505589643,0.0 3.22367513172646,51.2015073889283,0.0 3.22362854081426,51.2016019638338,0.0 3.22356906894621,51.2016952551205,0.0 3.22363894844773,51.2017040438266,0.0 3.2237253402453,51.2017164689464,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Brouwerij Halve Maan</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Walplein 26</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">19</SimpleData>
+<SimpleData name="Gebouw">Brouwerij Halve Maan</SimpleData>
+<SimpleData name="Ligging">Walplein 26</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.22418217268517,51.2020430531457,0.0 3.22410517157326,51.2020237661431,0.0 3.22386267721237,51.2019831763913,0.0 3.22372801324768,51.2022090079722,0.0 3.2236381524523,51.2023379295019,0.0 3.22389287574987,51.20240645059,0.0 3.22395847726272,51.2022888825657,0.0 3.22385046560808,51.2022553889323,0.0 3.22389265782993,51.2021897427328,0.0 3.2239694033596,51.2022194570852,0.0 3.2239425899994,51.202259757403,0.0 3.22398103387165,51.202271718121,0.0 3.22399221270629,51.202267190924,0.0 3.2240651847883,51.2023003452442,0.0 3.22409903385266,51.2022740192554,0.0 3.22411174430273,51.2022822542694,0.0 3.2240681343539,51.2023305040059,0.0 3.22409897420613,51.20235166191,0.0 3.22412638142509,51.2023623568915,0.0 3.22425950201647,51.2024250646387,0.0 3.22432158224518,51.202375834736,0.0 3.22439620240841,51.2023417912583,0.0 3.22449122223391,51.202303309717,0.0 3.22456016755564,51.2022750054948,0.0 3.22452765378096,51.2022468783899,0.0 3.22449394700679,51.2022674116054,0.0 3.22436545242504,51.2021665066974,0.0 3.22426646027895,51.2022165382342,0.0 3.22407469563322,51.2021381977142,0.0 3.22410352348808,51.2020909637405,0.0 3.22412835035396,51.2020564384288,0.0 3.22416126154923,51.2020683455358,0.0 3.22418217268517,51.2020430531457,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Museum Heilig Bloed</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Burg 10</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">20</SimpleData>
+<SimpleData name="Gebouw">Museum Heilig Bloed</SimpleData>
+<SimpleData name="Ligging">Burg 10</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.2263473967843,51.2080865469861,0.0 3.22646422045999,51.2081375059916,0.0 3.22642829715778,51.2081730833995,0.0 3.22655235706753,51.2082299064618,0.0 3.22661838666783,51.2081702838957,0.0 3.22671486259375,51.2080727132185,0.0 3.22667119187499,51.2080479556336,0.0 3.22651418796181,51.207980384854,0.0 3.22643865277461,51.2080515040633,0.0 3.22640031695565,51.2080349098629,0.0 3.2263473967843,51.2080865469861,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Onze-Lieve-Vrouw van de Potterie</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Potterierei 79</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">21</SimpleData>
+<SimpleData name="Gebouw">Onze-Lieve-Vrouw van de Potterie</SimpleData>
+<SimpleData name="Ligging">Potterierei 79</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23078704681385,51.2193968225462,0.0 3.23048412759549,51.2194842980893,0.0 3.23053905749982,51.2195775342146,0.0 3.23085310300074,51.2194878478644,0.0 3.23078704681385,51.2193968225462,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Gebouw</th>
+<td>Kerk Engels Klooster</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Ligging</th>
+<td>Carmersstraat 85</td>
+</tr><tr bgcolor="">
+<th>Functie</th>
+<td>M</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>10/10/2016</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>b00000ff</color>
+</PolyStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Musea">
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="Gebouw">Kerk Engels Klooster</SimpleData>
+<SimpleData name="Ligging">Carmersstraat 85</SimpleData>
+<SimpleData name="Functie">M</SimpleData>
+<SimpleData name="Aangemaakt op">10/10/2016</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>3.23394371991872,51.2145681083841,0.0 3.23401129697495,51.2145965690073,0.0 3.234038939072,51.2145979930314,0.0 3.23404240303386,51.214607297032,0.0 3.23404771168277,51.2146166187287,0.0 3.23405489319556,51.2146247995451,0.0 3.23406579225896,51.2146318571771,0.0 3.2341991584434,51.2146864433978,0.0 3.23418599207161,51.2146967467244,0.0 3.23422618082669,51.21471335605,0.0 3.23419604600423,51.2147385616235,0.0 3.2342746071007,51.214770603985,0.0 3.23429909514996,51.2147499796191,0.0 3.23433201789998,51.2147618838351,0.0 3.23435264752756,51.2147481755305,0.0 3.2343818245717,51.2147623615018,0.0 3.23440018698578,51.2147660141381,0.0 3.23441678921127,51.2147661733531,0.0 3.23443160307801,51.2147639977235,0.0 3.23444834613297,51.214758364054,0.0 3.23445963960744,51.2147492015848,0.0 3.23446539900533,51.2147399860457,0.0 3.23446746902026,51.2147307351269,0.0 3.23446772250988,51.2147203079425,0.0 3.23446241376521,51.2147109862651,0.0 3.23444788157672,51.2147015761381,0.0 3.23442415411665,51.2146909189819,0.0 3.23444869838984,51.2146679774323,0.0 3.23429171726046,51.2145981000053,0.0 3.23401377652553,51.2144946143175,0.0 3.23394371991872,51.2145681083841,0.0</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Folder>
+</Document></kml>

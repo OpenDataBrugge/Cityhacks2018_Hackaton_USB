@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>WZC</name>
+<visibility>1</visibility>
+<Schema name="WZC" id="kml_schema_ft_WZC">
+<SimpleField type="xsd:int" name="Nummer">
+<displayName>Nummer</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Woonzorgcentra">
+<displayName>Woonzorgcentra</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Straat">
+<displayName>Straat</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Nr">
+<displayName>Nr</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Postcode">
+<displayName>Postcode</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Gemeente">
+<displayName>Gemeente</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="RVT">
+<displayName>RVT</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="ROB">
+<displayName>ROB</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="Totaal">
+<displayName>Totaal</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="grootte_bol_op_kaart">
+<displayName>grootte_bol_op_kaart</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_WZC">
+<name>WZC</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Ter Potterie</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Peterseliestraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>21</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">1</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Ter Potterie</SimpleData>
+<SimpleData name="Straat">Peterseliestraat</SimpleData>
+<SimpleData name="Nr">21</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">6</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23126457589884,51.2195648123514,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Hallenhuis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Pastoriestraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>108</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">2</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Hallenhuis</SimpleData>
+<SimpleData name="Straat">Pastoriestraat</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Sint-Andries</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">108</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17913859511462,51.1975378122948,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Zeven Torentjes</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Sint-Lucaslaan</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>50</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>126</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">4</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Zeven Torentjes</SimpleData>
+<SimpleData name="Straat">Sint-Lucaslaan</SimpleData>
+<SimpleData name="Nr">50</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Assebroek</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">126</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24674126607274,51.1855706172407,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Ten Boomgaarde</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Ter Beke</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>104</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">5</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Ten Boomgaarde</SimpleData>
+<SimpleData name="Straat">Ter Beke</SimpleData>
+<SimpleData name="Nr">7</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Sint-Michiels</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">104</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21433379333434,51.1863050231181,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Minnewater</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Prof. Dr. J. Sebrechtstraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>145</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">6</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Minnewater</SimpleData>
+<SimpleData name="Straat">Prof. Dr. J. Sebrechtstraat</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">145</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22207926157362,51.1999425347128,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Van Zuylen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Geralaan</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>50</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>173</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">7</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Van Zuylen</SimpleData>
+<SimpleData name="Straat">Geralaan</SimpleData>
+<SimpleData name="Nr">50</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Sint-Kruis</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">173</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24632296635502,51.2194606559979,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Herdershove</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Oude Oostendse Steenweg</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>95</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>90</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">8</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Herdershove</SimpleData>
+<SimpleData name="Straat">Oude Oostendse Steenweg</SimpleData>
+<SimpleData name="Nr">95</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">90</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19138036732508,51.2256850094635,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Regina Coeli</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Koning Leopold III-laan</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>82</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">9</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Regina Coeli</SimpleData>
+<SimpleData name="Straat">Koning Leopold III-laan</SimpleData>
+<SimpleData name="Nr">4</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Sint-Michiels</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">82</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18091901529296,51.1964304523405,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Jeruzalem</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Stijn Streuvelsstraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>70</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">10</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Jeruzalem</SimpleData>
+<SimpleData name="Straat">Stijn Streuvelsstraat</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">70</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2346223776453,51.2123809207044,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Sint Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Spoorwegstraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>250</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8200</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>91</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">11</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Sint Jozef</SimpleData>
+<SimpleData name="Straat">Spoorwegstraat</SimpleData>
+<SimpleData name="Nr">250</SimpleData>
+<SimpleData name="Postcode">8200</SimpleData>
+<SimpleData name="Gemeente">Sint-Michiels</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">91</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22420540061638,51.1828931401616,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Westerrivier</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Speelpleinlaan</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>44</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8310</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>40</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">12</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Westerrivier</SimpleData>
+<SimpleData name="Straat">Speelpleinlaan</SimpleData>
+<SimpleData name="Nr">44</SimpleData>
+<SimpleData name="Postcode">8310</SimpleData>
+<SimpleData name="Gemeente">Assebroek</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">40</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24479494943885,51.207362878635,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC De Vliedberg</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Ruddershove</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>96</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">13</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC De Vliedberg</SimpleData>
+<SimpleData name="Straat">Ruddershove</SimpleData>
+<SimpleData name="Nr">1</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">96</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19911734252782,51.2216965039253,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Engelendale vzw</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Vlamingdam</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>34</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>96</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">14</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Engelendale vzw</SimpleData>
+<SimpleData name="Straat">Vlamingdam</SimpleData>
+<SimpleData name="Nr">34</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">96</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22064623124596,51.2164318463792,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>WZC Prinsenhof</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Gebroeders Marreytstraat</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>50</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Sint-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>117</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">16</SimpleData>
+<SimpleData name="Woonzorgcentra">WZC Prinsenhof</SimpleData>
+<SimpleData name="Straat">Gebroeders Marreytstraat</SimpleData>
+<SimpleData name="Nr">50</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Sint-Pieters</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">117</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1992355160908,51.2247118432502,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Nummer</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Woonzorgcentra</th>
+<td>Militza</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Straat</th>
+<td>Noorweegse Kaai</td>
+</tr><tr bgcolor="">
+<th>Nr</th>
+<td>24</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Postcode</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>Gemeente</th>
+<td>Brugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>RVT</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>ROB</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Totaal</th>
+<td>131</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>20/11/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_WZC">
+<SimpleData name="Nummer">17</SimpleData>
+<SimpleData name="Woonzorgcentra">Militza</SimpleData>
+<SimpleData name="Straat">Noorweegse Kaai</SimpleData>
+<SimpleData name="Nr">24</SimpleData>
+<SimpleData name="Postcode">8000</SimpleData>
+<SimpleData name="Gemeente">Brugge</SimpleData>
+<SimpleData name="RVT">0</SimpleData>
+<SimpleData name="ROB">0</SimpleData>
+<SimpleData name="Totaal">131</SimpleData>
+<SimpleData name="Aangemaakt op">20/11/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2383950274212,51.2245084083653,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

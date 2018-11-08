@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Overdekte_jeugdruimte</name>
+<visibility>1</visibility>
+<Schema name="Overdekte_jeugdruimte" id="kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleField type="xsd:string" name="Locatie">
+<displayName>Locatie</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Plaats">
+<displayName>Plaats</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Opm">
+<displayName>Opm</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="SPwerking">
+<displayName>SPwerking</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Aangemaakt op">
+<displayName>Aangemaakt op</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_Overdekte_jeugdruimte">
+<name>Overdekte_jeugdruimte</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Antonis De Rooverestraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Antonis De Rooverestraat</SimpleData>
+<SimpleData name="Plaats">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26010429480161,51.2029716644387,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Daverlostraat 140</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Daverlostraat 140</SimpleData>
+<SimpleData name="Plaats">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24721884984491,51.1944751494059,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>P.M. Christinalaan 11</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">P.M. Christinalaan 11</SimpleData>
+<SimpleData name="Plaats">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24894356293233,51.1958473533314,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Weidestraat 85</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Weidestraat 85</SimpleData>
+<SimpleData name="Plaats">Assebroek</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24551892193925,51.1923070218192,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Zandberg 8</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Zandberg 8</SimpleData>
+<SimpleData name="Plaats">Assebroek</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2469325910123,51.1926495584108,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Trudostraat 1</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek (Steenbrugge)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Trudostraat 1</SimpleData>
+<SimpleData name="Plaats">Assebroek (Steenbrugge)</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23889586166134,51.1815047800324,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Kerklaan 37</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Assebroek (ver-A)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>achter een parochiaal centrum</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Kerklaan 37</SimpleData>
+<SimpleData name="Plaats">Assebroek (ver-A)</SimpleData>
+<SimpleData name="Opm">achter een parochiaal centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27366794798652,51.1902360236866,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Jakobinessestraat 45</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Jakobinessestraat 45</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23086742476174,51.2033150960041,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Mortierstraat 31</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Mortierstraat 31</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21613370016998,51.2085564424487,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>PC H. Magdalena, Violierstraat 7</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>onderdeel van een paroch centrum</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">PC H. Magdalena, Violierstraat 7</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Opm">onderdeel van een paroch centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23356884120649,51.2059357262341,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Peterseliestraat 100</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Peterseliestraat 100</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2323410904173,51.2194604331457,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Ter Pannestraat 6</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Ter Pannestraat 6</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2222578611501,51.2216564957161,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Venkelstraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Centrum</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Venkelstraat</SimpleData>
+<SimpleData name="Plaats">Centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2330382886968,51.212879090194,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Amaat Vynckestraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Dudzele</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>officieel adres 'Westkapelse stwg 58',
+onderdeel van een sportpark</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Amaat Vynckestraat</SimpleData>
+<SimpleData name="Plaats">Dudzele</SimpleData>
+<SimpleData name="Opm">officieel adres 'Westkapelse stwg 58',
+onderdeel van een sportpark</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22875901272686,51.2755076648613,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Vaartbekeweg / Over de Vaartbeek</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Koolkerke</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>onderdeel van een sportpark</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Vaartbekeweg / Over de Vaartbeek</SimpleData>
+<SimpleData name="Plaats">Koolkerke</SimpleData>
+<SimpleData name="Opm">onderdeel van een sportpark</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24534277768172,51.2319656494323,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Scharphoutstraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Scharphoutstraat</SimpleData>
+<SimpleData name="Plaats">Lissewege</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18836487999372,51.2971504948116,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Stationsstraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Lissewege</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Stationsstraat</SimpleData>
+<SimpleData name="Plaats">Lissewege</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.19592312687059,51.2941361374501,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Beisbroek, sterrenwacht</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Beisbroek, sterrenwacht</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.16449862698651,51.1713195121607,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>K.K. Theodoorstraat 2</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>achter een parochiaal centrum</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">K.K. Theodoorstraat 2</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="Opm">achter een parochiaal centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1950099557408,51.1927052045232,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Legeweg 269 (Prangeweide)</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Legeweg 269 (Prangeweide)</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.17677674090764,51.2044359343327,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Legeweg 83</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>zolderverdiep van een paroch centrum</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Legeweg 83</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="Opm">zolderverdiep van een paroch centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.2053310693447,51.2045198245052,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Paul Gilsonstraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Paul Gilsonstraat</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.1975978979251,51.207903843736,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Jansdreef</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>hoek met P. Benoitlaan</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Jansdreef</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="Opm">hoek met P. Benoitlaan</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20805625314726,51.209394098624,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>kml_24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Zandstraat 268 (Fazantenlaan)</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Andries</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Zandstraat 268 (Fazantenlaan)</SimpleData>
+<SimpleData name="Plaats">St.-Andries</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.18205747246166,51.2030868200484,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>kml_25</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Binnenweg 4</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Binnenweg 4</SimpleData>
+<SimpleData name="Plaats">St.-Jozef</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22604592468647,51.2257467829205,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>kml_26</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>L. Coiseaukaai 11</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">L. Coiseaukaai 11</SimpleData>
+<SimpleData name="Plaats">St.-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22291710280235,51.2339605242854,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>kml_27</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>L. Coiseaukaai 11d</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">L. Coiseaukaai 11d</SimpleData>
+<SimpleData name="Plaats">St.-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22268942537145,51.2348877091051,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>kml_28</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Landjuwelenstraat 43</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Jozef</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Landjuwelenstraat 43</SimpleData>
+<SimpleData name="Plaats">St.-Jozef</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.23526176099871,51.2300362288017,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>kml_29</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Blauwkasteelweg</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Blauwkasteelweg</SimpleData>
+<SimpleData name="Plaats">St.-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24542581379716,51.2164090208999,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>kml_30</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Engelendalelaan 18</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Engelendalelaan 18</SimpleData>
+<SimpleData name="Plaats">St.-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.270447935753,51.2056060480075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>kml_31</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Gulden Kamer</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Gulden Kamer</SimpleData>
+<SimpleData name="Plaats">St.-Kruis</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.24611494248894,51.2168327464569,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>kml_32</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Paalbos</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>grens Assebroek/St.-Kruis</td>
+</tr><tr bgcolor="">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Paalbos</SimpleData>
+<SimpleData name="Plaats">St.-Kruis</SimpleData>
+<SimpleData name="Opm">grens Assebroek/St.-Kruis</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.26917448005715,51.2019508125073,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>kml_33</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Brieversweg 373 (Maleveld)</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis (Male)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Brieversweg 373 (Maleveld)</SimpleData>
+<SimpleData name="Plaats">St.-Kruis (Male)</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28913673401576,51.2121575236757,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>kml_34</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Dekenstraat</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis (Male)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>SPwerking</th>
+<td>ja</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Dekenstraat</SimpleData>
+<SimpleData name="Plaats">St.-Kruis (Male)</SimpleData>
+<SimpleData name="SPwerking">ja</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.27804917969401,51.2165393391656,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>kml_35</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Kanunnik Decoeneplein 2</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Kruis (Male)</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Opm</th>
+<td>onderdeel van een paroch centrum</td>
+</tr><tr bgcolor="">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Kanunnik Decoeneplein 2</SimpleData>
+<SimpleData name="Plaats">St.-Kruis (Male)</SimpleData>
+<SimpleData name="Opm">onderdeel van een paroch centrum</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.28754430756206,51.2126435947626,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>kml_36</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Arnolduslaan 26</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Arnolduslaan 26</SimpleData>
+<SimpleData name="Plaats">St.-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22055898297761,51.1816629867126,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>kml_37</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Arnolduslaan 28</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Arnolduslaan 28</SimpleData>
+<SimpleData name="Plaats">St.-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.22031491445266,51.1814659263293,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>kml_38</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Michielslaan 69</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Michielslaan 69</SimpleData>
+<SimpleData name="Plaats">St.-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21101304770833,51.1794514610429,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>kml_39</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>St.-Michielslaan 75 a+b</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Michiels</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">St.-Michielslaan 75 a+b</SimpleData>
+<SimpleData name="Plaats">St.-Michiels</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.21003512508367,51.1794071117525,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>kml_40</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Tempelhof</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>St.-Pieters</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Tempelhof</SimpleData>
+<SimpleData name="Plaats">St.-Pieters</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20420229379267,51.2260239825291,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>kml_41</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Ploegstraat 26</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Zeebrugge</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Ploegstraat 26</SimpleData>
+<SimpleData name="Plaats">Zeebrugge</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20929457816583,51.3304027969033,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>kml_42</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Lisseweegse steenweg</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Zwankendamme</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Lisseweegse steenweg</SimpleData>
+<SimpleData name="Plaats">Zwankendamme</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20129764443259,51.3114022222608,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>kml_43</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>Locatie</th>
+<td>Steenkaai 34R</td>
+</tr><tr bgcolor="">
+<th>Plaats</th>
+<td>Christus-koning</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Aangemaakt op</th>
+<td>16/03/2017</td>
+</tr></table></center>]]></description>
+<Style>
+<IconStyle>
+<scale>0.5</scale>
+<Icon>
+<href>images/E1.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<width>1.0</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_Overdekte_jeugdruimte">
+<SimpleData name="Locatie">Steenkaai 34R</SimpleData>
+<SimpleData name="Plaats">Christus-koning</SimpleData>
+<SimpleData name="Aangemaakt op">16/03/2017</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>3.20224238602928,51.2190828613162,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

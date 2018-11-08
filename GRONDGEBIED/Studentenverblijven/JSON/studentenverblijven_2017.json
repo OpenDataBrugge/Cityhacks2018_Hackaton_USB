@@ -1,0 +1,2389 @@
+[
+{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":1
+,"STRAATNAAM":"Academiestraat"
+,"huisnr":8
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20070103000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Academiestraat 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22469552029552,51.2112001135757]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7005
+,"STRAATNAAM":"Amazonestraat"
+,"huisnr":24
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20121221000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Amazonestraat 24"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20358690591046,51.1863045159819]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7006
+,"STRAATNAAM":"August Bontestraat"
+,"huisnr":3
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20121221000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"August Bontestraat 3"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21686626310762,51.1883699628328]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7008
+,"STRAATNAAM":"Baron de Serretstraat"
+,"huisnr":1
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20060612000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Baron de Serretstraat 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22101639267576,51.1856313782508]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":16
+,"STRAATNAAM":"Beenhouwersstraat"
+,"huisnr":50
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20120502000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Beenhouwersstraat 50"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21669675751131,51.2096611586545]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":23
+,"STRAATNAAM":"Bilkske"
+,"huisnr":5
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20090925000000.000"
+,"Aantal_verblijven":17
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Bilkske 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23549934786202,51.2096968021473]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":23
+,"STRAATNAAM":"Bilkske"
+,"huisnr":85
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20080902000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Bilkske 85"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23791348299778,51.20820993039]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":28
+,"STRAATNAAM":"Boeveriestraat"
+,"huisnr":46
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20161115000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Boeveriestraat 46"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21576238628592,51.2022284305924]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":6028
+,"STRAATNAAM":"Dampoortstraat"
+,"huisnr":79
+,"POSTCODE":"8310"
+,"GEMEENTEAFDELING":"Sint-Kruis"
+,"SECTOR":"O"
+,"dat_beslissing":"20160807000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Dampoortstraat 79"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2405017136951,51.2153870477527]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7025
+,"STRAATNAAM":"Dorpsstraat"
+,"huisnr":72
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20171003000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Dorpsstraat 72"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21938003829609,51.1870849164231]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":60
+,"STRAATNAAM":"Dweersstraat"
+,"huisnr":14
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20140701000000.000"
+,"Aantal_verblijven":9
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Dweersstraat 14"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21912063432356,51.2061560374166]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":69
+,"STRAATNAAM":"Engelsestraat"
+,"huisnr":10
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20090626000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Engelsestraat 10"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22806602705571,51.2113624592248]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":73
+,"STRAATNAAM":"Ezelstraat"
+,"huisnr":10
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160907000000.000"
+,"Aantal_verblijven":16
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Ezelstraat 10"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22036711077454,51.2118778124569]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":73
+,"STRAATNAAM":"Ezelstraat"
+,"huisnr":151
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170704000000.000"
+,"Aantal_verblijven":10
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Ezelstraat 151"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21640545061596,51.2148082573814]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":78
+,"STRAATNAAM":"Ganzenstraat"
+,"huisnr":38
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20080509000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Ganzenstraat 38"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23503292077634,51.2086957222721]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":1045
+,"STRAATNAAM":"Generaal Lemanlaan"
+,"huisnr":97
+,"POSTCODE":"8310"
+,"GEMEENTEAFDELING":"Assebroek"
+,"SECTOR":"O"
+,"dat_beslissing":"20141222000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Generaal Lemanlaan 97"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24080063939152,51.2021060313232]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":86
+,"STRAATNAAM":"Genthof"
+,"huisnr":10
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19971205000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Genthof 10"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22662167115664,51.2122558995707]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":86
+,"STRAATNAAM":"Genthof"
+,"huisnr":15
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170703000000.000"
+,"Aantal_verblijven":11
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Genthof 15"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2268008025681,51.2126261431917]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":87
+,"STRAATNAAM":"Gentpoortstraat"
+,"huisnr":54
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19971211000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gentpoortstraat 54"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23336121128135,51.2033223202479]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":88
+,"STRAATNAAM":"Gentpoortvest"
+,"huisnr":1
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20141224000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gentpoortvest 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23365642661243,51.2027886060132]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":40
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20121231000000.000"
+,"Aantal_verblijven":15
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 40"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20833266352275,51.2039160590537]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":45
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20020304000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 45"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20748439882466,51.203459254143]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":68
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"19991206000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 68"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20706180518848,51.2036880338537]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":182
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20150327000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 182"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19947558797607,51.2013650766853]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":205
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20160606000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 205"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19889822397739,51.2007764590074]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5030
+,"STRAATNAAM":"Gistelse Steenweg"
+,"huisnr":596
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20121231000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gistelse Steenweg 596"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17605805056483,51.1965374418639]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":106
+,"STRAATNAAM":"Guido Gezellelaan"
+,"huisnr":8
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160325000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Guido Gezellelaan 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21350294802525,51.2059448480414]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":106
+,"STRAATNAAM":"Guido Gezellelaan"
+,"huisnr":8
+,"suffix":"A"
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160523000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Guido Gezellelaan 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21350294802525,51.2059448480414]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":106
+,"STRAATNAAM":"Guido Gezellelaan"
+,"huisnr":9
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160325000000.000"
+,"Aantal_verblijven":10
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Guido Gezellelaan 9"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2134319540935,51.2060554045952]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":106
+,"STRAATNAAM":"Guido Gezellelaan"
+,"huisnr":31
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20030612000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Guido Gezellelaan 31"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21376938335533,51.2077019565125]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":109
+,"STRAATNAAM":"Gulden-Vlieslaan"
+,"huisnr":6
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20101209000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gulden-Vlieslaan 6"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21439779123422,51.2101161897646]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":109
+,"STRAATNAAM":"Gulden-Vlieslaan"
+,"huisnr":48
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160426000000.000"
+,"Aantal_verblijven":12
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Gulden-Vlieslaan 48"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21518938475932,51.2130222027115]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":23
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160523000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hendrik Consciencelaan 23"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21477495044078,51.202101754054]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":24
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20101209000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hendrik Consciencelaan 24"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21477447421594,51.2021956167885]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":24
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20140701000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hendrik Consciencelaan 24"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21477447421594,51.2021956167885]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":27
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20050729000000.000"
+,"Aantal_verblijven":11
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hendrik Consciencelaan 27"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21464266990038,51.202378588656]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":47
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19990802000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Hendrik Consciencelaan 47"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21402871617251,51.2034097714565]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":118
+,"STRAATNAAM":"Hendrik Consciencelaan"
+,"huisnr":47
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160201000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hendrik Consciencelaan 47"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21402871617251,51.2034097714565]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5038
+,"STRAATNAAM":"Hertogenstraat"
+,"huisnr":22
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20160125000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hertogenstraat 22"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2021830514248,51.1998319922108]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":121
+,"STRAATNAAM":"Hoefijzerlaan"
+,"huisnr":27
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160525000000.000"
+,"Aantal_verblijven":12
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hoefijzerlaan 27"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21576159025561,51.2074873073318]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":121
+,"STRAATNAAM":"Hoefijzerlaan"
+,"huisnr":28
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19970717000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hoefijzerlaan 28"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21646164663591,51.2074524115759]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":121
+,"STRAATNAAM":"Hoefijzerlaan"
+,"huisnr":41
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170816000000.000"
+,"Aantal_verblijven":11
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hoefijzerlaan 41"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21526331175541,51.2080166800828]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":121
+,"STRAATNAAM":"Hoefijzerlaan"
+,"huisnr":43
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170703000000.000"
+,"Aantal_verblijven":1
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hoefijzerlaan 43"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21519831035141,51.2081087543854]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5041
+,"STRAATNAAM":"Hogeweg"
+,"huisnr":156
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20121221000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Hogeweg 156"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19797856998638,51.2069950699542]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5015
+,"STRAATNAAM":"Jonkheer Paul Coppietersdreef"
+,"huisnr":4
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20150928000000.000"
+,"Aantal_verblijven":9
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Jonkheer Paul Coppietersdreef 4"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20024674644637,51.1969400546655]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":141
+,"STRAATNAAM":"Joost de Damhouderstraat"
+,"huisnr":24
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170802000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Joost de Damhouderstraat 24"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23266692742928,51.2110799471869]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7046
+,"STRAATNAAM":"Joseph Wautersstraat"
+,"huisnr":61
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160622000000.000"
+,"Aantal_verblijven":125
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Joseph Wautersstraat 61"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19912838611274,51.1921811318924]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":919
+,"STRAATNAAM":"Karel de Stoutelaan"
+,"huisnr":43
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Christus-Koning"
+,"SECTOR":"C"
+,"dat_beslissing":"20090715000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Karel de Stoutelaan 43"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20880774389857,51.2129308191999]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":153
+,"STRAATNAAM":"Kartuizerinnenstraat"
+,"huisnr":3
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20000404000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Kartuizerinnenstraat 3"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2260678720219,51.2070693301308]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":155
+,"STRAATNAAM":"Katelijnestraat"
+,"huisnr":34
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19931026000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Katelijnestraat 34"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22485537121719,51.2031742927824]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":155
+,"STRAATNAAM":"Katelijnestraat"
+,"huisnr":38
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20110107000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Katelijnestraat 38"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22499763381802,51.2030899136681]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":155
+,"STRAATNAAM":"Katelijnestraat"
+,"huisnr":105
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20171020000000.000"
+,"Aantal_verblijven":9
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Katelijnestraat 105"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22763299666655,51.2013817289601]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":155
+,"STRAATNAAM":"Katelijnestraat"
+,"huisnr":105
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20171020000000.000"
+,"Aantal_verblijven":70
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Katelijnestraat 105"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22763299666655,51.2013817289601]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":159
+,"STRAATNAAM":"Kegelschoolstraat"
+,"huisnr":13
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19991206000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Kegelschoolstraat 13"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21525137697404,51.2048424611168]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7059
+,"STRAATNAAM":"Koning Albert I-laan"
+,"huisnr":58
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20151222000000.000"
+,"Aantal_verblijven":40
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koning Albert I-laan 58"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21266706980609,51.1930698763713]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":179
+,"STRAATNAAM":"Koning Albert I-laan"
+,"huisnr":64
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"U"
+,"dat_beslissing":"20161206000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koning Albert I-laan 64"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21233777239973,51.1927386981169]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7060
+,"STRAATNAAM":"Koningin Astridlaan"
+,"huisnr":17
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20080509000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koningin Astridlaan 17"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20568063118015,51.1881978614936]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7060
+,"STRAATNAAM":"Koningin Astridlaan"
+,"huisnr":58
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20150407000000.000"
+,"Aantal_verblijven":12
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koningin Astridlaan 58"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20488114930352,51.1887555190459]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7060
+,"STRAATNAAM":"Koningin Astridlaan"
+,"huisnr":96
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20170415000000.000"
+,"Aantal_verblijven":11
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koningin Astridlaan 96"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2031332365527,51.188891267459]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7060
+,"STRAATNAAM":"Koningin Astridlaan"
+,"huisnr":264
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20101209000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koningin Astridlaan 264"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19452920918731,51.1883541586501]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":922
+,"STRAATNAAM":"Koningin Elisabethlaan"
+,"huisnr":52
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Christus-Koning"
+,"SECTOR":"C"
+,"dat_beslissing":"20160112000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Koningin Elisabethlaan 52"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21855727325734,51.2165883350732]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":3325
+,"STRAATNAAM":"Koolkerkse Steenweg"
+,"huisnr":84
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Sint-Jozef"
+,"SECTOR":"N"
+,"dat_beslissing":"20060327000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Koolkerkse Steenweg 84"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23529414551713,51.2240691491034]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":185
+,"STRAATNAAM":"Kopstraat"
+,"huisnr":9
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20011123000000.000"
+,"Aantal_verblijven":10
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Kopstraat 9"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22158076145044,51.2074650948506]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5059
+,"STRAATNAAM":"Korte Vesting"
+,"huisnr":1
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20170919000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Korte Vesting 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21072738724295,51.2037552757852]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5059
+,"STRAATNAAM":"Korte Vesting"
+,"huisnr":1
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20170919000000.000"
+,"Aantal_verblijven":14
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Korte Vesting 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21072738724295,51.2037552757852]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7064
+,"STRAATNAAM":"Kortrijkstraat"
+,"huisnr":8
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20140701000000.000"
+,"Aantal_verblijven":12
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Kortrijkstraat 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23339334411339,51.1788742225852]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":205
+,"STRAATNAAM":"Lane"
+,"huisnr":25
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20010730000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Lane 25"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21515133042854,51.2069494420758]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":208
+,"STRAATNAAM":"Langestraat"
+,"huisnr":60
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20080902000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Langestraat 60"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23469903660136,51.2099846373286]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":924
+,"STRAATNAAM":"Lauwerstraat"
+,"huisnr":33
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Christus-Koning"
+,"SECTOR":"C"
+,"dat_beslissing":"20010626000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Lauwerstraat 33"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20896029347949,51.2140679909691]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":220
+,"STRAATNAAM":"Maagdenstraat"
+,"huisnr":17
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20071109000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Maagdenstraat 17"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21511617429997,51.2029985617021]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":220
+,"STRAATNAAM":"Maagdenstraat"
+,"huisnr":17
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20071129000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Maagdenstraat 17"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21511617429997,51.2029985617021]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":220
+,"STRAATNAAM":"Maagdenstraat"
+,"huisnr":23
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20101209000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Maagdenstraat 23"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21524427297205,51.2028908788531]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":220
+,"STRAATNAAM":"Maagdenstraat"
+,"huisnr":90
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19990715000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Maagdenstraat 90"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21519740018446,51.2023990665697]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":225
+,"STRAATNAAM":"Meestraat"
+,"huisnr":1
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20161020000000.000"
+,"Aantal_verblijven":11
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Meestraat 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22899727150739,51.2092669661733]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":231
+,"STRAATNAAM":"Molenmeers"
+,"huisnr":21
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20140701000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Molenmeers 21"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23279885461353,51.2112689477422]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":237
+,"STRAATNAAM":"Nieuwe Gentweg"
+,"huisnr":71
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20010205000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Nieuwe Gentweg 71"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23020193295533,51.2043546123947]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":243
+,"STRAATNAAM":"Noordzandstraat"
+,"huisnr":17
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160606000000.000"
+,"Aantal_verblijven":1
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Noordzandstraat 17"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22089650690133,51.2078327649585]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":243
+,"STRAATNAAM":"Noordzandstraat"
+,"huisnr":60
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160311000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Noordzandstraat 60"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21928461809167,51.2069132039006]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":243
+,"STRAATNAAM":"Noordzandstraat"
+,"huisnr":91
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19981126000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Noordzandstraat 91"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21834618073746,51.2061415531752]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":246
+,"STRAATNAAM":"Ontvangersstraat"
+,"huisnr":18
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19970228000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Ontvangersstraat 18"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21927463857208,51.2086664514108]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":247
+,"STRAATNAAM":"Oosterlingenplein"
+,"huisnr":5
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170714000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oosterlingenplein 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22652999054038,51.2129109227879]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":247
+,"STRAATNAAM":"Oosterlingenplein"
+,"huisnr":5
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170714000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oosterlingenplein 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22652999054038,51.2129109227879]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":252
+,"STRAATNAAM":"Oude Burg"
+,"huisnr":30
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20020208000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Burg 30"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22364556774345,51.2065452763755]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":253
+,"STRAATNAAM":"Oude Gentweg"
+,"huisnr":166
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20070103000000.000"
+,"Aantal_verblijven":15
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Gentweg 166"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23370757022324,51.2028852816134]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":254
+,"STRAATNAAM":"Oude Zak"
+,"huisnr":8
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19960927000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Zak 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2198818082684,51.2115057436887]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":254
+,"STRAATNAAM":"Oude Zak"
+,"huisnr":24
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20110107000000.000"
+,"Aantal_verblijven":25
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Zak 24"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21906190251894,51.2110110590248]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":254
+,"STRAATNAAM":"Oude Zak"
+,"huisnr":26
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20110107000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Zak 26"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21884793023331,51.2108594870278]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":254
+,"STRAATNAAM":"Oude Zak"
+,"huisnr":26
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20110107000000.000"
+,"Aantal_verblijven":32
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oude Zak 26"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21884793023331,51.2108594870278]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7079
+,"STRAATNAAM":"Oudekerkstraat"
+,"huisnr":6
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20031107000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Oudekerkstraat 6"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21047484132134,51.1907411245957]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7079
+,"STRAATNAAM":"Oudekerkstraat"
+,"huisnr":6
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20150416000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Oudekerkstraat 6"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21047484132134,51.1907411245957]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7086
+,"STRAATNAAM":"Pitsenbosdreef"
+,"huisnr":11
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20100129000000.000"
+,"Aantal_verblijven":18
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Pitsenbosdreef 11"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19572903245612,51.1681252154019]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":276
+,"STRAATNAAM":"Raamstraat"
+,"huisnr":3
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20150706000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Raamstraat 3"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21847585381965,51.2118826113977]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":276
+,"STRAATNAAM":"Raamstraat"
+,"huisnr":28
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170912000000.000"
+,"Aantal_verblijven":17
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Raamstraat 28"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21838363864842,51.2123301899545]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":1
+,"suffix":"A"
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160215000000.000"
+,"Aantal_verblijven":111
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 1"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21647148423032,51.1945022840669]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":57
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20170912000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 57"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21189638325074,51.1889680774106]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":120
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"19980922000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Rijselstraat 120"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21059484313045,51.1873908672929]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":130
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160229000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 130"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21041329255181,51.1871271851253]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":150
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20141002000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 150"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21004628633963,51.1860887221828]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":164
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160201000000.000"
+,"Aantal_verblijven":1
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 164"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2097161569668,51.1855709496328]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7091
+,"STRAATNAAM":"Rijselstraat"
+,"huisnr":164
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160201000000.000"
+,"Aantal_verblijven":14
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rijselstraat 164"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2097161569668,51.1855709496328]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":280
+,"STRAATNAAM":"Rode-Haanstraat"
+,"huisnr":3
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170610000000.000"
+,"Aantal_verblijven":50
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rode-Haanstraat 3"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22465741520461,51.2120769943688]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":286
+,"STRAATNAAM":"Rozendal"
+,"huisnr":30
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19961212000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Rozendal 30"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21782407044195,51.2115286152919]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":290
+,"STRAATNAAM":"Schaarstraat"
+,"huisnr":78
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20010730000000.000"
+,"Aantal_verblijven":1
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Schaarstraat 78"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23391553552924,51.2066222536739]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":930
+,"STRAATNAAM":"Scheepsdalelaan"
+,"huisnr":2
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Christus-Koning"
+,"SECTOR":"C"
+,"dat_beslissing":"19980217000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Scheepsdalelaan 2"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21503112049338,51.2160649604517]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":293
+,"STRAATNAAM":"Schouwvegersstraat"
+,"huisnr":5
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19970527000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Schouwvegersstraat 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21494448536526,51.2080031403278]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":293
+,"STRAATNAAM":"Schouwvegersstraat"
+,"huisnr":5
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20071109000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Schouwvegersstraat 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21494448536526,51.2080031403278]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5089
+,"STRAATNAAM":"Singel"
+,"huisnr":2
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20020304000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Singel 2"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21210055570489,51.2029076843006]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":301
+,"STRAATNAAM":"Sint-Annaplein"
+,"huisnr":12
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20051212000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Annaplein 12"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23215372453768,51.2123798794456]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5091
+,"STRAATNAAM":"Sint-Baafsstraat"
+,"huisnr":37
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20141211000000.000"
+,"Aantal_verblijven":35
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Baafsstraat 37"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19993333833776,51.1998804660095]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":314
+,"STRAATNAAM":"Sint-Jansstraat"
+,"huisnr":5
+,"suffix":"A"
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19970527000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jansstraat 5"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22545553493954,51.2106778682168]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":314
+,"STRAATNAAM":"Sint-Jansstraat"
+,"huisnr":6
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20030821000000.000"
+,"Aantal_verblijven":15
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jansstraat 6"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22664891562903,51.2106905569605]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":315
+,"STRAATNAAM":"Sint-Jorisstraat"
+,"huisnr":4
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20031128000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jorisstraat 4"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22249822163435,51.2126239252198]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":315
+,"STRAATNAAM":"Sint-Jorisstraat"
+,"huisnr":38
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160928000000.000"
+,"Aantal_verblijven":13
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jorisstraat 38"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22190539820101,51.2139230434843]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":315
+,"STRAATNAAM":"Sint-Jorisstraat"
+,"huisnr":42
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20121221000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jorisstraat 42"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22187965208259,51.21399464252]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":315
+,"STRAATNAAM":"Sint-Jorisstraat"
+,"huisnr":51
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20080902000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Sint-Jorisstraat 51"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22139250599635,51.2141463627745]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":315
+,"STRAATNAAM":"Sint-Jorisstraat"
+,"huisnr":51
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20101231000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Jorisstraat 51"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22139250599635,51.2141463627745]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":544
+,"STRAATNAAM":"Sint-Pieterskaai"
+,"huisnr":43
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Sint-Pieters"
+,"SECTOR":"N"
+,"dat_beslissing":"20160818000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Sint-Pieterskaai 43"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21709400460204,51.2209997400756]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":544
+,"STRAATNAAM":"Sint-Pieterskaai"
+,"huisnr":43
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Sint-Pieters"
+,"SECTOR":"N"
+,"dat_beslissing":"20090225000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Sint-Pieterskaai 43"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21709400460204,51.2209997400756]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":326
+,"STRAATNAAM":"Spanjaardstraat"
+,"huisnr":3
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20151113000000.000"
+,"Aantal_verblijven":42
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Spanjaardstraat 3"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22466587871392,51.2118070642384]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":326
+,"STRAATNAAM":"Spanjaardstraat"
+,"huisnr":15
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170804000000.000"
+,"Aantal_verblijven":33
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Spanjaardstraat 15"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22488139088837,51.2127246398649]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":329
+,"STRAATNAAM":"Spiegelrei"
+,"huisnr":6
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"19980217000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Spiegelrei 6"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22710259475323,51.2121307514806]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7101
+,"STRAATNAAM":"Spoorwegstraat"
+,"huisnr":23
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20150424000000.000"
+,"Aantal_verblijven":13
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Spoorwegstraat 23"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22213748254965,51.187510343185]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7101
+,"STRAATNAAM":"Spoorwegstraat"
+,"huisnr":25
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20061222000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Spoorwegstraat 25"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22219086776174,51.1874390115857]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7102
+,"STRAATNAAM":"Stationslaan"
+,"huisnr":8
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20170425000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Stationslaan 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21001066232338,51.202977614922]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7122
+,"STRAATNAAM":"'t Speelhof"
+,"huisnr":92
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20140806000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"'t Speelhof 92"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20108131426586,51.1921123630497]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7143
+,"STRAATNAAM":"Ter Zwanekerke"
+,"huisnr":7
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20150304000000.000"
+,"Aantal_verblijven":13
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Ter Zwanekerke 7"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21298174632736,51.1894480331552]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7120
+,"STRAATNAAM":"Titecastraat"
+,"huisnr":43
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20140904000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Titecastraat 43"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20364341365461,51.1934981463592]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5101
+,"STRAATNAAM":"Torhoutse Steenweg"
+,"huisnr":8
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20121221000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Torhoutse Steenweg 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20803153129842,51.2034147949464]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5101
+,"STRAATNAAM":"Torhoutse Steenweg"
+,"huisnr":56
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20161129000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Torhoutse Steenweg 56"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20567366564728,51.2025410255297]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":5101
+,"STRAATNAAM":"Torhoutse Steenweg"
+,"huisnr":237
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Andries"
+,"SECTOR":"W"
+,"dat_beslissing":"20170610000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Torhoutse Steenweg 237"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20014713546068,51.1956144900494]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":349
+,"STRAATNAAM":"Van Voldenstraat"
+,"huisnr":14
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20050804000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Van Voldenstraat 14"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21493839534251,51.2021311615221]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":349
+,"STRAATNAAM":"Van Voldenstraat"
+,"huisnr":14
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20050804000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Van Voldenstraat 14"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21493839534251,51.2021311615221]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7130
+,"STRAATNAAM":"Velodroomstraat"
+,"huisnr":37
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20161129000000.000"
+,"Aantal_verblijven":1
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Velodroomstraat 37"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20044577723325,51.1900201272423]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7130
+,"STRAATNAAM":"Velodroomstraat"
+,"huisnr":134
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20141205000000.000"
+,"Aantal_verblijven":5
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Velodroomstraat 134"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19483777628944,51.1897235278009]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":352
+,"STRAATNAAM":"Verbrand Nieuwland"
+,"huisnr":31
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20050804000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Verbrand Nieuwland 31"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23377662147469,51.2105134947693]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":355
+,"STRAATNAAM":"Violierstraat"
+,"huisnr":29
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170703000000.000"
+,"Aantal_verblijven":3
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Violierstraat 29"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23428519251221,51.2051517428199]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":355
+,"STRAATNAAM":"Violierstraat"
+,"huisnr":29
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20170808000000.000"
+,"Aantal_verblijven":4
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Violierstraat 29"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23428519251221,51.2051517428199]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":360
+,"STRAATNAAM":"Vlamingstraat"
+,"huisnr":41
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20151013000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Vlamingstraat 41"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22380150225914,51.2113931023866]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":1137
+,"STRAATNAAM":"Wagnerstraat"
+,"huisnr":62
+,"POSTCODE":"8310"
+,"GEMEENTEAFDELING":"Assebroek"
+,"SECTOR":"O"
+,"dat_beslissing":"19971211000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wagnerstraat 62"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23535513036538,51.2000630557199]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":367
+,"STRAATNAAM":"Walweinstraat"
+,"huisnr":2
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160622000000.000"
+,"Aantal_verblijven":8
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Walweinstraat 2"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22689726606681,51.2203704913489]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":367
+,"STRAATNAAM":"Walweinstraat"
+,"huisnr":17
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20121231000000.000"
+,"Aantal_verblijven":7
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Walweinstraat 17"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22653163785007,51.2206821675741]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":371
+,"STRAATNAAM":"Werkhuisstraat"
+,"huisnr":9
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160303000000.000"
+,"Aantal_verblijven":79
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Werkhuisstraat 9"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22898771460732,51.203464505871]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7138
+,"STRAATNAAM":"Wittemolenstraat"
+,"huisnr":29
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160301000000.000"
+,"Aantal_verblijven":24
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wittemolenstraat 29"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20603639020094,51.1848719401991]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":7138
+,"STRAATNAAM":"Wittemolenstraat"
+,"huisnr":29
+,"POSTCODE":"8200"
+,"GEMEENTEAFDELING":"Sint-Michiels"
+,"SECTOR":"W"
+,"dat_beslissing":"20160301000000.000"
+,"Aantal_verblijven":40
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wittemolenstraat 29"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20603639020094,51.1848719401991]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":383
+,"STRAATNAAM":"Wulfhagestraat"
+,"huisnr":8
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160628000000.000"
+,"Aantal_verblijven":10
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wulfhagestraat 8"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21888820377211,51.207203699002]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":383
+,"STRAATNAAM":"Wulfhagestraat"
+,"huisnr":10
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160628000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wulfhagestraat 10"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2187983028,51.2072584498291]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":383
+,"STRAATNAAM":"Wulfhagestraat"
+,"huisnr":37
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20070103000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"neen"
+,"StraatHuisNummer":"Wulfhagestraat 37"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21821639398526,51.2073651989036]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":383
+,"STRAATNAAM":"Wulfhagestraat"
+,"huisnr":37
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20140701000000.000"
+,"Aantal_verblijven":6
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Wulfhagestraat 37"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21821639398526,51.2073651989036]}
+}
+,{
+"json_featuretype":"studentenverblijven_2017"
+,"STRAATnummer":388
+,"STRAATNAAM":"Zilverstraat"
+,"huisnr":16
+,"POSTCODE":"8000"
+,"GEMEENTEAFDELING":"Brugge-Centrum"
+,"SECTOR":"C"
+,"dat_beslissing":"20160530000000.000"
+,"Aantal_verblijven":2
+,"in_uitbating":"ja"
+,"StraatHuisNummer":"Zilverstraat 16"
+,"Aangemaakt op":"20/11/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22195060286872,51.2075046061794]}
+}
+]

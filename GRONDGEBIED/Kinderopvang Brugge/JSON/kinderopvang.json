@@ -1,0 +1,1720 @@
+[
+{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Persoone Geertrui"
+,"Adres":"18-Oktoberstraat 9"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20915166440353,51.2031013043058]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Verschaeve Lutgard"
+,"Adres":"Aanborgersstraat 8"
+,"Stad":"Assebroek"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27355558469975,51.1909367226548]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Javier Teresa"
+,"Adres":"Alfons De Baeckestraat 45"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2147993940885,51.1835810807946]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kaspers Brigitta"
+,"Adres":"Andre Van Wassenhovestraat 1"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24388051510377,51.1924126023128]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kadee"
+,"Adres":"Astridlaan 103"
+,"Stad":"Assebroek"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25160626431509,51.1978733539208]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Mestdagh Maggeline"
+,"Adres":"Astridlaan 169"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25633083867066,51.1954344833904]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Kriebeltje"
+,"Adres":"Astridlaan 220"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25846595590918,51.1944533064282]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vierstraete Joke"
+,"Adres":"Astridlaan 319"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26786348127268,51.1931691053882]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Zonnetje kinderdagverblijf"
+,"Adres":"Astridlaan 546"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28578186180538,51.1880178093334]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bam Bam Kids"
+,"Adres":"Astridlaan 88"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.250388113969,51.1982152878206]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Pimpampoeltjes"
+,"Adres":"Baron De Maerelaan 155"
+,"Stad":"Zeebrugge"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18896245921567,51.3117210760367]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Denecker Bernadette"
+,"Adres":"Baron De Serretstraat 65"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21923837650314,51.1846000961145]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanden Broucke Christie"
+,"Adres":"Baron Ruzettelaan 129"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23209002997677,51.1946963481772]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Decoutere Mireille"
+,"Adres":"Barrierestraat 14"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20593509812341,51.1936771547623]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Cardinael Sabine"
+,"Adres":"Beenhouwersstraat 29"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21683642587242,51.2089359183284]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Deschacht Dorine"
+,"Adres":"Begoniastraat 45"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23881337140526,51.1958837231043]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blanckaert Rita"
+,"Adres":"Berkenstraat 104"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20752467289175,51.2357950533781]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Scherrens Micheline"
+,"Adres":"Berkenstraat 62"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2082228577154,51.2365945509644]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanhaeren Betty"
+,"Adres":"Beukemarestraat 40"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19974997265401,51.3030094036812]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderopvang Stampertje"
+,"Adres":"Blankenbergse Steenweg 198"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20614954166322,51.2297926414787]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Piepeloe"
+,"Adres":"Blankenbergse Steenweg 254"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2049446193724,51.2317763287772]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vansteenkiste Sandra"
+,"Adres":"Blauwe Poort 48"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20512295021514,51.2365397743011]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Dekimpe Mieke en Kerkhof Jan"
+,"Adres":"Blauwe Poort 73"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20306909428966,51.2365102899978]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kevin en Inne"
+,"Adres":"Blauwvoetstraat 22"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25809603131411,51.2032570747625]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Piratenkids"
+,"Adres":"Blekerijstraat 25"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23944012485526,51.2028347104977]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Allaert Veronique"
+,"Adres":"Blekerijstraat 73"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24155886204582,51.202713545537]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanderyse Vera"
+,"Adres":"Bossiersgoed 7"
+,"Stad":"Dudzele"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22306583249933,51.2734404978655]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Schollaert Véronique"
+,"Adres":"Bossuytlaan 6"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24794449662197,51.2008146274616]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Verbeke Monique"
+,"Adres":"Breeweg 8"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27024520303951,51.2140608577492]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Lindebloesem"
+,"Adres":"Brieversweg 185"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27509117239358,51.2119804547192]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vermeesch Melissa"
+,"Adres":"Brieversweg 285"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28234879339976,51.2117680587863]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Markey Hilde"
+,"Adres":"Camiel Van Den Busschestraat 54"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24581543510363,51.1979193204875]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Biccler Valerie"
+,"Adres":"Cesar Gezellestraat 18"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23985298842142,51.2003320582971]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Nijntje"
+,"Adres":"Daverlostraat 132"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24391889114418,51.1952591111267]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Schoutteet Barbara"
+,"Adres":"Diksmuidse Heerweg 108"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19705153256688,51.1980684554623]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Peutertuin De Zonnebloem"
+,"Adres":"Diksmuidse Heerweg 157"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19510759816314,51.1961555925771]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderopvang Doremitje"
+,"Adres":"Diksmuidse Heerweg 184"
+,"Stad":"Sint-Andries"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19400683306643,51.1943831863029]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Sprankeltuin"
+,"Adres":"Diksmuidse Heerweg 192"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19387929655335,51.1938812892117]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Halme Michelle"
+,"Adres":"Diksmuidse Heerweg 251"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19160073397704,51.1910622792041]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Feys Melissa"
+,"Adres":"Dorpsplein 11"
+,"Stad":"Dudzele"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22483496694602,51.2730184050871]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Pupe Anja"
+,"Adres":"Eikenlaan 43"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17819039027227,51.2078103587133]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Ollivier Myriam"
+,"Adres":"Emiel Vanderveldestraat 3"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20815462211031,51.1913441552944]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Boone Sally-Anne"
+,"Adres":"Evendijk-Oost 38"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20529577562238,51.3284661584289]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Droomhuisje"
+,"Adres":"Garenmarkt 1"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22909657991902,51.2058806026208]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Droomhuisje"
+,"Adres":"Garenmarkt 8"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22794655367584,51.2050050109327]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blydhove Speelkasteel"
+,"Adres":"Generaal Lemanlaan 145A"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24414813541219,51.2022792937433]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Tijskens Krista"
+,"Adres":"Genthof 38"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22810589102905,51.2129771201256]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Snoezelhoek"
+,"Adres":"Gentpoortstraat 1"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23211474274432,51.2044367498043]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Dhoore Godelieve"
+,"Adres":"Gentpoortstraat 16"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23192675472654,51.2038995533899]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Es Tamira"
+,"Adres":"Genuastraat 27"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19423638557522,51.3268680678265]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bubbeltje"
+,"Adres":"Gerard Davidstraat 12"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20664326094179,51.2151623829787]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bubbel"
+,"Adres":"Gerard Davidstraat 4"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2070890228217,51.2147484158453]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Kikker 4"
+,"Adres":"Gistelse Steenweg 185"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20013167425186,51.2010204277715]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bral Lucrese"
+,"Adres":"Gistelse Steenweg 188"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19918194691053,51.2013053884965]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Peuterslapen st. lodewijks"
+,"Adres":"Gistelse Steenweg 440"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18600155779113,51.1984208244882]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Sprankeltop"
+,"Adres":"Gistelse Steenweg 440"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18600155779113,51.1984208244882]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Ukkepuk"
+,"Adres":"Gistelse Steenweg 519"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17747388637433,51.1964196048837]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderdagverblijf Pinguin"
+,"Adres":"Graaf Jansdijk 1"
+,"Stad":"Zeebrugge"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20241971422212,51.3363582901511]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Dycke Trees"
+,"Adres":"Grote Ede 6"
+,"Stad":"Sint-Andries"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18338053573332,51.1875267093893]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"1Strotkamp Christiane"
+,"Adres":"Gulden-Peerdenstraat 103"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24226817070202,51.1991579980397]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Booy Caroline"
+,"Adres":"Hagedoornlaan 7"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26299030219836,51.2116489253467]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Kikker II"
+,"Adres":"Heidelbergstraat 1"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22804565100208,51.1771018178877]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanmaele Angélique"
+,"Adres":"Heidelbergstraat 53"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22594042923472,51.1752099124533]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Neyt Julie"
+,"Adres":"Heidelbergstraat 69"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22518214311843,51.1749325616266]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Verschoore Marijke"
+,"Adres":"Heidelbergstraat 94"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22168831650557,51.1741941108917]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Kikker"
+,"Adres":"Heiststraat 131"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20967957059018,51.3324710188084]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Janssens Belinda"
+,"Adres":"Hogeweg 39"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2019533347786,51.2043724557199]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Broeckaert Miriam"
+,"Adres":"Hubrecht De Croockstraat 7"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.186239855607,51.1999355266601]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Decoster Lieve"
+,"Adres":"Jacobus Roelofstraat 19"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27418747025357,51.1899424888957]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vandromme Iris"
+,"Adres":"Julius Delaplacestraat 133"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24193277616844,51.2161829086311]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Volder Friedel"
+,"Adres":"Karel Cartonstraat 29"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19905781840493,51.1896981440352]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vandevyver Mieke"
+,"Adres":"Karel De Stoutelaan 112"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20691486629009,51.2138138286213]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Maele Mira"
+,"Adres":"Karel Mestdaghstraat 87"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20187470051793,51.2194692469137]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vantieghem Katrien"
+,"Adres":"Kasteelhoevestraat 20"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19662195927582,51.2081231075873]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Pietje Pek"
+,"Adres":"Katelijnestraat 115"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22851644777481,51.2006312018548]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Babyhuis-Pietje Pek VZW"
+,"Adres":"Katelijnestraat 117A"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2285823225953,51.2005773709198]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Peuterhuis Pietje Pek vzw"
+,"Adres":"Katelijnestraat 119"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22854149267365,51.2005120813981]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderdagverblijf ons tuintje"
+,"Adres":"Keizerstraat 14"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25322668461452,51.213498305435]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"VZW KDV Mariawende afd. Ons Huisje"
+,"Adres":"Keizerstraat 14"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25322668461452,51.213498305435]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vantieghem Christel en Dewyndt Geert"
+,"Adres":"Klippestraat 2"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19721865938045,51.2259475614252]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Sprankeltje"
+,"Adres":"Knotwilgenlaan 24"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18205467761805,51.2077657597991]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Ghisquiere Carine"
+,"Adres":"Knotwilgenlaan 86"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17694682534401,51.2069483860353]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Baby Garden"
+,"Adres":"Koning Albert I-Laan 193"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20679213254982,51.1828826443983]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Het Bengeltje"
+,"Adres":"Koning Leopold Iii-Laan 100"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18614437292975,51.1900181485442]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Pimpeloentje"
+,"Adres":"Koolstuk 24"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2394127423606,51.2185263937648]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blydhove NoNo"
+,"Adres":"Korendragersstraat 26 bus B"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23323929761671,51.2260739412714]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Goetgeluck Katia en Debruyne Jo"
+,"Adres":"Krekenstraat 26"
+,"Stad":"Dudzele"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22682862787364,51.2723284458184]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"McKenzie Theresa"
+,"Adres":"Krekenstraat 57"
+,"Stad":"Dudzele"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22727289599061,51.2723674932393]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vande Ginste Els"
+,"Adres":"Kroosmeers 16"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24412331716127,51.1860087601108]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Hoevenaegel Marcella"
+,"Adres":"Legeweg 124B"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19783483531273,51.2052240693252]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Brouckaert Sara"
+,"Adres":"Leiselestraat 4"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21593552143422,51.1872286811777]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderdagverblijf La Luna"
+,"Adres":"Leiselestraat 73"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22195729459307,51.1857621906745]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Crappe Greta"
+,"Adres":"Leon De Foerestraat 6"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23962382663845,51.2268071713264]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Waeleghem Mieke"
+,"Adres":"Lobbrechtstraat 34"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2422918419567,51.2293588703596]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blydhove Veltem"
+,"Adres":"Maalse Steenweg 321"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26848694126089,51.2069361906798]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Minitoba"
+,"Adres":"Manitobalaan 48"
+,"Stad":"Sint-Andries"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1972403253111,51.1966460835652]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Babyhuisje aan de waterkant"
+,"Adres":"Maria Van Bourgondielaan 6"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21048980018835,51.2119159239433]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blondeel Lutgardis"
+,"Adres":"Meiboomlaan 11"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18060922052557,51.207947094327]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Hermelijn"
+,"Adres":"Molenwiekstraat-West 30"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17725847614848,51.1856387772628]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Mini-Palet"
+,"Adres":"Nieuwstraat 6"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22447490634052,51.2056007270417]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanhee Katrien"
+,"Adres":"Noordveldstraat 21"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19824059150854,51.2033889759686]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Lagauw Christine"
+,"Adres":"Oorlogsvrijwilligerslaan 24"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17530567588115,51.1840522794155]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Broeckaert Marleen"
+,"Adres":"Oostmeers 11"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22093957128493,51.2036068443044]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Lysebetten Ilse"
+,"Adres":"Oude Hoogweg 70"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25745136430086,51.2147594914153]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Ranson Jeaninne"
+,"Adres":"Pannebekestraat 61"
+,"Stad":"Brugge"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23385374557952,51.226837718846]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Meskens Anje"
+,"Adres":"Pastoriestraat 109"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17701158196078,51.2015232329753]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Verbauwhede Carine"
+,"Adres":"Pastoriestraat 138 bus 2"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17835321074226,51.201789379706]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Descamps Angeline"
+,"Adres":"Pastoriestraat 152"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17699078365048,51.2023377061406]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Marque Virginie"
+,"Adres":"Patentestraat 63"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1866575990485,51.2827044535947]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Sieze"
+,"Adres":"Pieter De Conincklaan 56"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20679485592501,51.207963910645]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanhollebeke Wendy"
+,"Adres":"Ploegstraat 30"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20942838767976,51.3300049608096]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Floréal Linda"
+,"Adres":"Prins Karellaan 36"
+,"Stad":"Assebroek"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25118023007664,51.2002600340079]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderdagverblijf Beukenfee"
+,"Adres":"Prins Leopoldstraat 42"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24913942524933,51.2117480756069]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Kikker 3"
+,"Adres":"Rademakerstraat 20"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19176811961723,51.299037936744]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bonnaerens Hilde"
+,"Adres":"Rapaertstraat 20B"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23728267729145,51.18560625399]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Meyer Marie-Anne"
+,"Adres":"Reigersnesten 9"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25046198242222,51.2323925578936]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vande Walle Priska"
+,"Adres":"Rietlaan 80"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21771159558908,51.1736803090832]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Peutertuin Oogappel"
+,"Adres":"Rijselstraat 69"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21162511751801,51.1880082013258]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Blauwe Lelie"
+,"Adres":"Ruddershove 5"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19172170375129,51.2240052318345]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"kinderdagverblijf Knuffel"
+,"Adres":"Ruddershove 5 bus A"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19172170375129,51.2240052318345]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Debruyne Lobke"
+,"Adres":"Sint-Lenardsstraat 58"
+,"Stad":"Dudzele"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22865361871206,51.2739996651395]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Hobbelpaard"
+,"Adres":"Spoorwegstraat 250"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22244440685763,51.1823702886623]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Torre Andrea en Barbier Etienne"
+,"Adres":"Stationsstraat 21"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19561135967493,51.29440485439]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Roon Agnetha"
+,"Adres":"'T Speelhof 6"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20744248958731,51.19224455176]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Marque Virginie"
+,"Adres":"Tapuitstraat 10"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18790019949217,51.2949180948214]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Degrande Marie Christine"
+,"Adres":"Ter Lo 85"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27151263514577,51.2014343056348]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Roels Joan"
+,"Adres":"Tijl Uilenspiegelstraat 22"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23245974741716,51.2295128492561]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De bezige bijtjes"
+,"Adres":"Tijl Uilenspiegelstraat 34"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23241684053719,51.22983459468]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Wallaert Berlinda"
+,"Adres":"Tijl Uilenspiegelstraat 5"
+,"Stad":"Brugge"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23168558857547,51.2284103080395]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bachviooltje"
+,"Adres":"Titecastraat 19"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20349062893363,51.1944469082218]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Het Baby Bengeltje"
+,"Adres":"Torhoutse Steenweg 358"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19268071795049,51.1887483399416]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Nieuwenhuyse Dominique"
+,"Adres":"Torhoutse Steenweg 453"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19352528962443,51.1888227947465]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Poppenkast"
+,"Adres":"Torhoutse Steenweg 9"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20846676877648,51.2032707324828]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Aucoin Oline"
+,"Adres":"Van Leeg Tot Zand 21"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20002322254333,51.2035097462868]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Clerck Lisa"
+,"Adres":"Van Steenestraat 23"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.241121017628,51.2003742873979]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vervisch Regine"
+,"Adres":"Vier Uitersten 19"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20365462325948,51.2070882092627]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"t Vlindertje"
+,"Adres":"Vijversdreef 10"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28063757066154,51.2113328299101]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Casteleyn Kim"
+,"Adres":"Vossensteert 7"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25545089381628,51.2023248253192]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bootje"
+,"Adres":"Vrijheidsstraat 12"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23479856640378,51.1983727473636]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kiekeboe"
+,"Adres":"Vrijheidsstraat 2"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23510199295802,51.198714042029]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Debruyne Pascale"
+,"Adres":"Vrijheidsstraat 46"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23427945184419,51.1975716353355]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Vanhove Magda"
+,"Adres":"Vrijheidsstraat 49"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23446583843849,51.1972640095037]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Sprankelnest"
+,"Adres":"Wagenbruggelaan 18 bus A"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21513162466439,51.1779707770092]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Van Houcke Anneke"
+,"Adres":"Wijnenburgstraat 75"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20344335732005,51.2206458790323]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Verstraete Marijke"
+,"Adres":"Wittemolenstraat 42"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20608072216313,51.1855352477353]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Brandt Nancy en Debaenst Werner"
+,"Adres":"Zandstraat 133"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19825554670589,51.2024249522627]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bolleke Beer"
+,"Adres":"Zandstraat 71"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20122766541329,51.2026304811283]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Pharasyn Dominique en Bigler Jacky"
+,"Adres":"Zandwege 32"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19537480501182,51.227859933125]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Spriet Heidi en De Crop Robby"
+,"Adres":"Zandwege 38"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19493022972904,51.2278508878637]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Clercq Pascale"
+,"Adres":"Zeebruggelaan 100"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19160853659626,51.2988428291111]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Groote Heidi"
+,"Adres":"Zeebruggelaan 7"
+,"Stad":"Lissewege"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19158890469804,51.2925259126923]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Z8 dromen XL"
+,"Adres":"Zilverstraat 26"
+,"Stad":"Brugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22086684866505,51.2070884936592]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Bilaey Nancy"
+,"Adres":"Zuiderakker 9"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26255793115965,51.2024146977038]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Peuterhaven"
+,"Adres":"Zustersstraat 11"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2088494027079,51.3302287408387]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blydhove BamBam"
+,"Adres":"Astridlaan 88"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.250388113969,51.1982152878206]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Blydhove Piraat"
+,"Adres":"Blekerijstraat 25"
+,"Stad":"Assebroek"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23944012485526,51.2028347104977]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Rinkelbel"
+,"Adres":"Prins Leopoldstraat 42"
+,"Stad":"Sint-Kruis"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24913942524933,51.2117480756069]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Sprankelpoort"
+,"Adres":"Spoorwegstraat 250"
+,"Stad":"Sint-Michiels"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22244440685763,51.1823702886623]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Paideia vzw"
+,"Adres":"Molenwiekstraat-West 30"
+,"Stad":"Sint-Andries"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17725847614848,51.1856387772628]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Moesje"
+,"Adres":"Zustersstraat 11"
+,"Stad":"Zeebrugge"
+,"Tarief":"Inkomenstarief"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2088494027079,51.3302287408387]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Dedullen Anne-Mie"
+,"Adres":"Aanborgersstraat 4"
+,"Stad":"Assebroek"
+,"Tarief":"Vrije prijs"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27347664691765,51.1910785296422]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"'t Ravotterke"
+,"Adres":"Dries 2"
+,"Stad":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24800666311843,51.1935399510971]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kiekeboe Speelhuis"
+,"Adres":"Evert Van 't Padstraat 27"
+,"Stad":"Assebroek"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23900867015539,51.201150255672]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Pietje Pek vzw"
+,"Adres":"Peterseliestraat 23"
+,"Stad":"Brugge"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23534241454965,51.2166136129785]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kakelbont - Paideia"
+,"Adres":"Koude Keukenstraat 8B"
+,"Stad":"Sint-Andries"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18336049135824,51.1984836087875]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Paddestoel"
+,"Adres":"Sint-Arnolduslaan 26"
+,"Stad":"Sint-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22068465100876,51.1819499246581]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kakelbont - Paideia"
+,"Adres":"Oudekerkstraat 23A"
+,"Stad":"Sint-Michiels"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20979276108962,51.190358968276]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderwerking Sint-Jozef"
+,"Adres":"Gandiplein 25"
+,"Stad":"Sint-Jozef"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23363112795892,51.2303735219706]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Lissewege De Zocjes"
+,"Adres":"Stationsstraat 25"
+,"Stad":"Lissewege"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19532765329144,51.2940010938443]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Kinderwerking De Zocjes"
+,"Adres":"Evendijk-Oost 246"
+,"Stad":"Zeebrugge"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21341899925018,51.3301215477178]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"De Plonsjes"
+,"Adres":"Heiststraat 134"
+,"Stad":"Zeebrugge"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21007442744315,51.3322883112551]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Mariawende - 't Speelhuis"
+,"Adres":"Boogschutterslaan 25"
+,"Stad":"Sint-Kruis"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24972703624073,51.2153263497162]}
+}
+,{
+"json_featuretype":"Kinderopvang"
+,"Naam":"Mariawende Minihuis Male"
+,"Adres":"Raadsherenlaan 42"
+,"Stad":"Sint-Kruis"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27726786351226,51.2161781665112]}
+}
+]
